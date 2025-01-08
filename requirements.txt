@@ -1,0 +1,5 @@
+flask
+tensorflow
+openai
+pandas
+flask-sqlalchemy
