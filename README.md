@@ -21,6 +21,9 @@ A clean and user-friendly web interface allows for easy interaction and navigati
 
 ## Technologies Used
 Flask: Backend framework for handling user interactions and managing database operations.
+
 OpenAI API: Generates personalized feedback using GPT-4o.
+
 SQLite: Tracks swing logs for users to monitor their progress.
+
 HTML/CSS: Provides a clean and responsive user interface.
