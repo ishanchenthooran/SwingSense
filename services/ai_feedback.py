@@ -12,7 +12,7 @@ def generate_feedback(swing_issue):
         model="gpt-4o",  
         messages=[
             {"role": "system", "content": "You are a helpful golf swing coach."},
-            {"role": "user", "content": f"Provide actionable golf swing advice for the issue: {swing_issue}"}
+            {"role": "user", "content": f"Provide actionable golf swing advice for the following issue: {swing_issue}"}
         ],
         max_tokens=150,
         temperature=0.7
