@@ -8,9 +8,7 @@ api_key = os.getenv("OPENAI_API_KEY")
 openai.api_key = api_key
 
 def generate_feedback(swing_issue):
-    # Using the ChatCompletion endpoint
     response = openai.ChatCompletion.create(
-        # Using gpt-4o model
         model="gpt-4o",  
         messages=[
             {"role": "system", "content": "You are a helpful golf swing coach."},
