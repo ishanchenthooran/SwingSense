@@ -5,7 +5,7 @@ Golf has been a part of my life since I was five years old, and over the years, 
 
 Since starting university, it hasn’t been as easy to get rounds in and stay on the course as much as I’d like. I wanted a way to stay connected to the game while continuing to improve. Without professional lessons, self-learning can be frustrating—finding actionable feedback isn’t always easy.  
 
-This inspired me to create **SwingSense**—an AI-powered coaching platform built not just for myself, but for golfers of all skill levels, to provide personalized feedback, training plans, and resources that make improvement more accessible and effective.  
+This inspired me to create **SwingSense**:an AI-powered coaching platform built not just for myself, but for golfers of all skill levels, to provide personalized feedback, training plans, and resources that make improvement more accessible and effective.  
 
 ---
 
