@@ -1,7 +1,9 @@
 # SwingSense 🏌️‍♂️🏌️‍♀️  
 ---
 ## Visuals
-![App Preview](./screenshots/SS-home.png) 
+![App Preview](./screenshots/SS-home.png)
+![App Preview](./screenshots/SS-logs.png) 
+![App Preview](./screenshots/SS-plans.png) 
 
 ---
 ## Inspiration  
