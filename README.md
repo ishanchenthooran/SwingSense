@@ -2,6 +2,7 @@
 ---
 ## Visuals
 ![App Preview](./screenshots/ss-home.png) 
+
 ---
 ## Inspiration  
 Golf has been a part of my life since I was five years old, and over the years, I’ve progressed from a beginner to becoming a competitive player. Along the way, I’ve faced challenges at every stage of the game, from struggling to hit consistent shots to refining advanced techniques.  
