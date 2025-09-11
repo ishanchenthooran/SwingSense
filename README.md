@@ -1,4 +1,4 @@
-# SwingSense 🏌️‍♂️🏌️‍♀️  
+# SwingSense 🏌️‍♂️
 ---
 ## Visuals
 ![App Preview](./screenshots/SS-home.png)
