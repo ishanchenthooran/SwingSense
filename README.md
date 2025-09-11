@@ -1,9 +1,11 @@
 # SwingSense 🏌️‍♂️🏌️‍♀️  
 
 ## Inspiration  
-Golf has been a part of my life since I was five years old, and over the years, I’ve progressed from a beginner to holding an 8 handicap today. Along the way, I’ve faced challenges at every stage of the game, from struggling to hit consistent shots to refining advanced techniques. Even now, I’m constantly working to improve my game. Without professional lessons, self-learning can be frustrating—finding actionable feedback isn’t always easy.  
+Golf has been a part of my life since I was five years old, and over the years, I’ve progressed from a beginner to becoming a competitive player. Along the way, I’ve faced challenges at every stage of the game, from struggling to hit consistent shots to refining advanced techniques.  
 
-This inspired me to create **SwingSense**—an AI-powered coaching platform designed to provide golfers of all skill levels with personalized feedback, training plans, and resources to make self-learning more effective and accessible.  
+Since starting university, it hasn’t been as easy to get rounds in and stay on the course as much as I’d like. I wanted a way to stay connected to the game while continuing to improve. Without professional lessons, self-learning can be frustrating—finding actionable feedback isn’t always easy.  
+
+This inspired me to create **SwingSense**—an AI-powered coaching platform built not just for myself, but for golfers of all skill levels, to provide personalized feedback, training plans, and resources that make improvement more accessible and effective.  
 
 ---
 
