@@ -1,6 +1,9 @@
 # Local planning docs (untracked)
 DEV_ROADMAP.md
 
+# Windows metadata files
+*:Zone.Identifier
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
