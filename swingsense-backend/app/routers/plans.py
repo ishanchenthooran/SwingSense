@@ -4,10 +4,10 @@ from app.db.session import get_db
 from app.db.models import TrainingPlan
 from pydantic import BaseModel, Field
 from openai import OpenAI
-import os
+
+from app.core.config import settings
 
 router = APIRouter()
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 class PlanInput(BaseModel):
     years_played: int = Field(..., ge=0, le=80)
@@ -36,6 +36,7 @@ def generate_plan(body: PlanInput, db: Session = Depends(get_db)):
         goals=body.goals,
     )
     try:
+        client = OpenAI(api_key=settings.OPENAI_API_KEY)
         resp = client.chat.completions.create(
             model="gpt-4o-mini",
             temperature=0.7,

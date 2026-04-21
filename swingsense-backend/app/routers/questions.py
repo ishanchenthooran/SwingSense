@@ -1,6 +1,5 @@
 from typing import List
 from datetime import datetime
-import os
 
 from fastapi import APIRouter, Depends, HTTPException, status
 from pydantic import BaseModel, Field
@@ -13,8 +12,11 @@ from app.db.models import SwingQuestion, SwingFeedback
 # NEW: OpenAI client
 from openai import OpenAI
 
+from app.core.config import settings
+from app.rag.retrieve import retrieve
+from app.rag.prompt import build_prompt
+
 router = APIRouter()
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # ---------- Pydantic Schemas ----------
 
@@ -29,36 +31,29 @@ class QuestionOut(BaseModel):
 class FeedbackOut(BaseModel):
     id: str
     feedback: str
+    sources: list[str] = []
     created_at: datetime
 
 # ---------- Helpers ----------
-
-SYSTEM_PROMPT = (
-    "You are SwingSense, a helpful golf coach. Provide concise, actionable advice "
-    "tailored to the user’s specific swing issue. Use 3–6 numbered bullets, at most "
-    "one drill, avoid generic boilerplate, and keep it under 120 words."
-)
 
 def _q_to_out(row: SwingQuestion) -> QuestionOut:
     return QuestionOut(id=str(row.id), question=row.question, created_at=row.created_at)
 
 def _f_to_out(row: SwingFeedback) -> FeedbackOut:
-    return FeedbackOut(id=str(row.id), feedback=row.feedback, created_at=row.created_at)
+    return FeedbackOut(id=str(row.id), feedback=row.feedback, sources=row.sources or [], created_at=row.created_at)
 
-def generate_feedback(question_text: str) -> str:
-    """Call OpenAI and return concise coaching feedback."""
+def generate_feedback(question_text: str) -> tuple[str, list[str]]:
     try:
+        chunks = retrieve(question_text, k=5)
+        messages, sources = build_prompt(question_text, chunks)
+        client = OpenAI(api_key=settings.OPENAI_API_KEY)
         resp = client.chat.completions.create(
             model="gpt-4o-mini",
-            temperature=0.7,
-            messages=[
-                {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": question_text},
-            ],
+            temperature=0.4,
+            messages=messages,
         )
-        return resp.choices[0].message.content.strip()
+        return resp.choices[0].message.content.strip(), sources
     except Exception as e:
-        # Surface a real error so we don't quietly insert canned text
         raise HTTPException(status_code=502, detail=f"LLM error: {e}")
 
 # ---------- Routes (match OpenAPI docs) ----------
@@ -82,14 +77,14 @@ def create_question(body: AskBody, db: Session = Depends(get_db)):
     db.flush()  # get q.id before commit
 
     # 2) generate real feedback
-    feedback_text = generate_feedback(body.question)
+    feedback_text, sources = generate_feedback(body.question)
 
     # 3) save feedback linked to question
-    fb = SwingFeedback(question_id=q.id, feedback=feedback_text)
+    fb = SwingFeedback(question_id=q.id, feedback=feedback_text, sources=sources)
     db.add(fb)
     db.commit()
 
-    return {"id": str(q.id)}
+    return {"id": str(q.id), "sources": sources}
 
 @router.get("/feedback/", response_model=List[FeedbackOut])
 def list_feedback(db: Session = Depends(get_db)):

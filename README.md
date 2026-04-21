@@ -16,8 +16,8 @@ This inspired me to create **SwingSense**:an AI-powered coaching platform built 
 ---
 
 ## What It Does  
-**SwingSense** is an AI-powered golf coaching application that combines data-driven insights with personalized feedback. The platform allows golfers to:  
-- Ask swing-related questions and receive instant, tailored advice from an AI golf coach.  
+**SwingSense** is an AI-powered golf coaching application that combines retrieval-augmented generation (RAG) with personalized feedback. Answers are grounded in a curated golf knowledge corpus — not generated from open-domain model knowledge — making responses more accurate and defensible. The platform allows golfers to:  
+- Ask swing-related questions and receive instant, grounded advice cited from golf instruction material.  
 - Generate custom 4-week training plans based on handicap, experience, and goals.  
 - Access AI-curated resources including drills, videos, and articles targeted to swing issues.  
 - Track progress and review improvement over time through a secure user dashboard.  
@@ -25,7 +25,7 @@ This inspired me to create **SwingSense**:an AI-powered coaching platform built 
 ---
 
 ## Core Features  
-- **AI-Powered Q&A** – Personalized advice powered by GPT-4.  
+- **RAG-Powered Q&A** – Answers grounded in a curated golf corpus via FAISS vector retrieval + GPT-4o-mini.  
 - **Training Plan Generation** – Custom 4-week plans tailored to skill level and goals.  
 - **Curated Resources** – Drills, videos, and articles matched to swing challenges.  
 - **Progress Tracking** – Review Q&A history and training logs over time.  
@@ -47,7 +47,10 @@ This inspired me to create **SwingSense**:an AI-powered coaching platform built 
 - **FastAPI (Python)**  
 - **PostgreSQL** with **SQLAlchemy ORM**  
 - **Alembic** for migrations  
-- **OpenAI GPT-4** integration  
+- **OpenAI GPT-4o-mini** for response generation  
+- **OpenAI text-embedding-3-small** for document and query embeddings  
+- **FAISS (IndexFlatIP)** for cosine similarity vector search  
+- **RAG pipeline** — PDF preprocessing → chunking → embedding → FAISS index → retrieval → grounded response  
 - **Supabase JWT authentication**  
 - **Pydantic** for validation  
 

@@ -4,10 +4,11 @@ from app.db.session import get_db
 from app.core.auth import get_current_user
 from typing import Dict, Any, Optional, List
 from openai import OpenAI
-import os, json
+import json
+
+from app.core.config import settings
 
 router = APIRouter()
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 @router.get("/")
 async def get_resources(
@@ -45,6 +46,7 @@ async def get_resources(
         ]
         """
 
+        client = OpenAI(api_key=settings.OPENAI_API_KEY)
         resp = client.chat.completions.create(
             model="gpt-4o-mini",
             temperature=0.2,  # lower temp for structured output

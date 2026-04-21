@@ -43,6 +43,7 @@ class SwingFeedback(Base):
         UUID(as_uuid=True), ForeignKey("swing_questions.id", ondelete="CASCADE")
     )
     feedback: Mapped[str] = mapped_column(Text, nullable=False)
+    sources: Mapped[list | None] = mapped_column(JSONB, nullable=True)
     created_at: Mapped[datetime] = mapped_column(
         TIMESTAMP(timezone=True), server_default=func.now()
     )
