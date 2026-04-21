@@ -18,7 +18,7 @@ EMBED_MODEL = "text-embedding-3-small"
 DEFAULT_CHUNK_SIZE = 800
 DEFAULT_CHUNK_OVERLAP = 150
 DEFAULT_K = 3
-CORPUS_DIR = Path("app/rag/corpus")
+CORPUS_DIR = Path(__file__).parent / "corpus"
 
 
 @dataclass(frozen=True)

@@ -8,8 +8,8 @@ from typing import Iterable, List, Tuple
 from pypdf import PdfReader
 
 
-RAW_ROOT = Path("app/rag/corpus/raw")
-PROCESSED_ROOT = Path("app/rag/corpus/processed")
+RAW_ROOT = Path(__file__).parent / "corpus" / "raw"
+PROCESSED_ROOT = Path(__file__).parent / "corpus" / "processed"
 SUBSET_CHOICES = {"user", "internal", "all"}
 
 

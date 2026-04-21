@@ -9,7 +9,7 @@ import faiss
 from app.rag.schemas import Chunk
 
 
-DEFAULT_INDEX_DIR = Path("app/rag/index")
+DEFAULT_INDEX_DIR = Path(__file__).parent / "index"
 
 
 def _ensure_dir(index_dir: Path) -> None:
