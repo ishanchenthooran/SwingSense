@@ -1,12 +1,7 @@
 'use client'
 
 import React, { createContext, useContext, useState, useEffect } from 'react';
-import { createClient } from '@supabase/supabase-js';
-
-const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL || 'https://your-project.supabase.co';
-const supabaseKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || 'your-anon-key';
-
-const supabase = createClient(supabaseUrl, supabaseKey);
+import { supabase } from '@/utils/supabase';
 
 const AuthContext = createContext();
 
