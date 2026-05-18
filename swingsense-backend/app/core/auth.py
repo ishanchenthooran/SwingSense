@@ -1,10 +1,10 @@
 from fastapi import HTTPException, Depends, status
 from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
-from typing import Dict, Any
+from typing import Dict, Any, Optional
 import jwt
-import json
 
 security = HTTPBearer()
+optional_security = HTTPBearer(auto_error=False)
 
 def get_current_user(credentials: HTTPAuthorizationCredentials = Depends(security)) -> Dict[str, Any]:
     """
@@ -43,3 +43,22 @@ def get_current_user(credentials: HTTPAuthorizationCredentials = Depends(securit
             status_code=status.HTTP_401_UNAUTHORIZED,
             detail=f"Authentication failed: {str(e)}"
         )
+
+
+def get_optional_user(
+    credentials: Optional[HTTPAuthorizationCredentials] = Depends(optional_security),
+) -> Optional[Dict[str, Any]]:
+    """
+    Like get_current_user but returns None instead of 401 when no token is provided.
+    Used for endpoints that are public but personalise when authenticated.
+    """
+    if not credentials:
+        return None
+    try:
+        decoded = jwt.decode(credentials.credentials, options={"verify_signature": False})
+        user_id = decoded.get("sub")
+        if not user_id:
+            return None
+        return {"user_id": user_id, "email": decoded.get("email")}
+    except Exception:
+        return None

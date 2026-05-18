@@ -10,7 +10,7 @@ from openai import OpenAI
 
 from app.core.config import settings
 from app.rag.schemas import Chunk, RetrievedChunk
-from app.rag.store import load_index_and_metadata
+from app.rag.store import load_index
 
 
 EMBED_MODEL = "text-embedding-3-small"
@@ -40,7 +40,7 @@ def retrieve(query: str, k: int = 5) -> List[RetrievedChunk]:
         return []
 
     try:
-        index, chunks = load_index_and_metadata()
+        index, chunks = load_index()
     except FileNotFoundError as exc:
         raise FileNotFoundError(
             "Missing index artifacts. Run `python -m app.rag.ingest` first."

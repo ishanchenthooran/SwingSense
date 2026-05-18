@@ -1,11 +1,15 @@
+from typing import Optional, Dict, Any
+
 from fastapi import APIRouter, Depends, HTTPException, status
+from pydantic import BaseModel, Field
+from sqlalchemy import select
 from sqlalchemy.orm import Session
+
 from app.db.session import get_db
 from app.db.models import TrainingPlan
-from pydantic import BaseModel, Field
-from openai import OpenAI
-
 from app.core.config import settings
+from app.core.auth import get_optional_user
+from openai import OpenAI
 
 router = APIRouter()
 
@@ -26,8 +30,13 @@ PLAN_PROMPT_TEMPLATE = (
     "Give weekly focus, drills, and tips. Use concise bullet points."
 )
 
+
 @router.post("/generate", status_code=status.HTTP_201_CREATED)
-def generate_plan(body: PlanInput, db: Session = Depends(get_db)):
+def generate_plan(
+    body: PlanInput,
+    db: Session = Depends(get_db),
+    current_user: Optional[Dict[str, Any]] = Depends(get_optional_user),
+):
     prompt = PLAN_PROMPT_TEMPLATE.format(
         years_played=body.years_played,
         handicap=body.handicap,
@@ -49,8 +58,10 @@ def generate_plan(body: PlanInput, db: Session = Depends(get_db)):
     except Exception as e:
         raise HTTPException(status_code=502, detail=f"LLM error: {e}")
 
+    user_id = current_user["user_id"] if current_user else None
     plan = TrainingPlan(
         plan=plan_text,
+        user_id=user_id,
         years_played=body.years_played,
         handicap=body.handicap,
         strengths=body.strengths,
@@ -62,9 +73,18 @@ def generate_plan(body: PlanInput, db: Session = Depends(get_db)):
     db.refresh(plan)
     return {"plan": plan.plan, "id": str(plan.id)}
 
+
 @router.get("/current")
-def get_current_plan(db: Session = Depends(get_db)):
-    plan = db.query(TrainingPlan).order_by(TrainingPlan.created_at.desc()).first()
+def get_current_plan(
+    db: Session = Depends(get_db),
+    current_user: Optional[Dict[str, Any]] = Depends(get_optional_user),
+):
+    stmt = select(TrainingPlan)
+    if current_user:
+        stmt = stmt.where(TrainingPlan.user_id == current_user["user_id"])
+    stmt = stmt.order_by(TrainingPlan.created_at.desc()).limit(1)
+    plan = db.execute(stmt).scalars().first()
+
     if not plan:
         return {"plan": None}
     return {

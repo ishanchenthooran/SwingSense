@@ -54,8 +54,3 @@ def load_index(index_dir: Path = DEFAULT_INDEX_DIR) -> Tuple[faiss.Index, List[C
     return index, chunks
 
 
-def load_index_and_metadata(index_dir: Path = DEFAULT_INDEX_DIR) -> Tuple[faiss.Index, List[Chunk]]:
-    """
-    Backwards-compatible alias for loading FAISS index + chunk metadata.
-    """
-    return load_index(index_dir=index_dir)
