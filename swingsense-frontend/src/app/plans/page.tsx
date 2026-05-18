@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect } from 'react';
 import { plansAPI } from '@/services/api';
-import { Target, Calendar, Trophy, TrendingUp, Star, Clock, CheckCircle } from 'lucide-react';
+import { Target, Calendar, Trophy, TrendingUp, Star, Clock, CheckCircle, Loader } from 'lucide-react';
 import ProtectedRoute from '@/components/ProtectedRoute';
 
 interface PlanData {
@@ -25,6 +25,7 @@ interface CurrentPlan {
 
 export default function Plans() {
   const [currentPlan, setCurrentPlan] = useState<CurrentPlan | null>(null);
+  const [initialLoading, setInitialLoading] = useState(true);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
   const [showForm, setShowForm] = useState(false);
@@ -48,6 +49,8 @@ export default function Plans() {
       }
     } catch (err) {
       console.error('Error loading current plan:', err);
+    } finally {
+      setInitialLoading(false);
     }
   };
 
@@ -115,7 +118,12 @@ export default function Plans() {
           </div>
         )}
 
-        {!currentPlan ? (
+        {initialLoading ? (
+          <div className="card flex items-center justify-center py-12">
+            <Loader className="w-6 h-6 animate-spin text-golf-600 mr-3" />
+            <span className="text-gray-600">Loading your training plan...</span>
+          </div>
+        ) : !currentPlan ? (
           <div className="card text-center py-12">
             <Target className="w-16 h-16 text-gray-400 mx-auto mb-4" />
             <h2 className="text-2xl font-semibold text-gray-900 mb-2">No Training Plan Yet</h2>
