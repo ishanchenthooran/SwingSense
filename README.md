@@ -56,13 +56,6 @@ This inspired me to create **SwingSense**:an AI-powered coaching platform built 
 
 ---
 
-## Deployment  
-- **Frontend**: Vercel (Next.js optimized)  
-- **Backend**: Render or similar cloud platform  
-- **Database**: Cloud-hosted PostgreSQL (e.g., Supabase, NeonDB, RDS)  
-
----
-
 ## Future Enhancements  
 - **Computer Vision Swing Analysis** – Use OpenCV + MediaPipe to analyze swings and compare against professional benchmarks.  
 - **Social Features** – Enable golfers to connect, share progress, and learn from each other.  
