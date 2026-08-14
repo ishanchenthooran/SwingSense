@@ -23,7 +23,10 @@ This inspired me to create **SwingSense**:an AI-powered coaching platform built 
 - Track progress and review improvement over time through a secure user dashboard.  
 
 ---
+## Architecture
+<img width="490" height="215" alt="image" src="https://github.com/user-attachments/assets/2e5fa891-cbbd-458b-b442-ac42bc325b36" />
 
+---
 ## Core Features  
 - **RAG-Powered Q&A** – Answers grounded in a curated golf corpus via FAISS vector retrieval + GPT-4o-mini.  
 - **Training Plan Generation** – Custom 4-week plans tailored to skill level and goals.  
