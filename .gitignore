@@ -211,4 +211,5 @@ next-env.d.ts
 
 # OS
 .DS_Store
-Thumbs.db/node_modules/.claude/
+Thumbs.db
+.claude/
