@@ -54,3 +54,6 @@ def load_index(index_dir: Path = DEFAULT_INDEX_DIR) -> Tuple[faiss.Index, List[C
     return index, chunks
 
 
+load_index_and_metadata = load_index
+
+

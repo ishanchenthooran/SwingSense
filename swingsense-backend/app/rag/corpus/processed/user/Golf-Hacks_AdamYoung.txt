@@ -1,151 +1,881 @@
-  
+This book is designed to provide information that the author deems accurate on the subject matter at the
+time of writing. It is sold with the understanding that the author is offering no specific individualized advice,
+and holds no responsibility or liability for information implemented.
+No warranty is made with the accuracy of the information contained within this book, nor the completeness.
+The author accepts no liability for loss, personal or otherwise, incurred as a consequence of the use and
+application of the information contained within this book. All information should be read and considered
+before implementation, and consultation with a qualified teaching professional should be sought to find its
+relevance pertaining to your own situation.
+Copyright © 2015 by Adam Young
+This book is Copyright
+No reproduction without permission
+All rights reserved
+The right of Adam Young to be identified as the author of this work
+www.Adamyounggolf.com
+The author has made all reasonable efforts to contact copyright holders for permission, and apologizes for
+any omissions or errors in the form of credit given. Corrections may be made for future publications.
+2
 
-www.AdamYoungGolf.com 
-2    This book is designed to provide information that the author deems accurate on the subject matter at the time of writing. It is sold with the understanding that the author is offering no specific individualized advice, and holds no responsibility or liability for information implemented. No warranty is made with the accuracy of the information contained within this book, nor the completeness. The author accepts no liability for loss, personal or otherwise, incurred as a consequence of the use and application of the information contained within this book. All information should be read and considered before implementation, and consultation with a qualified teaching professional should be sought to find its relevance pertaining to your own situation.  Copyright  © 2015 by Adam Young This book is Copyright No reproduction without permission All rights reserved The right of Adam Young to be identified as the author of this work www.Adamyounggolf.com  The author has made all reasonable efforts to contact copyright holders for permission, and apologizes for any omissions or errors in the form of credit given. Corrections may be made for future publications.    
-www.AdamYoungGolf.com 
-3   Contents	  Intro ................................................................................................................................................. 6 Tip # 1 Ground Strike ..................................................................................................................... 9 You are NOT doing this ............................................................................................................ 10 How to practice it ...................................................................................................................... 11 Tip # 2 Sweet spot strike ............................................................................................................... 13 How do I know if I am doing it? ............................................................................................... 14 Tip # 3 Face controls direction ..................................................................................................... 16 More complicated, yet also simpler. ......................................................................................... 17 Myths and misconceptions ........................................................................................................ 19 Tip # 4 - Distance .......................................................................................................................... 20 The myth ................................................................................................................................... 20 Ready to Launch ....................................................................................................................... 21 Zones of hotness ....................................................................................................................... 22 How to do it .............................................................................................................................. 23 Another option .......................................................................................................................... 25 Small warning ........................................................................................................................... 25 Tip # 5 Random Practice ............................................................................................................... 26 Enter Randomness .................................................................................................................... 27 One catch .................................................................................................................................. 27 Tip # 6 Practice with a Goal ......................................................................................................... 28 Smart Goals ............................................................................................................................... 28 Tip # 7 Variability ......................................................................................................................... 30 Striking the face ........................................................................................................................ 31 
-www.AdamYoungGolf.com 
-4   Striking the ground ................................................................................................................... 32 Variation # 1 ............................................................................................................................. 32 Variation # 2 ............................................................................................................................. 32 Clubface control ........................................................................................................................ 33 Tip # 8 Routine ............................................................................................................................. 35 And what about you? ................................................................................................................ 36 Make your routine as consistent as possible ............................................................................. 36 Tip # 9 Visualization ..................................................................................................................... 37 Neurons and stuff ...................................................................................................................... 37 So, what should we do? ............................................................................................................ 38 Tip # 10 Eat Enough ..................................................................................................................... 40 Banana’s don’t cut it ................................................................................................................. 40 Enter nuts .................................................................................................................................. 40 Steady goes it ............................................................................................................................ 41 Tip # 11 Drink enough .................................................................................................................. 41 Tip # 12 Fats, Protein or Carbs ..................................................................................................... 42 Tip # 13 Hit the Back .................................................................................................................... 43 How far do you hit your club? .................................................................................................. 43 Shoot for the stars, and you will at least reach the moon ......................................................... 44 The study ................................................................................................................................... 45 Wait, that’s not a lot! ................................................................................................................ 45 Better players ............................................................................................................................ 45 Tip # 14 Aim to the safe side ........................................................................................................ 46 Change of strategy .................................................................................................................... 47 Tip # 15 Putt to a coin ................................................................................................................... 49 
-www.AdamYoungGolf.com 
-5   Make things more difficult ........................................................................................................ 50 Not only that, but it changes you mentally ............................................................................... 51 Tip # 16 High or low? ................................................................................................................... 51 Self analysis is the key to improvement ................................................................................... 51 AUTHOR BIOGRAPHY ............................................................................................................. 55     
-www.AdamYoungGolf.com 
-6   PLAY YOUR BEST GOLF EVER!  Intro Remember that day when everything felt so easy? The swing felt like it had the power of Tiger Woods with the rhythm of Ernie Els. Every shot seemed to fizz off the clubface, the ball honing in on the target like a heat seeking missile. Every putt we looked at, the hole seemed like a bucket, and we knew we were going to hole it before we even pulled the trigger. We stood over the ball on the tee, and all we saw was the middle of the fairway – our minds didn’t even register that there was any danger there.  And we did it all without thinking.  Welcome to your best golf ever. In this book, I am going to give you some amazing tips that will help you get into the above state more often. The tips (or ‘Hacks’) in this E-book will guarantee to get your handicap down and make you a better player than ever before. And they are so simple and easy to implement, you can get started with most of them right away. Most instruction advice focuses only on the technical. And even then, most of that advice focuses on the swing style of a player. Yet, on tour, we see so many different styles working well – there is clearly no one perfect way to swing a club. This book will give you some of the traits common to all great players, so you can see what really matters. 
-www.AdamYoungGolf.com 
-7   And rather than just hit one area (technique), this short book is going to give you advice in many different areas. Just like many small streams make a great river, by improving your game in many different areas, we can start a flow of improvements leading to a flood of success. For that reason, this book offers you advice in the •  Techniques (the ones that matter the most)  •  How to train more effectively  •  How to think more effectively  •  How to strategize better, and also  •  How to eat better for performance  Most people only ever work on their technique, and usually they work on it in the wrong way, and also on the wrong things. There are so many myths out there, and a lot of the golf books on the market are filled with outdated information which we are now finding (through scientific advancements and data collection) was wrong all along.  Not only will this book show you some of the correct things you need to start applying, but we will hit many different areas of your game. If you improve by just half a shot from each tip, that’s 8 shots off your score!  While that is a bold claim (and it depends upon how many of these things you are already applying), it is not beyond the realms of possibility. I have even had players drop more shots off their game in a year just by applying this advice. So, without further ado – let’s get started.  
-www.AdamYoungGolf.com 
-8     TECHNICAL TIPS Technique is vital if you are to play great golf. But, as I have stated, all players swing the club differently. Some have bent left arms at the top, some have bent left arms at impact. Two of the greatest players to have played the game (Annika Sorenstam and David Duval) both had their heads looking up at the target before they struck the ball. Some players swing steep like Nicklaus and Furyk, some swing shallow like Jiminez and Kuchar.  Some players have weaker grips like Hogan, and Spieth. Some have strong ones like Dustin Johnson. Modern players keep their feet on the ground in the backswing, while classic players used to lift the left heel as they were lifting the winner’s trophy. Some players, like one of the best drivers in the world – Bubba Watson – are completely airborne at impact. So, what really matters in technique? Well, while these players all have some swing style fundamentals which matter and are common to the majority, only some techniques are truly fundamental. These are 1.  Striking the ground in the right place 2.  Striking the sweet spot 3.  Controlling their clubface So, let’s have a look at them.   
-www.AdamYoungGolf.com 
-9   Tip # 1 Ground Strike All great players strike the ground with their irons, and they all first contact the ground in the same place.  Elite players make ‘first contact’ with the ground from where the ball is resting, and up to 2 inches in front of the ball. So there is a window of success for your club to strike the ground.  
- A professional will first contact the ground in the red area This means that they make a divot after the ball, not before it. It also means that the club is travelling downwards at the point of contact, giving a nice crisp and clean strike with maximum distance. This is true even with a wood or hybrid from the ground – the club may come in a little shallower due to the longer clubshaft, but it is the same premise.  
+Contents
+Intro ................................................................................................................................................. 6
+Tip # 1 Ground Strike ..................................................................................................................... 9
+You are NOT doing this ............................................................................................................ 10
+How to practice it ...................................................................................................................... 11
+Tip # 2 Sweet spot strike ............................................................................................................... 13
+How do I know if I am doing it? ............................................................................................... 14
+Tip # 3 Face controls direction ..................................................................................................... 16
+More complicated, yet also simpler. ......................................................................................... 17
+Myths and misconceptions ........................................................................................................ 19
+Tip # 4 - Distance .......................................................................................................................... 20
+The myth ................................................................................................................................... 20
+Ready to Launch ....................................................................................................................... 21
+Zones of hotness ....................................................................................................................... 22
+How to do it .............................................................................................................................. 23
+Another option .......................................................................................................................... 25
+Small warning ........................................................................................................................... 25
+Tip # 5 Random Practice ............................................................................................................... 26
+Enter Randomness .................................................................................................................... 27
+One catch .................................................................................................................................. 27
+Tip # 6 Practice with a Goal ......................................................................................................... 28
+Smart Goals ............................................................................................................................... 28
+Tip # 7 Variability ......................................................................................................................... 30
+Striking the face ........................................................................................................................ 31
+3
 
-www.AdamYoungGolf.com 
-10  You are NOT doing this If your handicap is not scratch, I can pretty much guarantee you are not doing this. Almost everyone who walks onto my lesson tee is hitting behind the ball to some extent. They leave better, for sure. How important is this? Put it this way, for every inch you average behind this ‘red zone’, your handicap level will likely raise by 5 shots. That’s right! From my experience, a 25 handicapper is averaging 5 inches behind the ball. Like the below picture  
- The above picture shows the average golfer. The range from front to back is tight, so it is consistent. But the area and pattern are too poor to play good golf. And if you think you are not in that group – think again. I would put big money on the fact that you are hitting behind the ball constantly. Even players who know what they should be doing are horrified when I actually show them what they are really doing. 
+Striking the ground ................................................................................................................... 32
+Variation # 1 ............................................................................................................................. 32
+Variation # 2 ............................................................................................................................. 32
+Clubface control ........................................................................................................................ 33
+Tip # 8 Routine ............................................................................................................................. 35
+And what about you? ................................................................................................................ 36
+Make your routine as consistent as possible ............................................................................. 36
+Tip # 9 Visualization ..................................................................................................................... 37
+Neurons and stuff ...................................................................................................................... 37
+So, what should we do? ............................................................................................................ 38
+Tip # 10 Eat Enough ..................................................................................................................... 40
+Banana’s don’t cut it ................................................................................................................. 40
+Enter nuts .................................................................................................................................. 40
+Steady goes it ............................................................................................................................ 41
+Tip # 11 Drink enough .................................................................................................................. 41
+Tip # 12 Fats, Protein or Carbs ..................................................................................................... 42
+Tip # 13 Hit the Back .................................................................................................................... 43
+How far do you hit your club? .................................................................................................. 43
+Shoot for the stars, and you will at least reach the moon ......................................................... 44
+The study ................................................................................................................................... 45
+Wait, that’s not a lot! ................................................................................................................ 45
+Better players ............................................................................................................................ 45
+Tip # 14 Aim to the safe side ........................................................................................................ 46
+Change of strategy .................................................................................................................... 47
+Tip # 15 Putt to a coin ................................................................................................................... 49
+4
 
-www.AdamYoungGolf.com 
-11  So start improving this element today, and watch your handicap plummet. Theoretically, for every inch farther forwards you hit, your handicap should come down by around 5 shots or so. This tip in itself is worth its weight in gold. How to practice it Simple - get a bunch of balls, spray a paint line on the ground (or scrape a line in the turf with a tee – or just line the balls up in a straight line). Hit your shots and take a look after the ball has landed. Did you strike a divot at all? If so, was it in the right place? If not, how far off were you from the ‘red zone’? 
- Line up your golf balls as shown – target side with red arrow 
+PLAY YOUR BEST
+GOLF EVER!
+Intro
+Remember that day when everything felt so easy? The swing felt like it had the power of Tiger
+Woods with the rhythm of Ernie Els. Every shot seemed to fizz off the clubface, the ball honing
+in on the target like a heat seeking missile. Every putt we looked at, the hole seemed like a bucket,
+and we knew we were going to hole it before we even pulled the trigger. We stood over the ball
+on the tee, and all we saw was the middle of the fairway – our minds didn’t even register that there
+was any danger there.
+And we did it all without thinking.
+Welcome to your best golf ever. In this book, I am going to give you some amazing tips that will
+help you get into the above state more often. The tips (or ‘Hacks’) in this E-book will guarantee to
+get your handicap down and make you a better player than ever before. And they are so simple
+and easy to implement, you can get started with most of them right away.
+Most instruction advice focuses only on the technical. And even then, most of that advice focuses
+on the swing style of a player. Yet, on tour, we see so many different styles working well – there
+is clearly no one perfect way to swing a club. This book will give you some of the traits common
+to all great players, so you can see what really matters.
+6
 
-www.AdamYoungGolf.com 
-12   Notice your divots. Number 1 has no divot (thin shots), number 2 is behind the line (fat shots), and number 3 is perfect. What are the advantages of doing this correctly? 1.  Increased distance with irons 2.  No more fat shots 3.  No more thin shots 4.  Consistent distance control 5.  More consistent accuracy Now, who wouldn’t want that? You can also check out The Strike Plan (my HD video series) on my website for more techniques, and drills to improve this highly important skill.    
+And rather than just hit one area (technique), this short book is going to give you advice in many
+different areas. Just like many small streams make a great river, by improving your game in many
+different areas, we can start a flow of improvements leading to a flood of success. For that reason,
+this book offers you advice in the
+• Techniques (the ones that matter the most)
+• How to train more effectively
+• How to think more effectively
+• How to strategize better, and also
+• How to eat better for performance
+Most people only ever work on their technique, and usually they work on it in the wrong way, and
+also on the wrong things. There are so many myths out there, and a lot of the golf books on the
+market are filled with outdated information which we are now finding (through scientific
+advancements and data collection) was wrong all along.
+Not only will this book show you some of the correct things you need to start applying, but we
+will hit many different areas of your game. If you improve by just half a shot from each tip, that’s
+8 shots off your score!
+While that is a bold claim (and it depends upon how many of these things you are already
+applying), it is not beyond the realms of possibility. I have even had players drop more shots off
+their game in a year just by applying this advice.
+So, without further ado – let’s get started.
+7
 
-www.AdamYoungGolf.com 
-13  Tip # 2 Sweet spot strike This one is so obvious that even beginners who have never picked the club up before get it right. However, 99% of players may know what to do, but they are not doing it. You need to hit the sweet spot of the club to get maximum distance. In fact, with the driver, the average player is losing 20 yards or more simply from not hitting the right part of the face. Something which measures the ball speed to clubhead speed ratio (called smash factor) has seen that the average player has a smash of 1.4 or lower, whereas a player on tour is closer to 1.5. This means that, with the same clubhead speed of 100mph, a normal player will only get 140mph of ball speed (at best) and a pro will get 150mph. Simply better energy transference.  So, what is the difference? One of the biggest ones is sweet spot strike.  Ideally, our ball should contact the face in the middle of it – where the Centre of gravity of the club is. This will give the most energy transference – the most bang for your buck. 
- 
+TECHNICAL TIPS
+Technique is vital if you are to play great golf. But, as I have stated, all players swing the club
+differently. Some have bent left arms at the top, some have bent left arms at impact. Two of the
+greatest players to have played the game (Annika Sorenstam and David Duval) both had their
+heads looking up at the target before they struck the ball. Some players swing steep like Nicklaus
+and Furyk, some swing shallow like Jiminez and Kuchar.
+Some players have weaker grips like Hogan, and Spieth. Some have strong ones like Dustin
+Johnson. Modern players keep their feet on the ground in the backswing, while classic players
+used to lift the left heel as they were lifting the winner’s trophy. Some players, like one of the best
+drivers in the world – Bubba Watson – are completely airborne at impact.
+So, what really matters in technique? Well, while these players all have some swing style
+fundamentals which matter and are common to the majority, only some techniques are truly
+fundamental. These are
+1. Striking the ground in the right place
+2. Striking the sweet spot
+3. Controlling their clubface
+So, let’s have a look at them.
+8
 
-www.AdamYoungGolf.com 
-14  How do I know if I am doing it? Simple, follow the instructions below. 
- Mark your golf ball with a dry erase marker pen – not a permanent one. 
- Place the ball on the ground/tee as shown 
+Tip # 1 Ground Strike
+All great players strike the ground with their irons, and they all first contact the ground in the same
+place.
+Elite players make ‘first contact’ with the ground from where the ball is resting, and up to 2 inches
+in front of the ball. So there is a window of success for your club to strike the ground.
+A professional will first contact the ground in the red area
+This means that they make a divot after the ball, not before it. It also means that the club is
+travelling downwards at the point of contact, giving a nice crisp and clean strike with maximum
+distance. This is true even with a wood or hybrid from the ground – the club may come in a little
+shallower due to the longer clubshaft, but it is the same premise.
+9
 
-www.AdamYoungGolf.com 
-15   Voila – you get to see where you are actually hitting the ball. From here, you now stand a fighting chance of changing it. So many golfers I see have a consistently poor pattern, as in they are striking the same spot over and over, but it is in a poor place. And they never realize it, until I show them.  Don’t be like the rest of the crowd. Get this element of your game better and you will be rewarded with  1.  Increased distance with all clubs 2.  More consistent accuracy 3.  Better distance control 4.  Shots which actually feel great, instead of vibrating in your hands Again, check out The Strike Plan for more techniques, and drills to improve this highly important skill. It’s available on my website at www.AdamYoungGolf.com/the-strike-plan . 
+You are NOT doing this
+If your handicap is not scratch, I can pretty much guarantee you are not doing this. Almost
+everyone who walks onto my lesson tee is hitting behind the ball to some extent. They leave better,
+for sure.
+How important is this? Put it this way, for every inch you average behind this ‘red zone’, your
+handicap level will likely raise by 5 shots. That’s right! From my experience, a 25 handicapper is
+averaging 5 inches behind the ball. Like the below picture
+The above picture shows the average golfer. The range from front to back is tight, so it is
+consistent. But the area and pattern are too poor to play good golf.
+And if you think you are not in that group – think again. I would put big money on the fact that
+you are hitting behind the ball constantly. Even players who know what they should be doing are
+horrified when I actually show them what they are really doing.
+10
 
-www.AdamYoungGolf.com 
-16  Tip # 3 Face controls direction Golfers come to me all the time for their first lesson with directional problems. Slicing or hooking is an inevitable part of the game, but you certainly don’t want to be stuck with a problem – you need to be able to fix it. Unfortunately, when I ask golfers how they try to fix their hook or slice, they often reply with “I’m trying to keep my elbow tucked in”, or “I think it’s because my head lifts up early”. Yeah, how’s that going for you? The realities of ball direction are actually very simple. The path the club swings through (left, right or down the line) combined with the clubface relationship to it will cause a ball to finish online or offline.  Out of the two directional elements – path and face – the face is the biggest influence. It accounts for over 70% of the starting direction of the ball, and improving the face position at impact will have a dramatic effect on your ball control. See below picture for a square face position. 
- 
+So start improving this element today, and watch your handicap plummet. Theoretically, for every
+inch farther forwards you hit, your handicap should come down by around 5 shots or so. This tip
+in itself is worth its weight in gold.
+How to practice it
+Simple - get a bunch of balls, spray a paint line on the ground (or scrape a line in the turf with a
+tee – or just line the balls up in a straight line). Hit your shots and take a look after the ball has
+landed.
+Did you strike a divot at all? If so, was it in the right place? If not, how far off were you from the
+‘red zone’?
+Line up your golf balls as shown – target side with red arrow
+11
 
-www.AdamYoungGolf.com 
-17  More complicated, yet also simpler. Direction is the combination of face and path. When struck from the sweet spot, a clubface which is open to (more right of) the swing direction will slice, and a clubface which is closed to (more left of) the swing direction will hook. But you only need to remember one thing…..  “If you want the ball to go more left, get the clubface more left.” The reverse is true also. If you want the ball to go more to the right, get the clubface more right at impact. This will have the biggest influence on whether your ball lands on the target or not. You can turn a slice into a powerful fade by closing the face more at impact. And you can turn a hook into a boombing high draw by getting the face more open at impact. This is basic physics, and every top player on the planet is great at doing this. 
+Notice your divots. Number 1 has no divot (thin shots), number 2 is behind the line (fat shots),
+and number 3 is perfect.
+What are the advantages of doing this correctly?
+1. Increased distance with irons
+2. No more fat shots
+3. No more thin shots
+4. Consistent distance control
+5. More consistent accuracy
+Now, who wouldn’t want that?
+You can also check out The Strike Plan (my HD video series) on my website for more techniques,
+and drills to improve this highly important skill.
+12
 
-www.AdamYoungGolf.com 
-18   A more closed face on the left, and a more open face on the right.   
+Tip # 2 Sweet spot strike
+This one is so obvious that even beginners who have never picked the club up before get it right.
+However, 99% of players may know what to do, but they are not doing it. You need to hit the
+sweet spot of the club to get maximum distance.
+In fact, with the driver, the average player is losing 20 yards or more simply from not hitting the
+right part of the face. Something which measures the ball speed to clubhead speed ratio (called
+smash factor) has seen that the average player has a smash of 1.4 or lower, whereas a player on
+tour is closer to 1.5. This means that, with the same clubhead speed of 100mph, a normal player
+will only get 140mph of ball speed (at best) and a pro will get 150mph. Simply better energy
+transference.
+So, what is the difference? One of the biggest ones is sweet spot strike.
+Ideally, our ball should contact the face in the middle of it – where the Centre of gravity of the
+club is. This will give the most energy transference – the most bang for your buck.
+13
 
-www.AdamYoungGolf.com 
-19  Myths and misconceptions It is a common error to think that you need a perfectly square face at impact to play great golf – you don’t. In fact, no tour player will be doing that. Every player shapes the ball to some extent, and so uses a more right or left clubface at impact. Sure, a square face and path combination would send the ball to the target with no curvature, but that is not necessary for great golf. You just need a clubface which lets YOU get the ball to the target. Keep tweaking it open or closed until you find the one which gets you online more often. It is also a misconception that where your clubface is at address will determine your impact location. Not at all - we need to look at our patterns individually and adjust to that. If we are hooking one day, we may need to play with a more open face. And if we are slicing, we may need to close the face more at address in order to get it more closed at impact. There are other ways to help you improve direction, and an individual lesson with myself (see my online coaching section on my website) can help you on a more individual basis. But, you can learn to play really top golf and fix your direction troubles by improving the clubface position at impact. I have fixed slicers of 25 years in 5 minutes, allowing them to play a power fade with a simple clubface adjustment and more awareness on this element. They may have been trying to fix their over-the-top move for 25 years, not realizing that they could play a Jack Nicklaus style fade with this simple change. Sure, working on your swing path is a worthy goal, but on the course we need something that will get the job done. And, as most of our swing path issues are a result of reacting to the ball flight, improving your clubface at impact will help you make the necessary swing path changes instinctively.  
-www.AdamYoungGolf.com 
-20  Tip # 4 - Distance  Who doesn’t want to hit the ball 20 yards farther? Sure, all the shorter hitters say “But I want to keep it in the fairway”. But, let’s face it, you are not doing that anyway. You might as well be 20-30 yards farther up hitting in a wedge from the rough than a 7 iron from the deep stuff. Statistics have shown us that distance is actually a key to achieving lower scores, and intuitively we know this.  Anyway, the technical elements which create distance usually also improve our ability to hit the ball on target. So it should be a win-win. Our above tips so far, especially striking the sweet spot and controlling the face, will add smash factor (energy transference) into the shots and make them go longer and straighter. If your clubface is too open or closed to the path, not only do you get a more deflected blow to the ball causing loss of energy and ball speed, but you create excessive curvature. And who doesn’t want to strike the sweet spot more often? And tip # 1 will also not only create more distance control, but will probably add a club or two to your iron shots and shots from the fairway. If you are hitting 4 inches behind the ball like the average 20 handicap player you are losing a serious amount of yardage.  The myth While increased speed will create extra distance, all things being equal, that is the problem. When we add speed (a golfer’s usual go-to adjustment for extra distance) we can lose our ability to strike the ball effectively. 
-www.AdamYoungGolf.com 
-21  Have you ever gone to lay up and decided just to swing nice and smooth, only to hit a freakishly long ball straight into the pond you were trying to be short of? There are other ways to create extra distance than by simply adding a ton of speed. I want you to swing your normal speed right now, and use this advice instead. Stay tuned on my blog for my newest book – “The Distance Manual”. In it, I will be sharing some incredible ways to increase your yardage massively, including some advice that even most of the world’s top teachers don’t know.  Ready to Launch In physics, there are certain optimums which will allow a ball to fly farther. Launching the ball on the correct trajectory with the right amount of spin can be one of the keys to increasing yardage. Very few golfers take advantage of launch physics, but this one simple tip will improve your ability to do so. In general, the higher you launch the ball with a lower spin rate, the better.  This can vary subtly for differing clubhead speed, but this rule is a good one to follow. So, how do we do this? There is one easy way to get much closer to the optimal launch conditions. Strike Where you strike on the driver face will either create a lower trajectory with more spin, or a higher trajectory with less spin; the latter being what we want. Let’s take a closer look.   
-www.AdamYoungGolf.com 
-22  Zones of hotness 
- In the above picture, we have 3 different colored zones on the clubface. Through something called vertical gear effect (I will not get into here), we can create different launch conditions.  If you were to make a swing and hit in the yellow zone, it would probably feel pretty good and the ball would go nicely wherever that clubface and path would send it. However, make the same exact swing and hit low on the face (blue zone) and all of a sudden, the ball can launch a few degrees lower and have the spin rate increase dramatically – sapping the ball of distance. Ok, you understand not to hit in the blue zone. However, did you know there is a little hack which can increase distance more than hitting in the yellow zone? That’s right! If you are to hit in the red zone, the ball will launch higher than normal with a reduced spin rate. This is much better for distance, and can even increase accuracy. Have you ever hit one of those drives which didn’t feel 100% solid, yet when you walk down the fairway, you are 
+Voila – you get to see where you are actually hitting the ball.
+From here, you now stand a fighting chance of changing it. So many golfers I see have a
+consistently poor pattern, as in they are striking the same spot over and over, but it is in a poor
+place. And they never realize it, until I show them.
+Don’t be like the rest of the crowd. Get this element of your game better and you will be rewarded
+with
+1. Increased distance with all clubs
+2. More consistent accuracy
+3. Better distance control
+4. Shots which actually feel great, instead of vibrating in your hands
+Again, check out The Strike Plan for more techniques, and drills to improve this highly
+important skill. It’s available on my website at www.AdamYoungGolf.com/the-strike-plan .
+15
 
-www.AdamYoungGolf.com 
-23  surprised to see it 20 yards farther than normal? The likelihood is you have just hit the red zone without realizing it. How to know if you are doing it? Simple- use tip # 2 – the marker pen drill. This works great with a driver and really let’s you know where you are hitting on the face.   How to do it If your marks are lower on the face than you desire, we need to find a way to increase the height on the clubface. Think about these two things 
- If you are hitting low on the face (blue zone), it is likely your club is coming in too high pre-impact, as shown (the white dotted line representing height from ground pre-impact). 
+Tip # 3 Face controls direction
+Golfers come to me all the time for their first lesson with directional problems. Slicing or hooking
+is an inevitable part of the game, but you certainly don’t want to be stuck with a problem – you
+need to be able to fix it. Unfortunately, when I ask golfers how they try to fix their hook or slice,
+they often reply with “I’m trying to keep my elbow tucked in”, or “I think it’s because my head
+lifts up early”.
+Yeah, how’s that going for you?
+The realities of ball direction are actually very simple. The path the club swings through (left,
+right or down the line) combined with the clubface relationship to it will cause a ball to finish
+online or offline.
+Out of the two directional elements – path and face – the face is the biggest influence. It accounts
+for over 70% of the starting direction of the ball, and improving the face position at impact will
+have a dramatic effect on your ball control. See below picture for a square face position.
+16
 
-www.AdamYoungGolf.com 
-24   Try to get the club to be closer to the ground as you approach the ball (pre-impact), like shown, and you will be hitting the red zone, as well as higher and longer drives.    
+More complicated, yet also simpler.
+Direction is the combination of face and path. When struck from the sweet spot, a clubface which
+is open to (more right of) the swing direction will slice, and a clubface which is closed to (more
+left of) the swing direction will hook. But you only need to remember one thing…..
+“If you want the ball to go more left, get the clubface more left.”
+The reverse is true also. If you want the ball to go more to the right, get the clubface more right at
+impact. This will have the biggest influence on whether your ball lands on the target or not. You
+can turn a slice into a powerful fade by closing the face more at impact. And you can turn a hook
+into a boombing high draw by getting the face more open at impact. This is basic physics, and
+every top player on the planet is great at doing this.
+17
 
-www.AdamYoungGolf.com 
-25  Another option Simply tee the ball up higher. By doing so, your club is more likely to hit in the red zone- as long as you are to make the same swing. Some people respond to the higher tee height by making an even higher swing, negating the tee. Test it yourself on the range and see which one you prefer. 
- Small warning Make sure you don’t over-do these things. If you hit the paint of the club (the crown), you will be rewarded with a skied shot. Although this one launches high, it is not going to give you any distance, and may come down with snow on it. The Strike Plan contains more information on techniques and drills to achieve this upward angle of attack with the driver. Go to www.adamyounggolf.com/the-strike-plan for more info.   
+Myths and misconceptions
+It is a common error to think that you need a perfectly square face at impact to play great golf –
+you don’t.
+In fact, no tour player will be doing that. Every player shapes the ball to some extent, and so uses
+a more right or left clubface at impact. Sure, a square face and path combination would send the
+ball to the target with no curvature, but that is not necessary for great golf. You just need a clubface
+which lets YOU get the ball to the target. Keep tweaking it open or closed until you find the one
+which gets you online more often.
+It is also a misconception that where your clubface is at address will determine your impact
+location. Not at all - we need to look at our patterns individually and adjust to that. If we are
+hooking one day, we may need to play with a more open face. And if we are slicing, we may need
+to close the face more at address in order to get it more closed at impact.
+There are other ways to help you improve direction, and an individual lesson with myself (see my
+online coaching section on my website) can help you on a more individual basis. But, you can
+learn to play really top golf and fix your direction troubles by improving the clubface position at
+impact.
+I have fixed slicers of 25 years in 5 minutes, allowing them to play a power fade with a simple
+clubface adjustment and more awareness on this element. They may have been trying to fix their
+over-the-top move for 25 years, not realizing that they could play a Jack Nicklaus style fade with
+this simple change.
+Sure, working on your swing path is a worthy goal, but on the course we need something that will
+get the job done. And, as most of our swing path issues are a result of reacting to the ball flight,
+improving your clubface at impact will help you make the necessary swing path changes
+instinctively.
+19
 
-www.AdamYoungGolf.com 
-26  PRACTICE TIPS People suck at practice. As an instructor, the driving range is my home, so I get to see you guys practicing all the time. And you are all awful at it. The way that the majority of golfers practice is either worthless, or in most cases damaging. At best, they do something in a way which will never transfer to the course – which is why your game leaves you the moment you step on the first tee. And perfecting your swing through aimless repetition isn’t going to help you. I have spent a lot of time studying motor learning and putting the theories into practice (literally). And I can tell you, they work! In my book “The Practice Manual – The Ultimate guide for Golfers”, I really break down the act of practicing and learning for golf like never before. Using the research and my experience, the book allows you to create your own ultimate practice plan – one which will finally get you to improve quicker than ever and get to your best golf. In this chapter I am going to outline a couple of key tips which should help knock a couple of shots off your game at the very least, and allow you to learn the last few technical tips easier.   Tip # 5 Random Practice  One thing is for sure, block practice is a poor way of developing skills.  Block practice is where you stand in the same place with a bucket of balls and hit to the same target with the same club in succession. Pretty much what you do, right? The problem with this 
-www.AdamYoungGolf.com 
-27  way of practicing is that it may give you confidence, just as if you were to write the answer to the same math question over and over and over….. but what are you really learning by doing this? Enter Randomness A much better option is random practice. This is where you  •  Change the club every shot  •  Change the target •  Change the shot type (chip/drive/iron) •  Change the shape of shot (draw/fade/high/low) if you are advanced Doing this type of practice has repeatedly shown to improve retention of learning and speed of learning.  One catch When you are actually doing the practice, you may perform worse. Do not mistake this for learning – performance and learning are very different. So, you may duff a few more shots. You may not flight the ball exactly how you wish. You may not feel like Tiger Woods on the range – but it will be more realistic. And if you were to take a clone of yourself and one of you does block and one of you does random practice, over the course of the year there would be no comparison. ‘Random you’ would win. So deal with the performance drop during practice. Suck it up – this increased difficulty by ‘mixing it up’ is actually one of the drivers of improvement. Let the other losers practice in their block-practice ways and see all their great shots disappear by the time they reach the first tee.  Keep it as our little secret weapon. 
-www.AdamYoungGolf.com 
-28  Tip # 6 Practice with a Goal  Just heading out to the range? Going to beat few hundred balls? Look, let’s face it, you are not improving. Your rate of improvement is slower than a tortoise hitching a ride on a snail’s shell. The previous tips should take care of that. However, you can really speed things along by going with a dedicated goal to the range. Rather than just hit balls and ‘hope’ that this one is going to be a good one (who cares anyway, tomorrow it might be gone), why not try and actually improve something. Why not take the tip of striking the ground in the right place and say  “This session, I am going to dedicate myself 100% to improving my ability to strike the ground in a better place” If every week you were to improve that average by 0.5 inches, that would be 2.5 shots off your handicap (theoretically). You could do the above with any one of the tips so far. You may even want to split your session into 2 or 3 segments, and devote a certain segment of time to improving one thing, before moving on to a different element.  Smart Goals Smart Goals are Specific, Measureable, achievable, realistic and time based. Are your goals smart? If you wanted to improve your strike with the sweet spot, why not draw a little circle on the sweet spot with a quarter (or 2p coin if you are a Brit). See how many shots out of 10 you can get in that area. Try to improve it every week. 
-www.AdamYoungGolf.com 
-29  Record your results – write it down in a little notepad, even if it is only to get baseline numbers. Then you can watch over time as your ability to do it improves. The below is an example of how to set a smart goal  SPECIFIC  -  I will improve my ability to hit the sweet spot  MEASUREABLE  - See how many I can get inside a quarter sized circle  ACHIEVABLE - This is possible for any person of any level  REALISTIC  - I want to get to 7/10 success rate  TIME BASED - I want to do this by the end of the year Think about other ways you can set Smart Goals. What other areas of your game, and your life, can you set goals like this? Measuring and going through your goals as you progress is a great way of inspiring confidence. There was a time where I averaged hitting 4 inches behind the golf ball, and now my average is ½ inch in front. I never noticed the improvement from day to day, but looking back on my journals, I can see big leaps.    
-www.AdamYoungGolf.com 
-30  Tip # 7 Variability “Perfect Practice Makes Perfect” Well, that’s what they used to say. Things are going to change – a revolution is coming, inspired by motor learning research. This was the mantra I was brought up to believe – almost with a dogmatic fear of doing anything the wrong way. My childlike instincts to play were outrun by my intellectual instinct to do things the right way. Not anymore. We actually learn more from playing around and experimenting with variables than we do from trying to hone one thing.  In my own study (calibration vs experimentation article on my blog), I discovered that a group who tried to hit the toe and the heel intentionally for 5 days has a better ability to hit the middle of the face than the group who tried to only hit the middle of the face. This completely defies logic and instinct, but it is true – and my research is not the only one to find this. So, the message here is short and sweet – try and add a bit of variability into your practice. In my book “The Practice Manual – The Ultimate Guide for Golfer’s”, I discuss these ideas in depth, as well as talking about a radical new way of training called ‘Differential Learning’. But for now, here are 3 ways you can integrate this into your practice – following on from the first 3 tips.    
-www.AdamYoungGolf.com 
-31  Striking the face Rather than just constantly trying to strike the middle of the face over and over (which will improve your ability, but slowly), try this drill. Split the face into two separate parts. Try to hit ten balls from the heel side, and ten balls from the toe side. When you can do this to a 7/10 mark (or 14/20 for the 20 balls), switch to alternating it – one toe and one heel. 
-Split the clubface like this, and try to hit some in the heel and some in the toe area. After you have done this, spend the other half of your practice time trying to calibrate a middle strike – you will find it much easier to do now. And, over time, these skills will become automatic 
+Tip # 4 - Distance
+Who doesn’t want to hit the ball 20 yards farther?
+Sure, all the shorter hitters say “But I want to keep it in the fairway”. But, let’s face it, you are not
+doing that anyway. You might as well be 20-30 yards farther up hitting in a wedge from the rough
+than a 7 iron from the deep stuff. Statistics have shown us that distance is actually a key to
+achieving lower scores, and intuitively we know this.
+Anyway, the technical elements which create distance usually also improve our ability to hit the
+ball on target. So it should be a win-win.
+Our above tips so far, especially striking the sweet spot and controlling the face, will add smash
+factor (energy transference) into the shots and make them go longer and straighter. If your clubface
+is too open or closed to the path, not only do you get a more deflected blow to the ball causing loss
+of energy and ball speed, but you create excessive curvature. And who doesn’t want to strike the
+sweet spot more often?
+And tip # 1 will also not only create more distance control, but will probably add a club or two to
+your iron shots and shots from the fairway. If you are hitting 4 inches behind the ball like the
+average 20 handicap player you are losing a serious amount of yardage.
+The myth
+While increased speed will create extra distance, all things being equal, that is the problem. When
+we add speed (a golfer’s usual go-to adjustment for extra distance) we can lose our ability to strike
+the ball effectively.
+20
 
-www.AdamYoungGolf.com 
-32  to you, giving you the ability to fix yourself should a problem crop up – which it will at some point in time. Striking the ground Ok, so we know we are trying to hit the ground in the ‘red zone’ outlined in tip #1. But let’s throw some variations in there. Try these two things Variation # 1 Try to hit the ground in the right place, but try to do it using different ball positions. Place one ball back in your stance, one ball further forwards, and one more in the middle of your stance. Do this with varying clubs. Notice the trajectory the ball flies when you do it correctly, and notice which ball position you find it easier to make clean contact with. Over time, your ability to strike anywhere you want in your stance will improve dramatically – and this can never be a bad thing. Variation # 2 Place the ball in your normal ball position for that club. Now start with the club a foot behind the ball. Try and swing back and hit the ‘red zone’.  Try and start with the club hovering half a foot above the ground. Again, swing back and return the club to the red zone, if you can. Do these things without a ball at first, and then add a ball in as your skills progress. This dramatically improves your ability to control what is called ‘low point’ I terms of both height and position. I discuss this idea more in “The Practice Manual”, as it is a vital key in understanding how to strike the ball effectively. 
-www.AdamYoungGolf.com 
-33  Clubface control Very simply, if you want to develop an instinctive understanding of how to get the clubface in your desired position, start experimenting.  Hit ten shots with a clubface as closed as possible. Go on – shut your face! Don’t be frightened by how much you do it – have some fun and see if you can get the ball to start and even curve left. Now open it. Wide open – go on, what are you scared of. Whack the clubface 50 degrees open and see if you can hit a shot with it. Not only will the ball go more to the right, but it should go weaker and higher in trajectory. Now do everything in between. Find out and build your own scale of open to closed clubfaces. Extreme, subtle, middle. Now you have the ability to calibrate your desired shot direction. Half of your practice should be variations like this, and half should be trying to calibrate the on-line shot. My studies with golfers have shown that players who do both variations and try to get straight shots combined are better than those who only try straight shots.  
-  
+Have you ever gone to lay up and decided just to swing nice and smooth, only to hit a freakishly
+long ball straight into the pond you were trying to be short of?
+There are other ways to create extra distance than by simply adding a ton of speed. I want you to
+swing your normal speed right now, and use this advice instead.
+Stay tuned on my blog for my newest book – “The Distance Manual”. In it, I will be sharing some
+incredible ways to increase your yardage massively, including some advice that even most of the
+world’s top teachers don’t know.
+Ready to Launch
+In physics, there are certain optimums which will allow a ball to fly farther. Launching the ball on
+the correct trajectory with the right amount of spin can be one of the keys to increasing yardage.
+Very few golfers take advantage of launch physics, but this one simple tip will improve your ability
+to do so.
+In general, the higher you launch the ball with a lower spin rate, the
+better.
+This can vary subtly for differing clubhead speed, but this rule is a good one to follow. So, how
+do we do this? There is one easy way to get much closer to the optimal launch conditions. Strike
+Where you strike on the driver face will either create a lower trajectory with more spin, or a higher
+trajectory with less spin; the latter being what we want. Let’s take a closer look.
+21
 
-www.AdamYoungGolf.com 
-34   MENTAL TIPS We all know that the mental game is important to our golf. We get told it all the time, and experience it when we mess up that shot that we know we can easily hit, but the pressure of the situation made us choke. If you suffer with  •  Anger •  Nerves •  Lack of focus and concentration issues  •  General inconsistency •  Ruining good rounds •  Not being able to picture good shots •  Only seeing the danger •  Distractions •  Double crossing yourself These mental tips should help knock a couple of shots off your game easily. Let’s face it, we all lose at least 2 or 3 shots a round from the above issues, if not more. You can go to the range all you want, but if you are not hitting the real root cause of the problem (mental), that shiny new swing you are trying to perfect will just break down again.    
-www.AdamYoungGolf.com 
-35  Tip # 8 Routine    “We hear it all the time; routine, routine, routine”, is a classic quote from Tiger Woods as he is in a clinic explaining his routine to on-looking admirers. What is a routine?  We all have one, some are simply better than others. A routine should be there to prepare you both mentally and physically for the shot. It should include some form of decision making, in terms of shot selection and club selection. It should also include some preparation in terms of mentally visualizing the shot, and making a physical practice swing to unlock the desired movement. Alignment is also a key element of a routine, as is the execution of the shot itself. While I am not going to go through an entire routine here with you (we can work on your specific routine if you decide to work with me online), but I will make this one very important point. Great players have an incredibly consistent routine In terms of the number of practice swings, the time they take from stepping forwards to hitting the ball, the thought processes they have, they are all as consistent as possible. In fact, Tiger Woods has been known to have a routine which is consistent to within a few hundredths of a second from the moment he first steps forwards until the moment the club strikes the ball.  There is also a video floating around of Jack Nicklaus. It is a split screen, with two shots around 26 years apart. From the moment he steps forwards until the moment the club strikes the ball is exactly the same amount of time. 
-www.AdamYoungGolf.com 
-36  And what about you? If you’re like the majority of amateurs (which you are), it is likely that your routine is all over the place. Different numbers of practice swings, sometimes taking longer over the ball, sometimes rushing it, and maybe going through ten or more different swing thoughts in a round of golf, trying to find the secret. If you do this one bit of advice, and dedicate yourself to practicing it for a whole month, I promise you will see results in consistency.  Make your routine as consistent as possible Always •  Take the same number of practice swings •  Take a similar amount of time from stepping forwards until hitting the ball •  Have one simple swing thought per shot. You can change it (not too much), but make sure it is simple and not too many of them •  Keep moving during the routine and set up. Don’t stop dead over the ball •  Take just enough time to get comfortable over the ball, but not so much time that you can start to over think.  Just promise me you will commit to making these things a part of your routine, and practicing them on the range too, not just the course. At first, it might be a little bit of a disturbance as the routine may be new to you. But over time, your routine will help you get into a flow state where you’re not thinking much, but performing well. This is called the Zone. And if that is not enough to convince you, I will leave you with this. The last time you played through another group and rushed your routine to get out of their way, what happened? I’ll bet you duffed it up the fairway and ended up picking the ball up in embarrassment. Also, the last time you 
-www.AdamYoungGolf.com 
-37  had a very important shot and took one more practice swing, tried to think more than normal over the shot and took it slow because ‘it was extra important’, what happened? I’ll bet you duffed that shot too.  This is why a consistent routine is so important.  Tip # 9 Visualization  What do you do after a round of golf. You go to the bar, and if you are like most golfers, you discuss and reminisce about the round that could have been. Maybe you have even scored quite well but left a couple of shots out there (as we all do). If only you hadn’t 3 putted the 5th hole, or knocked that shot out of bounds on the 13th. But, could you be doing yourself a big disservice by thinking this way?  Neurons and stuff When we think a thought, we fire neurons in the brain relating to that image/movement/thought. The more we do it, the more it fires and the stronger the neuronal connections get. Do it enough times, and it starts to get insulated – a process called myelination, which will make that thought more efficiently and often accessed. This is why we tend to think the same thoughts day after day, and get ‘stuck in our beliefs’. This has an effect on movement too. If we think a thought, our brain sends an electrical impulse to our muscles, building up the potential for it to fire that way. 
-www.AdamYoungGolf.com 
-38  So, every time you think about that pulled shot on the 13th, you are wiring that movement and image in your brain, and next time you are on the 13th, you brain will automatically fire that image, give you a sense of nervousness and also is more likely to send that message to the muscle. Ever hear someone say something like “I hate the 13th, I always go left on that hole”. Now you know why.  So, what should we do? Simple, at the end of a round, maybe make one point about what you could have done better. In your mind, go to that shot you hit poorly, and replace the image by imagining a shot you hit in that situation, or a similar situation, which was perfect.  Have you ever hit an amazing high draw down the centre of the 13th fairway? Sure you have. Spend 5 minutes repeating that one in your head. Then, go through the rest of the shots in your round of golf mentally, and every time you come to one of your best shots that day, repeat it over and over in your head. Any poor ones, replace them with better images. As an amateur golfer, I did this regularly. I quickly got to scratch in just over 3 years. It really helps – and is a great boost to confidence. And there is a lot of science supporting it too.    
-www.AdamYoungGolf.com 
-39  NUTRITION TIPS Most players on tour are deep into their fitness – it seems you can’t make it to the top now unless you are a machine. Even the outliers are actually quite fit, even if they don’t look it. The next big thing is going to be nutrition. I have teamed up with Fuel4Golf.com – and as a nutritionist myself, we have come up with some simple tips to help you. If you have ever  •  Lost concentration towards the end of the round •  Felt weak or lethargic •  Felt full during a round of golf •  Felt sluggish after the half-way house •  Had the shakes These tips can really help you. At worst, the added concentration should help to knock a shot off your round on average, over the course of a year. And it’s really simple advice. Disclaimer – for any nutritional advice implementation, seek advice from your doctor first. This is generic advice and is not intended to be for everyone, as some people may have allergies or problems with certain foods. If you would like a nutritional plan custom designed for your needs (performance, weight loss, muscle gain), contact us at www.fuel4golf.com and get a plan made just for you.  
-www.AdamYoungGolf.com 
-40  Tip # 10 Eat Enough Most people don’t realize but, a round of golf can burn upwards of 1000 calories. That is a hell of a lot of energy. And, if you are a professional golfer, or a tournament player, you are sometimes doing two rounds in a day. And this is even before we have added basal metabolic rate (the normal amount of food needed to sustain yourself in a day). So, a 2 round event may mean you need 4500 or more calories total.  Banana’s don’t cut it They are great, but they are not enough. A banana has only 100 calories. An apple is about the same. I have even seen people give their kids peppers to take on the course – a pepper has only 25 calories. You would have to eat a whole golf bag full to even maintain energy during a round.  We can’t eat too much food either – because we will be too full to swing. So we need to find energy dense sources of foods.  Enter nuts Nuts are great, as per 100 grams, they have almost 700 calories. That is 7 times more energy dense than a banana.  Dried fruit is also very energy dense at almost 400 calories per 100 grams. Trail mix is a great option. I am not against people having chocolate bars on the course either. It is a myth that your blood sugar will crash and you will lose all your energy. If you believe it to be true, you certainly may feel that way. But generally, people will be better after eating a snickers or something similar during a round of golf. 
-www.AdamYoungGolf.com 
-41  Steady goes it  To keep blood sugar levels more steady, try to split the food up over the course of the round of golf. Rather than guzzle 200 grams of almonds on the first tee, spread it out. Maybe have a couple of bananas, 100 grams of nuts and a chocolate bar split in 3 bites.  And try not to eat a big greasy burger at the halfway house. The combination of fats and carbs will likely leave you feeling full, tired and burping during your swing.  Tip # 11 Drink enough I am not talking about beer from the cart girl. Take enough fluids with you. Even on a normal day where it is not hot and you don’t think you will be sweating, your body needs fluids. And if you are thirsty, it is too late – you have already started to drop performance. This doesn’t just affect concentration – motor control and coordinating your swing is hampered if you are dehydrated. And research shows it doesn’t take much dehydrating to really hurt your game. Even 3% water loss can result in incredible performance detriments. If you are going to drink sports drinks, opt for the lower energy ones. Check the calorie count and make sure it is less than 50 calories per 100ml. If not, water it down and sip it throughout the round, rather than taking big gulps.  
-www.AdamYoungGolf.com 
-42  Tip # 12 Fats, Protein or Carbs Find out which foods help you perform better. Before a round of golf (around about 3-4 hours before), have a nice big meal to stock up on your energy levels. This may be impossible if you have an early tee time, but in that case, look more closely at tip #10. But different people respond better to different food types. Some people need carbohydrates and protein to have sustained energy, and some people perform better on good fats and proteins. Notice that I put protein into both food sources there. Try this little test; Play a round of golf. Beforehand, have a meal of fats and proteins only. This may be chicken breast with olive oil, and an avocado. Do this for the next 10 round and report your scores and keep track of how you feel during the round. Next, play 10 rounds of golf, having a meal of protein and carbohydrate beforehand. This may be chicken breast and rice or couscous. Note how you play and feel during the rounds. You can even do this test without playing golf. Just have it for lunch and note how your energy levels and concentration are – see which one you are better with. You can also try experimenting with different calorie amounts and food densities too, honing in on your perfect pre-game meals. If you would like someone from Fuel4Golf to design a meal plan for you and find out the perfect foods for you, contact us at Fuel4golf.com   
-www.AdamYoungGolf.com 
-43  STRATEGY TIPS Course management is a massive topic – and the average player can save a ton of shots per round without ever touching their swings, if they just knew how to think better.  I have often seen a player come in for a lesson complaining of their slice. I watch them hit a 20 yard fade over and over and think “Why is it that I curve the ball 20 yards in the air and can shoot under par, and this player is doing the same and not breaking 90”? While there are plenty of reasons for that, a quick playing lesson will usually show that their choices on the course are making them throw away shots every round. So, let’s look at two tips that can instantly knock shots off your round of golf. No more – these strategy hacks are going to knock one or more shots per round off your game easily – if you use them. Tip # 13 Hit the Back If you are to stand next to a green and just watch the golfers playing through it all day, how many shots do you think would go over the back of the green versus landing short? Think about it yourself; what percentage of your shots finish short of the flag versus long? Have you ever kept track? How far do you hit your club? I hit a 7 iron, at best (perfect strike, aggressive swing) around 170 yards; nothing special for a pro. I also test a lot of amateurs – the majority seem to believe they hit their 7 iron 150 yards – that 
-www.AdamYoungGolf.com 
-44  seems to be the go-to number for people. Yet, time and time again, it is more common that these players actually average 130 yards – at best. Despite the fact that my best 7 iron is 170 yards, I actually strategize for a mis-hit. How often am I, or anyone, going to flush shots all day? If you are playing a strategy based on your best 5% of shots, you will be lucky to play good golf 5% of the time.  Shoot for the stars, and you will at least reach the moon One of my go-to strategies for a player is to get players to play to the back of the green. This way, any mis-hit is still going to be on the green. If the pin is on the middle of the green, this mis-hit may actually finish very close – and even a much poorer hit which lands on the front of the green will leave you a nice distance from the flag (unless the pin was at the back).  What we typically want to avoid is hitting short, as that is where the majority of the danger is. And missing a green will cost a player a full shot typically. 
- 
+Zones of hotness
+In the above picture, we have 3 different colored zones on the clubface. Through something called
+vertical gear effect (I will not get into here), we can create different launch conditions.
+If you were to make a swing and hit in the yellow zone, it would probably feel pretty good and the
+ball would go nicely wherever that clubface and path would send it. However, make the same exact
+swing and hit low on the face (blue zone) and all of a sudden, the ball can launch a few degrees
+lower and have the spin rate increase dramatically – sapping the ball of distance.
+Ok, you understand not to hit in the blue zone. However, did you know there is a little hack which
+can increase distance more than hitting in the yellow zone?
+That’s right! If you are to hit in the red zone, the ball will launch higher than normal with a reduced
+spin rate. This is much better for distance, and can even increase accuracy. Have you ever hit one
+of those drives which didn’t feel 100% solid, yet when you walk down the fairway, you are
+22
 
-www.AdamYoungGolf.com 
-45  As we see in the above picture, by aiming for the back of the green (140 yards), if we hit it flush, we will be safe. Our mis-strikes will generally stay in that red zone, and some of them could be real nice birdie opportunities. The study I proved this hypothesis in a little study of golfers. I set up a par 3 green where the pin was tucked on the front of the green at 120 yards – the back of the green being 145 yards. I then got 20 amateurs to hit their 120 yard club and finish out. We then replayed the hole, this time hitting their 140 yard club, with the specific instructions to see if they can fly it over the back of the green. The results were amazing; •  The 120 yard clubs (firing at the pin ) scored 3.8 on average •  The 140 yard hitters scored 3.6 on average Wait, that’s not a lot! Sure – 0.2 of a shot is not a lot of difference. But add that up over 18 holes and it becomes a whopping 3.6 shots per round.  Not bad for one simple tip Better players If you’re a better player and thinking “Sure, but I don’t mis-strike the ball”, just try and play 10 yards more than the flag yardage with an aggressive swing. Even if you are to flush it all day long (unlikely), you will only be 10 yards long, or 35 feet. This would easily put you in the top 50 in the world for proximity to the pin. And with every mis-strike getting you closer to the hole, it’s a win-win.  
-www.AdamYoungGolf.com 
-46  Tip # 14 Aim to the safe side Did you know that the average tour player is 10 yards away from the flag after their approach shot. So, a top pro hitting into a green may finish 10 yards right or left of a flag – that’s a 20 yard square.   Most average players fire straight at the pin. Well, if the flag is on the side of the green, this could be costing you unnecessary shots. Look at the example picture here; 
- This is our typical pin cut left with a bunker on the left side. A player who fires at the pin may miss 10 yards left or right (this square is probably even larger for yourself). Also, re-iterating the last tip, a player may finish up to 20 yards short as an average.  
+surprised to see it 20 yards farther than normal? The likelihood is you have just hit the red zone
+without realizing it.
+How to know if you are doing it? Simple- use tip # 2 – the marker pen drill. This works great with
+a driver and really let’s you know where you are hitting on the face.
+How to do it
+If your marks are lower on the face than you desire, we need to find a way to increase the height
+on the clubface. Think about these two things
+If you are hitting low on the face (blue zone), it is likely your club is coming in too high pre-
+impact, as shown (the white dotted line representing height from ground pre-impact).
+23
 
-www.AdamYoungGolf.com 
-47  Using this strategy, sure they may hit a few close, but they are also bringing the bunker into play. Generally, if a player hits the ball into the bunker, it will cost them a shot on average. And even if a player hits it close to 10 feet, the average hole out rate for a pro is only 40% from this distance. So, hitting it to 10 feet only saves you 0.4 of a shot.  Change of strategy   What if you were to change your aim, like the below picture? 
- 
+Another option
+Simply tee the ball up higher. By doing so, your club is more likely to hit in the red zone- as long
+as you are to make the same swing. Some people respond to the higher tee height by making an
+even higher swing, negating the tee. Test it yourself on the range and see which one you prefer.
+Small warning
+Make sure you don’t over-do these things. If you hit the paint of the club (the crown), you will be
+rewarded with a skied shot. Although this one launches high, it is not going to give you any
+distance, and may come down with snow on it.
+The Strike Plan contains more information on techniques and drills to achieve this upward angle
+of attack with the driver. Go to www.adamyounggolf.com/the-strike-plan for more info.
+25
 
-www.AdamYoungGolf.com 
-48  By aiming where the picture indicates (back middle of the green), we not only take the bunkers out of play, but our left side miss now becomes a birdie opportunity. And our right side miss still lands on the green, or at worst gives us a chip with a lot of green to work with where we can play a chip and run shot (as opposed to a fiddly short flop). Mathematically, this could save you 0.33 shots or more every time you come into this scenario. If we replaced the bunker with water, we may even save ourselves more shots. You will still end up with the same amount of birdie opportunities, but you eliminate the tough up and down shots.  My book “The Practice Manual –The Ultimate Guide for Golfers” discusses these strategic ideas more in depth. Bu the simplified message here is to not fire at the pin always. Try to aim to the middle or safer side of the green. Also, try to think of your target as a shot square/circle rather than a pinpoint. This will allow you to place that imaginary circle in a best-fit for the green. By improving your strike quality, you can achieve a smaller shot dispersion – especially longitudinally. If this is a goal of yours, make sure to check out The Strike Plan by going to www.adamyounggolf.com/the-strike-plan     
-www.AdamYoungGolf.com 
-49  PUTTING TIPS Putting is still a vital element of the game. A recent Masters win by Jordan Spieth showed us just how important it is to hole those 6-12 footers; a range we often find ourselves in. Now, it is important to remember that we will never be able to hole all of those putts. Outside of a certain range, there is a luck element involved too. Spike marks, random blades of grass, unbalanced golf balls etc. means that only 40% of 10 foot putts are holed by even professionals. But that should not stop us getting better at this. Especially when we can practice it in the office. So, here are a couple of putting tips to get you going. Practice these, and you will no doubt be saving a shot or two per round off your game.  Tip # 15 Putt to a coin Have you ever had that day where the hole seems like a bucket? You look at it and think “Wow, I am so confident over this putt”.  Want to get in that state more often? Sure you do. So here is a great tip to refine your action and at the same time change your perception of the hole and build confidence. 
-www.AdamYoungGolf.com 
-50  Make things more difficult Practicing two meters away from a golf hole sized target (like an upturned mug) in your office or at home is a good pastime. However, you can still be 2 degrees offline and get the ball to hit the cup. While this may make you an ok putter, let’s tune it up a notch. Replace the hole with a coin – you can do this on a real green too.  Use a medium sized coin, like a quarter or a ten pence piece. This dramatically reduces your error allowance, forcing you to improve your motor skills and gain better control of the clubface. As a result of the smaller and more difficult target, you will make more mistakes. Your brain then responds by refining your action further. 
- The smaller size of the coin demands more of your skill level. 
+PRACTICE TIPS
+People suck at practice.
+As an instructor, the driving range is my home, so I get to see you guys practicing all the time.
+And you are all awful at it. The way that the majority of golfers practice is either worthless, or in
+most cases damaging. At best, they do something in a way which will never transfer to the course
+– which is why your game leaves you the moment you step on the first tee. And perfecting your
+swing through aimless repetition isn’t going to help you.
+I have spent a lot of time studying motor learning and putting the theories into practice (literally).
+And I can tell you, they work! In my book “The Practice Manual – The Ultimate guide for Golfers”,
+I really break down the act of practicing and learning for golf like never before. Using the research
+and my experience, the book allows you to create your own ultimate practice plan – one which
+will finally get you to improve quicker than ever and get to your best golf.
+In this chapter I am going to outline a couple of key tips which should help knock a couple of shots
+off your game at the very least, and allow you to learn the last few technical tips easier.
+Tip # 5 Random Practice
+One thing is for sure, block practice is a poor way of developing skills.
+Block practice is where you stand in the same place with a bucket of balls and hit to the same
+target with the same club in succession. Pretty much what you do, right? The problem with this
+26
 
-www.AdamYoungGolf.com 
-51  Not only that, but it changes you mentally A recent study showed that players who practiced putting to a bucket perceived a golf hole as being much smaller than players who had practiced to a coin. When they drew a picture of a golf hole on a piece of paper, the coin practice group drew a 40% larger cup size. Imagine the confidence this will give you as your brain sees that cup as a huge hole in the ground. Your belief will skyrocket, which will allow your brain to take in more info on line and speed and create more holed putts. There is a complex area of the brain called the Reticular Activating System which deals with information filtering. Confidence filters in better information. In my book, The Practice manual, I discuss other ways of manipulating the task difficultly to have positive effects on both learning and performance.   Tip # 16 High or low? This is a simple way of analyzing putts which helps a player’s subconscious mind to co-ordinate all the variables of speed, line and read. It is popular these days to split these skills up and break them down – but motor learning research shows that this might not be the best approach. This tip will help you in that regard. Self-analysis is the key to improvement Quite simply, all I want you to do is to take a small pocket notebook out with you and, if your speed of putt is reasonable (finishes within 3 feet of the hole), note down if you missed on the high or low side of the cup. 
-www.AdamYoungGolf.com 
-52   Doing this will ensure that, over time, your ability to subconsciously and consciously read greens gets better. This will have a knock-on effect to your speed control, which will then feed-back in on your green reading – a very positive loop to be in. This is opposed to isolating one variable, such as your stroke, and working solely on that. If you mis-read a putt, making a better stroke is not going to help you. All of the elements of reading, speed and stroke have to improve together – this drill will help you nudge all the variables into better places synergistically.   
+way of practicing is that it may give you confidence, just as if you were to write the answer to the
+same math question over and over and over….. but what are you really learning by doing this?
+Enter Randomness
+A much better option is random practice. This is where you
+• Change the club every shot
+• Change the target
+• Change the shot type (chip/drive/iron)
+• Change the shape of shot (draw/fade/high/low) if you are advanced
+Doing this type of practice has repeatedly shown to improve retention of learning and speed of
+learning.
+One catch
+When you are actually doing the practice, you may perform worse. Do not mistake this for learning
+– performance and learning are very different.
+So, you may duff a few more shots. You may not flight the ball exactly how you wish. You may
+not feel like Tiger Woods on the range – but it will be more realistic. And if you were to take a
+clone of yourself and one of you does block and one of you does random practice, over the course
+of the year there would be no comparison. ‘Random you’ would win.
+So deal with the performance drop during practice. Suck it up – this increased difficulty by ‘mixing
+it up’ is actually one of the drivers of improvement. Let the other losers practice in their block-
+practice ways and see all their great shots disappear by the time they reach the first tee.
+Keep it as our little secret weapon.
+27
 
-www.AdamYoungGolf.com 
-53  So, there you have it! Thank you for reading this E-book, I am sure it will help you. Some of these tips will really help you lower your scores, hit straighter, crisper and longer shots, and more consistently too. Applying these ‘Hacks’ consistently will see your scores plummet over the year. But understand that these are the tip of the iceberg. There is a lot more quality information that I produce, much of which I give away free on my blog, so stay tuned.  My book “The Practice Manual – The Ultimate Guide for Golfers” is packed full of info on learning, strategy and skill development, as well as making some pretty in depth additions that the industry has never seen before. Combining information on motor learning research, but written in a style that the average Joe can understand, it’s making waves with coaches and players worldwide. There is a reason why it has been the number one best-sellers for golf (amazon) in the USA, UK, France, Germany and now Canada. It has also been featured on The Golf Channel as one of the “must-have books” by Martin Hall. Go to www.adamyounggolf.com/the-book to find out more. 
- 
+Tip # 6 Practice with a Goal
+Just heading out to the range? Going to beat few hundred balls?
+Look, let’s face it, you are not improving. Your rate of improvement is slower than a tortoise
+hitching a ride on a snail’s shell. The previous tips should take care of that.
+However, you can really speed things along by going with a dedicated goal to the range. Rather
+than just hit balls and ‘hope’ that this one is going to be a good one (who cares anyway, tomorrow
+it might be gone), why not try and actually improve something.
+Why not take the tip of striking the ground in the right place and say
+“This session, I am going to dedicate myself 100% to improving my ability to strike
+the ground in a better place”
+If every week you were to improve that average by 0.5 inches, that would be 2.5 shots off your
+handicap (theoretically). You could do the above with any one of the tips so far. You may even
+want to split your session into 2 or 3 segments, and devote a certain segment of time to improving
+one thing, before moving on to a different element.
+Smart Goals
+Smart Goals are Specific, Measureable, achievable, realistic and time based. Are your goals smart?
+If you wanted to improve your strike with the sweet spot, why not draw a little circle on the sweet
+spot with a quarter (or 2p coin if you are a Brit). See how many shots out of 10 you can get in that
+area. Try to improve it every week.
+28
 
-www.AdamYoungGolf.com 
-54  Also, check out my HD video series, The Strike Plan. It’s available on my website, and dives in depth into the concepts, techniques and skills relating to solid strike – a key skill if you desire consistent and longer distances. Go to www.adamyounggolf.com/the-strike-plan for more info. 
- Don’t forget to check out www.Fuel4Golf.com for more great info on nutrition – you can get a weight loss, a muscle gain or a performance plan to improve your body and your game. If you would like to work with me directly, you can contact me via my website and we can arrange a plan of improvement. I offer practice plan design and video swing analysis – you can find out more by going to www.adamyounggolf.com/online-coaching-2 for more information. Adam Young   
+Record your results – write it down in a little notepad, even if it is only to get baseline numbers.
+Then you can watch over time as your ability to do it improves. The below is an example of how
+to set a smart goal
+SPECIFIC - I will improve my ability to hit the sweet spot
+MEASUREABLE - See how many I can get inside a quarter sized circle
+ACHIEVABLE - This is possible for any person of any level
+REALISTIC - I want to get to 7/10 success rate
+TIME BASED - I want to do this by the end of the year
+Think about other ways you can set Smart Goals. What other areas of your game, and your life,
+can you set goals like this?
+Measuring and going through your goals as you progress is a great way of inspiring confidence.
+There was a time where I averaged hitting 4 inches behind the golf ball, and now my average is ½
+inch in front. I never noticed the improvement from day to day, but looking back on my journals,
+I can see big leaps.
+29
 
-www.AdamYoungGolf.com 
-55  AUTHOR BIOGRAPHY Adam Young, Author of the bestselling book “The Practice Manual – The Ultimate Guide for Golfers” has worked at some of the most prominent facilities in the world, including being a teaching professional at the World famous Turnberry Resort, Scotland. He is currently (at the time of writing) residing in Santa Barbara, California, working with groups and individual golfers. Adam also has a business degree (AGMS, BA Hons) from the prestigious University of Birmingham, UK.  With thousands of hours of teaching experience all over the world, from elite players to rank beginners, Adam has a very unique perspective on learning this insanely difficult game. Through experience with elite players, he has seen that there is more to great golf than simply technique; co-ordination, feel, understanding, strategy etc. all play a role in maximizing your potential. And through experience with the average golfer, Adam knows that the greatest predictor in someone’s success is down to how they practice, as well as their understanding of the task and the learning process. For these reasons, Adam started a blog (www.AdamYoungGolf.com) where he teaches more about the learning process – knowledge acquired from reading hundreds of books on motor learning, psychology, self-help, motivation, business, biology, genetics, consciousness etc. Adam also takes inspiration from the scientific literature on motor learning, as well as conducting experiments himself to improve his pupils further – as well as the golf industry. As a result, Adam’s writing is popular with both teachers and players of this game, achieving over 100,000 views in just a couple of years.   
+Tip # 7 Variability
+“Perfect Practice Makes Perfect”
+Well, that’s what they used to say. Things are going to change – a revolution is coming, inspired
+by motor learning research.
+This was the mantra I was brought up to believe – almost with a dogmatic fear of doing anything
+the wrong way. My childlike instincts to play were outrun by my intellectual instinct to do things
+the right way. Not anymore.
+We actually learn more from playing around and experimenting with variables than we do from
+trying to hone one thing. In my own study (calibration vs experimentation article on my blog), I
+discovered that a group who tried to hit the toe and the heel intentionally for 5 days has a better
+ability to hit the middle of the face than the group who tried to only hit the middle of the face.
+This completely defies logic and instinct, but it is true – and my research is not the only one to find
+this.
+So, the message here is short and sweet – try and add a bit of variability into your practice. In my
+book “The Practice Manual – The Ultimate Guide for Golfer’s”, I discuss these ideas in depth, as
+well as talking about a radical new way of training called ‘Differential Learning’.
+But for now, here are 3 ways you can integrate this into your practice – following on from the first
+3 tips.
+30
+
+Striking the face
+Rather than just constantly trying to strike the middle of the face over and over (which will improve
+your ability, but slowly), try this drill.
+Split the face into two separate parts. Try to hit ten balls from the heel side, and ten balls from the
+toe side. When you can do this to a 7/10 mark (or 14/20 for the 20 balls), switch to alternating it –
+one toe and one heel.
+Split the clubface like this, and try to hit some in the heel and some in the toe area.
+After you have done this, spend the other half of your practice time trying to calibrate a middle
+strike – you will find it much easier to do now. And, over time, these skills will become automatic
+31
+
+to you, giving you the ability to fix yourself should a problem crop up – which it will at some point
+in time.
+Striking the ground
+Ok, so we know we are trying to hit the ground in the ‘red zone’ outlined in tip #1. But let’s throw
+some variations in there. Try these two things
+Variation # 1
+Try to hit the ground in the right place, but try to do it using different ball positions.
+Place one ball back in your stance, one ball further forwards, and one more in the middle of your
+stance. Do this with varying clubs. Notice the trajectory the ball flies when you do it correctly, and
+notice which ball position you find it easier to make clean contact with.
+Over time, your ability to strike anywhere you want in your stance will improve dramatically –
+and this can never be a bad thing.
+Variation # 2
+Place the ball in your normal ball position for that club. Now start with the club a foot behind the
+ball. Try and swing back and hit the ‘red zone’.
+Try and start with the club hovering half a foot above the ground. Again, swing back and return
+the club to the red zone, if you can. Do these things without a ball at first, and then add a ball in as
+your skills progress.
+This dramatically improves your ability to control what is called ‘low point’ I terms of both height
+and position. I discuss this idea more in “The Practice Manual”, as it is a vital key in understanding
+how to strike the ball effectively.
+32
+
+Clubface control
+Very simply, if you want to develop an instinctive understanding of how to get the clubface in
+your desired position, start experimenting.
+Hit ten shots with a clubface as closed as possible. Go on – shut your face! Don’t be frightened by
+how much you do it – have some fun and see if you can get the ball to start and even curve left.
+Now open it. Wide open – go on, what are you scared of. Whack the clubface 50 degrees open and
+see if you can hit a shot with it. Not only will the ball go more to the right, but it should go weaker
+and higher in trajectory. Now do everything in between. Find out and build your own scale of open
+to closed clubfaces. Extreme, subtle, middle. Now you have the ability to calibrate your desired
+shot direction.
+Half of your practice should be variations like this, and half should be trying to calibrate the on-
+line shot. My studies with golfers have shown that players who do both variations and try to get
+straight shots combined are better than those who only try straight shots.
+33
+
+MENTAL TIPS
+We all know that the mental game is important to our golf. We get told it all the time, and
+experience it when we mess up that shot that we know we can easily hit, but the pressure of the
+situation made us choke.
+If you suffer with
+• Anger
+• Nerves
+• Lack of focus and concentration issues
+• General inconsistency
+• Ruining good rounds
+• Not being able to picture good shots
+• Only seeing the danger
+• Distractions
+• Double crossing yourself
+These mental tips should help knock a couple of shots off your game easily. Let’s face it, we all
+lose at least 2 or 3 shots a round from the above issues, if not more. You can go to the range all
+you want, but if you are not hitting the real root cause of the problem (mental), that shiny new
+swing you are trying to perfect will just break down again.
+34
+
+Tip # 8 Routine
+“We hear it all the time; routine, routine, routine”, is a classic quote from Tiger Woods as he is in
+a clinic explaining his routine to on-looking admirers.
+What is a routine?
+We all have one, some are simply better than others. A routine should be there to prepare you both
+mentally and physically for the shot. It should include some form of decision making, in terms of
+shot selection and club selection. It should also include some preparation in terms of mentally
+visualizing the shot, and making a physical practice swing to unlock the desired movement.
+Alignment is also a key element of a routine, as is the execution of the shot itself.
+While I am not going to go through an entire routine here with you (we can work on your specific
+routine if you decide to work with me online), but I will make this one very important point.
+Great players have an incredibly consistent routine
+In terms of the number of practice swings, the time they take from stepping forwards to hitting the
+ball, the thought processes they have, they are all as consistent as possible. In fact, Tiger Woods
+has been known to have a routine which is consistent to within a few hundredths of a second from
+the moment he first steps forwards until the moment the club strikes the ball.
+There is also a video floating around of Jack Nicklaus. It is a split screen, with two shots around
+26 years apart. From the moment he steps forwards until the moment the club strikes the ball is
+exactly the same amount of time.
+35
+
+And what about you?
+If you’re like the majority of amateurs (which you are), it is likely that your routine is all over the
+place. Different numbers of practice swings, sometimes taking longer over the ball, sometimes
+rushing it, and maybe going through ten or more different swing thoughts in a round of golf, trying
+to find the secret.
+If you do this one bit of advice, and dedicate yourself to practicing it for a whole month, I promise
+you will see results in consistency.
+Make your routine as consistent as possible
+Always
+• Take the same number of practice swings
+• Take a similar amount of time from stepping forwards until hitting the ball
+• Have one simple swing thought per shot. You can change it (not too much), but make sure
+it is simple and not too many of them
+• Keep moving during the routine and set up. Don’t stop dead over the ball
+• Take just enough time to get comfortable over the ball, but not so much time that you can
+start to over think.
+Just promise me you will commit to making these things a part of your routine, and practicing
+them on the range too, not just the course. At first, it might be a little bit of a disturbance as the
+routine may be new to you. But over time, your routine will help you get into a flow state where
+you’re not thinking much, but performing well. This is called the Zone.
+And if that is not enough to convince you, I will leave you with this. The last time you played
+through another group and rushed your routine to get out of their way, what happened? I’ll bet you
+duffed it up the fairway and ended up picking the ball up in embarrassment. Also, the last time you
+36
+
+had a very important shot and took one more practice swing, tried to think more than normal over
+the shot and took it slow because ‘it was extra important’, what happened? I’ll bet you duffed that
+shot too.
+This is why a consistent routine is so important.
+Tip # 9 Visualization
+What do you do after a round of golf. You go to the bar, and if you are like most golfers, you
+discuss and reminisce about the round that could have been.
+Maybe you have even scored quite well but left a couple of shots out there (as we all do). If only
+you hadn’t 3 putted the 5th hole, or knocked that shot out of bounds on the 13th. But, could you be
+doing yourself a big disservice by thinking this way?
+Neurons and stuff
+When we think a thought, we fire neurons in the brain relating to that image/movement/thought.
+The more we do it, the more it fires and the stronger the neuronal connections get. Do it enough
+times, and it starts to get insulated – a process called myelination, which will make that thought
+more efficiently and often accessed. This is why we tend to think the same thoughts day after day,
+and get ‘stuck in our beliefs’.
+This has an effect on movement too. If we think a thought, our brain sends an electrical impulse
+to our muscles, building up the potential for it to fire that way.
+37
+
+So, every time you think about that pulled shot on the 13th, you are wiring that movement and
+image in your brain, and next time you are on the 13th, you brain will automatically fire that image,
+give you a sense of nervousness and also is more likely to send that message to the muscle.
+Ever hear someone say something like “I hate the 13th, I always go left on that hole”. Now you
+know why.
+So, what should we do?
+Simple, at the end of a round, maybe make one point about what you could have done better. In
+your mind, go to that shot you hit poorly, and replace the image by imagining a shot you hit in that
+situation, or a similar situation, which was perfect.
+Have you ever hit an amazing high draw down the centre of the 13th fairway? Sure you have. Spend
+5 minutes repeating that one in your head.
+Then, go through the rest of the shots in your round of golf mentally, and every time you come to
+one of your best shots that day, repeat it over and over in your head. Any poor ones, replace them
+with better images.
+As an amateur golfer, I did this regularly. I quickly got to scratch in just over 3 years. It really
+helps – and is a great boost to confidence. And there is a lot of science supporting it too.
+38
+
+NUTRITION TIPS
+Most players on tour are deep into their fitness – it seems you can’t make it to the top now unless
+you are a machine. Even the outliers are actually quite fit, even if they don’t look it.
+The next big thing is going to be nutrition. I have teamed up with Fuel4Golf.com – and as a
+nutritionist myself, we have come up with some simple tips to help you.
+If you have ever
+• Lost concentration towards the end of the round
+• Felt weak or lethargic
+• Felt full during a round of golf
+• Felt sluggish after the half-way house
+• Had the shakes
+These tips can really help you. At worst, the added concentration should help to knock a shot off
+your round on average, over the course of a year. And it’s really simple advice.
+Disclaimer – for any nutritional advice implementation, seek advice from your doctor first. This
+is generic advice and is not intended to be for everyone, as some people may have allergies or
+problems with certain foods.
+If you would like a nutritional plan custom designed for your needs (performance, weight loss,
+muscle gain), contact us at www.fuel4golf.com and get a plan made just for you.
+39
+
+Tip # 10 Eat Enough
+Most people don’t realize but, a round of golf can burn upwards of 1000 calories. That is a hell of
+a lot of energy. And, if you are a professional golfer, or a tournament player, you are sometimes
+doing two rounds in a day. And this is even before we have added basal metabolic rate (the normal
+amount of food needed to sustain yourself in a day). So, a 2 round event may mean you need 4500
+or more calories total.
+Banana’s don’t cut it
+They are great, but they are not enough. A banana has only 100 calories. An apple is about the
+same. I have even seen people give their kids peppers to take on the course – a pepper has only 25
+calories. You would have to eat a whole golf bag full to even maintain energy during a round.
+We can’t eat too much food either – because we will be too full to swing. So we need to find
+energy dense sources of foods.
+Enter nuts
+Nuts are great, as per 100 grams, they have almost 700 calories. That is 7 times more energy dense
+than a banana. Dried fruit is also very energy dense at almost 400 calories per 100 grams. Trail
+mix is a great option.
+I am not against people having chocolate bars on the course either. It is a myth that your blood
+sugar will crash and you will lose all your energy. If you believe it to be true, you certainly may
+feel that way. But generally, people will be better after eating a snickers or something similar
+during a round of golf.
+40
+
+Steady goes it
+To keep blood sugar levels more steady, try to split the food up over the course of the round of
+golf. Rather than guzzle 200 grams of almonds on the first tee, spread it out. Maybe have a couple
+of bananas, 100 grams of nuts and a chocolate bar split in 3 bites.
+And try not to eat a big greasy burger at the halfway house. The combination of fats and carbs will
+likely leave you feeling full, tired and burping during your swing.
+Tip # 11 Drink enough
+I am not talking about beer from the cart girl.
+Take enough fluids with you. Even on a normal day where it is not hot and you don’t think you
+will be sweating, your body needs fluids. And if you are thirsty, it is too late – you have already
+started to drop performance.
+This doesn’t just affect concentration – motor control and coordinating your swing is hampered if
+you are dehydrated. And research shows it doesn’t take much dehydrating to really hurt your game.
+Even 3% water loss can result in incredible performance detriments.
+If you are going to drink sports drinks, opt for the lower energy ones. Check the calorie count and
+make sure it is less than 50 calories per 100ml. If not, water it down and sip it throughout the
+round, rather than taking big gulps.
+41
+
+Tip # 12 Fats, Protein or Carbs
+Find out which foods help you perform better.
+Before a round of golf (around about 3-4 hours before), have a nice big meal to stock up on your
+energy levels. This may be impossible if you have an early tee time, but in that case, look more
+closely at tip #10.
+But different people respond better to different food types. Some people need carbohydrates and
+protein to have sustained energy, and some people perform better on good fats and proteins. Notice
+that I put protein into both food sources there.
+Try this little test;
+Play a round of golf. Beforehand, have a meal of fats and proteins only. This may be
+chicken breast with olive oil, and an avocado. Do this for the next 10 round and report
+your scores and keep track of how you feel during the round. Next, play 10 rounds of
+golf, having a meal of protein and carbohydrate beforehand. This may be chicken
+breast and rice or couscous. Note how you play and feel during the rounds.
+You can even do this test without playing golf. Just have it for lunch and note how your energy
+levels and concentration are – see which one you are better with. You can also try experimenting
+with different calorie amounts and food densities too, honing in on your perfect pre-game meals.
+If you would like someone from Fuel4Golf to design a meal plan for you and find out the perfect
+foods for you, contact us at Fuel4golf.com
+42
+
+STRATEGY TIPS
+Course management is a massive topic – and the average player can save a ton of shots per round
+without ever touching their swings, if they just knew how to think better.
+I have often seen a player come in for a lesson complaining of their slice. I watch them hit a 20
+yard fade over and over and think “Why is it that I curve the ball 20 yards in the air and can shoot
+under par, and this player is doing the same and not breaking 90”?
+While there are plenty of reasons for that, a quick playing lesson will usually show that their
+choices on the course are making them throw away shots every round. So, let’s look at two tips
+that can instantly knock shots off your round of golf.
+No more – these strategy hacks are going to knock one or more shots per round off your game
+easily – if you use them.
+Tip # 13 Hit the Back
+If you are to stand next to a green and just watch the golfers playing through it all day, how many
+shots do you think would go over the back of the green versus landing short?
+Think about it yourself; what percentage of your shots finish short of the flag versus long? Have
+you ever kept track?
+How far do you hit your club?
+I hit a 7 iron, at best (perfect strike, aggressive swing) around 170 yards; nothing special for a pro.
+I also test a lot of amateurs – the majority seem to believe they hit their 7 iron 150 yards – that
+43
+
+seems to be the go-to number for people. Yet, time and time again, it is more common that these
+players actually average 130 yards – at best.
+Despite the fact that my best 7 iron is 170 yards, I actually strategize for a mis-hit. How often am
+I, or anyone, going to flush shots all day? If you are playing a strategy based on your best 5% of
+shots, you will be lucky to play good golf 5% of the time.
+Shoot for the stars, and you will at least reach the moon
+One of my go-to strategies for a player is to get players to play to the back of the green. This way,
+any mis-hit is still going to be on the green. If the pin is on the middle of the green, this mis-hit
+may actually finish very close – and even a much poorer hit which lands on the front of the green
+will leave you a nice distance from the flag (unless the pin was at the back).
+What we typically want to avoid is hitting short, as that is where the majority of the danger is. And
+missing a green will cost a player a full shot typically.
+44
+
+As we see in the above picture, by aiming for the back of the green (140 yards), if we hit it flush,
+we will be safe. Our mis-strikes will generally stay in that red zone, and some of them could be
+real nice birdie opportunities.
+The study
+I proved this hypothesis in a little study of golfers. I set up a par 3 green where the pin was tucked
+on the front of the green at 120 yards – the back of the green being 145 yards.
+I then got 20 amateurs to hit their 120 yard club and finish out. We then replayed the hole, this
+time hitting their 140 yard club, with the specific instructions to see if they can fly it over the back
+of the green. The results were amazing;
+• The 120 yard clubs (firing at the pin ) scored 3.8 on average
+• The 140 yard hitters scored 3.6 on average
+Wait, that’s not a lot!
+Sure – 0.2 of a shot is not a lot of difference. But add that up over 18 holes and it becomes a
+whopping 3.6 shots per round.
+Not bad for one simple tip
+Better players
+If you’re a better player and thinking “Sure, but I don’t mis-strike the ball”, just try and play 10
+yards more than the flag yardage with an aggressive swing. Even if you are to flush it all day long
+(unlikely), you will only be 10 yards long, or 35 feet. This would easily put you in the top 50 in
+the world for proximity to the pin. And with every mis-strike getting you closer to the hole, it’s a
+win-win.
+45
+
+Tip # 14 Aim to the safe side
+Did you know that the average tour player is 10 yards away from the flag after their approach shot.
+So, a top pro hitting into a green may finish 10 yards right or left of a flag – that’s a 20 yard square.
+Most average players fire straight at the pin. Well, if the flag is on the side of the green, this could
+be costing you unnecessary shots. Look at the example picture here;
+This is our typical pin cut left with a bunker on the left side. A player who fires at the pin may
+miss 10 yards left or right (this square is probably even larger for yourself). Also, re-iterating the
+last tip, a player may finish up to 20 yards short as an average.
+46
+
+Using this strategy, sure they may hit a few close, but they are also bringing the bunker into play.
+Generally, if a player hits the ball into the bunker, it will cost them a shot on average. And even if
+a player hits it close to 10 feet, the average hole out rate for a pro is only 40% from this distance.
+So, hitting it to 10 feet only saves you 0.4 of a shot.
+Change of strategy
+What if you were to change your aim, like the below picture?
+47
+
+By aiming where the picture indicates (back middle of the green), we not only take the bunkers
+out of play, but our left side miss now becomes a birdie opportunity. And our right side miss still
+lands on the green, or at worst gives us a chip with a lot of green to work with where we can play
+a chip and run shot (as opposed to a fiddly short flop).
+Mathematically, this could save you 0.33 shots or more every time you come into this scenario. If
+we replaced the bunker with water, we may even save ourselves more shots. You will still end up
+with the same amount of birdie opportunities, but you eliminate the tough up and down shots.
+My book “The Practice Manual –The Ultimate Guide for Golfers” discusses these strategic ideas
+more in depth.
+Bu the simplified message here is to not fire at the pin always. Try to aim to the middle or safer
+side of the green. Also, try to think of your target as a shot square/circle rather than a pinpoint.
+This will allow you to place that imaginary circle in a best-fit for the green.
+By improving your strike quality, you can achieve a smaller shot dispersion – especially
+longitudinally. If this is a goal of yours, make sure to check out The Strike Plan by going to
+www.adamyounggolf.com/the-strike-plan
+48
+
+PUTTING TIPS
+Putting is still a vital element of the game. A recent Masters win by Jordan Spieth showed us just
+how important it is to hole those 6-12 footers; a range we often find ourselves in.
+Now, it is important to remember that we will never be able to hole all of those putts. Outside of a
+certain range, there is a luck element involved too. Spike marks, random blades of grass,
+unbalanced golf balls etc. means that only 40% of 10 foot putts are holed by even professionals.
+But that should not stop us getting better at this.
+Especially when we can practice it in the office.
+So, here are a couple of putting tips to get you going. Practice these, and you will no doubt be
+saving a shot or two per round off your game.
+Tip # 15 Putt to a coin
+Have you ever had that day where the hole seems like a bucket? You look at it and think “Wow, I
+am so confident over this putt”.
+Want to get in that state more often?
+Sure you do. So here is a great tip to refine your action and at the same time change your perception
+of the hole and build confidence.
+49
+
+Make things more difficult
+Practicing two meters away from a golf hole sized target (like an upturned mug) in your office or
+at home is a good pastime. However, you can still be 2 degrees offline and get the ball to hit the
+cup. While this may make you an ok putter, let’s tune it up a notch.
+Replace the hole with a coin
+– you can do this on a real green too.
+Use a medium sized coin, like a quarter or a ten pence piece. This dramatically reduces your error
+allowance, forcing you to improve your motor skills and gain better control of the clubface. As a
+result of the smaller and more difficult target, you will make more mistakes. Your brain then
+responds by refining your action further.
+The smaller size of the coin demands more of your skill level.
+50
+
+Not only that, but it changes you mentally
+A recent study showed that players who practiced putting to a bucket perceived a golf hole as being
+much smaller than players who had practiced to a coin. When they drew a picture of a golf hole
+on a piece of paper, the coin practice group drew a 40% larger cup size.
+Imagine the confidence this will give you as your brain sees that cup as a huge hole in the ground.
+Your belief will skyrocket, which will allow your brain to take in more info on line and speed and
+create more holed putts. There is a complex area of the brain called the Reticular Activating System
+which deals with information filtering. Confidence filters in better information.
+In my book, The Practice manual, I discuss other ways of manipulating the task difficultly to have
+positive effects on both learning and performance.
+Tip # 16 High or low?
+This is a simple way of analyzing putts which helps a player’s subconscious mind to co-ordinate
+all the variables of speed, line and read. It is popular these days to split these skills up and break
+them down – but motor learning research shows that this might not be the best approach. This tip
+will help you in that regard.
+Self-analysis is the key to improvement
+Quite simply, all I want you to do is to take a small pocket notebook out with you and, if your
+speed of putt is reasonable (finishes within 3 feet of the hole), note down if you missed on the high
+or low side of the cup.
+51
+
+Doing this will ensure that, over time, your ability to subconsciously and consciously read greens
+gets better. This will have a knock-on effect to your speed control, which will then feed-back in
+on your green reading – a very positive loop to be in.
+This is opposed to isolating one variable, such as your stroke, and working solely on that. If you
+mis-read a putt, making a better stroke is not going to help you. All of the elements of reading,
+speed and stroke have to improve together – this drill will help you nudge all the variables into
+better places synergistically.
+52
+
+So, there you have it!
+Thank you for reading this E-book, I am sure it will help you. Some of these tips will really help
+you lower your scores, hit straighter, crisper and longer shots, and more consistently too. Applying
+these ‘Hacks’ consistently will see your scores plummet over the year.
+But understand that these are the tip of the iceberg. There is a lot more quality information that I
+produce, much of which I give away free on my blog, so stay tuned.
+My book “The Practice Manual – The Ultimate Guide for Golfers” is packed full of info on
+learning, strategy and skill development, as well as making some pretty in depth additions that the
+industry has never seen before. Combining information on motor learning research, but written in
+a style that the average Joe can understand, it’s making waves with coaches and players worldwide.
+There is a reason why it has been the number one best-sellers for golf (amazon) in the USA, UK,
+France, Germany and now Canada. It has also been featured on The Golf Channel as one of the
+“must-have books” by Martin Hall. Go to www.adamyounggolf.com/the-book to find out more.
+53
+
+Also, check out my HD video series, The Strike Plan. It’s available on my website, and dives in
+depth into the concepts, techniques and skills relating to solid strike – a key skill if you desire
+consistent and longer distances. Go to www.adamyounggolf.com/the-strike-plan for more info.
+Don’t forget to check out www.Fuel4Golf.com for more great info on nutrition – you can get a
+weight loss, a muscle gain or a performance plan to improve your body and your game.
+If you would like to work with me directly, you can contact me via my website and we can arrange
+a plan of improvement. I offer practice plan design and video swing analysis – you can find out
+more by going to www.adamyounggolf.com/online-coaching-2 for more information.
+Adam Young
+54
+
+AUTHOR BIOGRAPHY
+Adam Young, Author of the bestselling book “The Practice Manual – The Ultimate Guide for
+Golfers” has worked at some of the most prominent facilities in the world, including being a
+teaching professional at the World famous Turnberry Resort, Scotland. He is currently (at the time
+of writing) residing in Santa Barbara, California, working with groups and individual golfers.
+Adam also has a business degree (AGMS, BA Hons) from the prestigious University of
+Birmingham, UK.
+With thousands of hours of teaching experience all over the world, from elite players to rank
+beginners, Adam has a very unique perspective on learning this insanely difficult game. Through
+experience with elite players, he has seen that there is more to great golf than simply technique;
+co-ordination, feel, understanding, strategy etc. all play a role in maximizing your potential. And
+through experience with the average golfer, Adam knows that the greatest predictor in someone’s
+success is down to how they practice, as well as their understanding of the task and the learning
+process.
+For these reasons, Adam started a blog (www.AdamYoungGolf.com) where he teaches more about
+the learning process – knowledge acquired from reading hundreds of books on motor learning,
+psychology, self-help, motivation, business, biology, genetics, consciousness etc. Adam also takes
+inspiration from the scientific literature on motor learning, as well as conducting experiments
+himself to improve his pupils further – as well as the golf industry. As a result, Adam’s writing is
+popular with both teachers and players of this game, achieving over 100,000 views in just a couple
+of years.
+55

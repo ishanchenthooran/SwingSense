@@ -2,15 +2,18 @@ from __future__ import annotations
 
 import argparse
 import re
+from collections import Counter
 from pathlib import Path
-from typing import Iterable, List, Tuple
+from typing import Iterable, List, Set, Tuple
 
-from pypdf import PdfReader
+import pdfplumber
 
 
 RAW_ROOT = Path(__file__).parent / "corpus" / "raw"
 PROCESSED_ROOT = Path(__file__).parent / "corpus" / "processed"
 SUBSET_CHOICES = {"user", "internal", "all"}
+MIN_PAGE_WORDS = 40
+RUNNING_LINE_THRESHOLD = 0.4
 
 
 def _collapse_whitespace(text: str) -> str:
@@ -23,16 +26,49 @@ def _iter_pdf_paths(root: Path) -> Iterable[Path]:
     return sorted(path for path in root.rglob("*.pdf") if path.is_file())
 
 
+def _detect_running_lines(pages: List[str], threshold: float = RUNNING_LINE_THRESHOLD) -> Set[str]:
+    """Find lines appearing in the first/last 2 lines of >= threshold fraction of pages."""
+    counter: Counter = Counter()
+    for text in pages:
+        lines = text.strip().splitlines()
+        for line in lines[:2] + lines[-2:]:
+            stripped = line.strip()
+            if stripped:
+                counter[stripped] += 1
+    min_count = max(2, int(len(pages) * threshold))
+    return {line for line, count in counter.items() if count >= min_count}
+
+
+def _strip_running_lines(text: str, running_lines: Set[str]) -> str:
+    return "\n".join(
+        line for line in text.splitlines() if line.strip() not in running_lines
+    )
+
+
 def _read_pdf_text(path: Path) -> str:
-    reader = PdfReader(str(path))
-    pages = [page.extract_text() or "" for page in reader.pages]
-    return "\n".join(pages)
+    raw_pages: List[str] = []
+    with pdfplumber.open(path) as pdf:
+        for page in pdf.pages:
+            raw_pages.append(page.extract_text() or "")
+
+    non_empty = [p for p in raw_pages if p.strip()]
+    running_lines = _detect_running_lines(non_empty)
+
+    pages: List[str] = []
+    for text in raw_pages:
+        if not text.strip():
+            continue
+        text = _strip_running_lines(text, running_lines)
+        if len(text.split()) >= MIN_PAGE_WORDS:
+            pages.append(text)
+
+    return "\n\n".join(pages)
 
 
-def _convert_pdf(path: Path, raw_root: Path, processed_root: Path) -> Tuple[bool, Path]:
+def _convert_pdf(path: Path, raw_root: Path, processed_root: Path, force: bool = False) -> Tuple[bool, Path]:
     relative = path.relative_to(raw_root)
     output_path = processed_root / relative.with_suffix(".txt")
-    if output_path.exists():
+    if output_path.exists() and not force:
         return False, output_path
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
@@ -63,6 +99,12 @@ def _parse_args() -> argparse.Namespace:
         default="all",
         help="Subset of PDFs to convert.",
     )
+    parser.add_argument(
+        "--force",
+        action="store_true",
+        default=False,
+        help="Re-process PDFs even if .txt output already exists.",
+    )
     return parser.parse_args()
 
 
@@ -79,7 +121,7 @@ def main() -> None:
         for pdf_path in _iter_pdf_paths(raw_root):
             pdfs_found += 1
             try:
-                did_convert, _ = _convert_pdf(pdf_path, raw_root, processed_root)
+                did_convert, _ = _convert_pdf(pdf_path, raw_root, processed_root, force=args.force)
                 if did_convert:
                     converted += 1
                 else:
