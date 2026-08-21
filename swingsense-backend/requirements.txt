@@ -14,6 +14,7 @@ psycopg2-binary==2.9.10
 
 # Auth
 PyJWT==2.10.1
+cryptography==43.0.3  # required by PyJWT for RS256/ES256 (JWKS) verification
 python-jose==3.5.0
 
 # RAG
