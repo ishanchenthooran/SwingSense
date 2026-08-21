@@ -8,6 +8,8 @@ from typing import Iterable, List, Set, Tuple
 
 import pdfplumber
 
+from app.rag.toc_filter import is_toc_like
+
 
 RAW_ROOT = Path(__file__).parent / "corpus" / "raw"
 PROCESSED_ROOT = Path(__file__).parent / "corpus" / "processed"
@@ -59,8 +61,11 @@ def _read_pdf_text(path: Path) -> str:
         if not text.strip():
             continue
         text = _strip_running_lines(text, running_lines)
-        if len(text.split()) >= MIN_PAGE_WORDS:
-            pages.append(text)
+        if len(text.split()) < MIN_PAGE_WORDS:
+            continue
+        if is_toc_like(text):
+            continue
+        pages.append(text)
 
     return "\n\n".join(pages)
 

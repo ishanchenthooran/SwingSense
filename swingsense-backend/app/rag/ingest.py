@@ -13,6 +13,7 @@ from openai import OpenAI
 from app.core.config import settings
 from app.rag.schemas import Chunk
 from app.rag.store import DEFAULT_INDEX_DIR, load_index_and_metadata, save_index
+from app.rag.toc_filter import is_toc_like
 
 
 EMBED_MODEL = "text-embedding-3-small"
@@ -80,6 +81,7 @@ def _chunk_text(text: str, chunk_size: int = DEFAULT_CHUNK_SIZE, overlap: int = 
 
     chunks: List[str] = []
     blocks = [b.strip() for b in text.split("\n\n") if b.strip()]
+    blocks = [b for b in blocks if not is_toc_like(b)]
 
     for block in blocks:
         if len(block) <= chunk_size:
