@@ -2,9 +2,9 @@
 from __future__ import annotations
 
 import uuid
-from datetime import datetime
+from datetime import date, datetime
 
-from sqlalchemy import Text, ForeignKey, TIMESTAMP, func
+from sqlalchemy import Text, ForeignKey, TIMESTAMP, Date, func
 from sqlalchemy.dialects.postgresql import UUID, JSONB
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 
@@ -106,6 +106,29 @@ class UserProfile(Base):
     handicap: Mapped[float | None] = mapped_column(nullable=True)
     skill_level: Mapped[str | None] = mapped_column(Text, nullable=True)
     goals: Mapped[str | None] = mapped_column(Text, nullable=True)
+    created_at: Mapped[datetime] = mapped_column(
+        TIMESTAMP(timezone=True), server_default=func.now()
+    )
+    updated_at: Mapped[datetime] = mapped_column(
+        TIMESTAMP(timezone=True), server_default=func.now(), onupdate=func.now()
+    )
+
+
+class RoundLog(Base):
+    __tablename__ = "round_logs"
+
+    id: Mapped[uuid.UUID] = mapped_column(
+        UUID(as_uuid=True), primary_key=True, default=uuid.uuid4
+    )
+    user_id: Mapped[uuid.UUID] = mapped_column(UUID(as_uuid=True), nullable=False, index=True)
+    round_date: Mapped[date] = mapped_column(Date, nullable=False)
+    course_name: Mapped[str | None] = mapped_column(Text, nullable=True)
+    score: Mapped[int] = mapped_column(nullable=False)
+    score_to_par: Mapped[int | None] = mapped_column(nullable=True)
+    putts: Mapped[int | None] = mapped_column(nullable=True)
+    fairways_hit: Mapped[int | None] = mapped_column(nullable=True)
+    greens_in_regulation: Mapped[int | None] = mapped_column(nullable=True)
+    notes: Mapped[str | None] = mapped_column(Text, nullable=True)
     created_at: Mapped[datetime] = mapped_column(
         TIMESTAMP(timezone=True), server_default=func.now()
     )
