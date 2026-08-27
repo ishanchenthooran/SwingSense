@@ -4,7 +4,7 @@ import argparse
 import re
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Iterable, List, Sequence, Tuple
+from typing import Iterable, List, Optional, Sequence, Tuple
 
 import faiss
 import numpy as np
@@ -12,15 +12,15 @@ from openai import OpenAI
 
 from app.core.config import settings
 from app.rag.schemas import Chunk
-from app.rag.store import DEFAULT_INDEX_DIR, load_index_and_metadata, save_index
+from app.rag.store import DEFAULT_INDEX_DIR, DEFAULT_TOP_K, load_index_and_metadata, save_index
 from app.rag.toc_filter import is_toc_like
 
 
 EMBED_MODEL = "text-embedding-3-small"
 DEFAULT_CHUNK_SIZE = 1200
 DEFAULT_CHUNK_OVERLAP = 100  # only used in hard-split fallback for oversized sentences
-DEFAULT_K = 3
 CORPUS_DIR = Path(__file__).parent / "corpus"
+_PAGE_MARKER_RE = re.compile(r"^\[\[PAGE (\d+)\]\]\s*\n?")
 
 
 @dataclass(frozen=True)
@@ -64,7 +64,7 @@ def _load_corpus(corpus_dir: Path) -> List[Document]:
 def _infer_title(path: Path, text: str) -> str:
     for line in text.splitlines():
         stripped = line.strip()
-        if not stripped:
+        if not stripped or _PAGE_MARKER_RE.match(stripped):
             continue
         if stripped.startswith("#"):
             return stripped.lstrip("#").strip() or path.stem
@@ -72,20 +72,37 @@ def _infer_title(path: Path, text: str) -> str:
     return path.stem
 
 
-def _chunk_text(text: str, chunk_size: int = DEFAULT_CHUNK_SIZE, overlap: int = DEFAULT_CHUNK_OVERLAP) -> List[str]:
+def _chunk_text(
+    text: str, chunk_size: int = DEFAULT_CHUNK_SIZE, overlap: int = DEFAULT_CHUNK_OVERLAP
+) -> List[Tuple[str, Optional[int]]]:
     """Split text on page boundaries (\n\n), then fall back to sentence-aware splitting
     for blocks that exceed chunk_size. overlap is only used when a single sentence itself
-    exceeds chunk_size and must be hard-split."""
+    exceeds chunk_size and must be hard-split.
+
+    Each returned segment is paired with the page number of the block it came from
+    (parsed from the "[[PAGE N]]" markers preprocess_pdfs.py inserts). A block that
+    itself gets split into multiple chunks has all of its pieces tagged with that
+    block's starting page — approximate, not precise, for blocks that straddle pages."""
     if chunk_size <= 0:
         raise ValueError("chunk_size must be positive")
 
-    chunks: List[str] = []
-    blocks = [b.strip() for b in text.split("\n\n") if b.strip()]
-    blocks = [b for b in blocks if not is_toc_like(b)]
+    raw_blocks = [b.strip() for b in text.split("\n\n") if b.strip()]
 
-    for block in blocks:
+    current_page: Optional[int] = None
+    blocks: List[Tuple[str, Optional[int]]] = []
+    for block in raw_blocks:
+        match = _PAGE_MARKER_RE.match(block)
+        if match:
+            current_page = int(match.group(1))
+            block = _PAGE_MARKER_RE.sub("", block, count=1).strip()
+        if not block or is_toc_like(block):
+            continue
+        blocks.append((block, current_page))
+
+    chunks: List[Tuple[str, Optional[int]]] = []
+    for block, page in blocks:
         if len(block) <= chunk_size:
-            chunks.append(block)
+            chunks.append((block, page))
             continue
 
         # Sentence-aware split for long blocks
@@ -97,33 +114,34 @@ def _chunk_text(text: str, chunk_size: int = DEFAULT_CHUNK_SIZE, overlap: int = 
             elif len(current) + 1 + len(sentence) <= chunk_size:
                 current = current + " " + sentence
             else:
-                chunks.append(current)
+                chunks.append((current, page))
                 if len(sentence) > chunk_size:
                     # Hard-split oversized single sentence with overlap
                     start = 0
                     while start < len(sentence):
-                        chunks.append(sentence[start : start + chunk_size])
+                        chunks.append((sentence[start : start + chunk_size], page))
                         start += chunk_size - overlap
                     current = ""
                 else:
                     current = sentence
         if current:
-            chunks.append(current)
+            chunks.append((current, page))
 
-    return [c for c in chunks if c.strip()]
+    return [(c, p) for c, p in chunks if c.strip()]
 
 
 def _build_chunks(documents: Sequence[Document]) -> List[Chunk]:
     chunks: List[Chunk] = []
     chunk_id = 0
     for doc in documents:
-        for segment in _chunk_text(doc.text):
+        for segment, page in _chunk_text(doc.text):
             chunks.append(
                 Chunk(
                     id=str(chunk_id),
                     text=segment,
-                    source=str(doc.path),
+                    source=doc.path.relative_to(CORPUS_DIR).as_posix(),
                     title=doc.title,
+                    page=page,
                 )
             )
             chunk_id += 1
@@ -178,7 +196,8 @@ def _print_results(results: Sequence[Tuple[float, Chunk]], k: int) -> None:
     for score, chunk in results:
         preview = chunk.text.replace("\n", " ")[:120]
         title = chunk.title or "Untitled"
-        print(f"- score={score:.4f} | chunk_id={chunk.id} | title={title} | text={preview}")
+        page = chunk.page if chunk.page is not None else "n/a"
+        print(f"- score={score:.4f} | chunk_id={chunk.id} | title={title} | page={page} | text={preview}")
 
 
 def _run_validation(
@@ -223,7 +242,7 @@ def _run_validation(
     _print_results(results, k=k)
 
 
-def ingest(validate: bool = False, k: int = DEFAULT_K) -> None:
+def ingest(validate: bool = False, k: int = DEFAULT_TOP_K) -> None:
     api_key = _require_openai_api_key()
     client = OpenAI(api_key=api_key)
 
@@ -264,7 +283,7 @@ def _parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--k",
         type=int,
-        default=DEFAULT_K,
+        default=DEFAULT_TOP_K,
         help="Number of results to print for validation sample query.",
     )
     return parser.parse_args()

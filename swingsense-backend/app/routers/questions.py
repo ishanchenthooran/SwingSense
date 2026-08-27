@@ -14,6 +14,7 @@ from app.core.config import settings
 from app.core.auth import get_optional_user
 from app.rag.retrieve import retrieve
 from app.rag.prompt import build_prompt
+from app.rag.store import DEFAULT_TOP_K
 
 router = APIRouter()
 
@@ -50,7 +51,7 @@ def _f_to_out(row: SwingFeedback) -> FeedbackOut:
 
 def generate_feedback(question_text: str) -> tuple[str, list[str]]:
     try:
-        chunks = retrieve(question_text, k=5)
+        chunks = retrieve(question_text, k=DEFAULT_TOP_K)
         messages, sources = build_prompt(question_text, chunks)
         client = OpenAI(api_key=settings.OPENAI_API_KEY)
         resp = client.chat.completions.create(

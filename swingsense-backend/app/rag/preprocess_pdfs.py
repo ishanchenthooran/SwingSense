@@ -57,7 +57,7 @@ def _read_pdf_text(path: Path) -> str:
     running_lines = _detect_running_lines(non_empty)
 
     pages: List[str] = []
-    for text in raw_pages:
+    for page_num, text in enumerate(raw_pages, start=1):
         if not text.strip():
             continue
         text = _strip_running_lines(text, running_lines)
@@ -65,7 +65,9 @@ def _read_pdf_text(path: Path) -> str:
             continue
         if is_toc_like(text):
             continue
-        pages.append(text)
+        # Marker is parsed back out by ingest.py to tag each chunk with its
+        # starting page number; stripped before the text is chunked/embedded.
+        pages.append(f"[[PAGE {page_num}]]\n{text}")
 
     return "\n\n".join(pages)
 

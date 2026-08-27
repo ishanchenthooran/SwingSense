@@ -11,6 +11,7 @@ class Chunk:
     title: Optional[str] = None
     url: Optional[str] = None
     tags: Optional[List[str]] = None
+    page: Optional[int] = None
 
 
 @dataclass

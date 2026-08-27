@@ -21,10 +21,11 @@ from dataclasses import dataclass
 from typing import List
 
 from app.rag.retrieve import retrieve
+from app.rag.store import DEFAULT_TOP_K
 from app.rag.toc_filter import is_toc_like
 
 MIN_TOP1_SCORE = 0.5
-K = 5
+K = DEFAULT_TOP_K
 
 QUESTIONS: List[str] = [
     "Why does my golf ball slice to the right?",

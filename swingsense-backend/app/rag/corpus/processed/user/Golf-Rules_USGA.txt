@@ -1,3 +1,4 @@
+[[PAGE 4]]
 Together, The R&A, based in St Andrews, Scotland and
 the USGA, based in Liberty Corner, New Jersey govern the
 game worldwide, including writing and interpreting the
@@ -13,6 +14,7 @@ The R&A and the USGA reserve the right to amend both
 the Rules and their interpretations at any time.
 www.RandA.org www.USGA.org
 
+[[PAGE 10]]
 Foreword
 Foreword to the 2023 Edition of the
 Rules of Golf
@@ -53,6 +55,7 @@ Chair, Rules & Amateur Status Committee
 Golf Canada
 8
 
+[[PAGE 11]]
 Pttriimmeeeclliseeissossn
 TTGhholeef RRis uuall eegssa mooffe GGthooalltff r hheqaauvvieer eeesxx aii ssctteeerddta ffioon rrm ooivvneedrrs e22t77. 00A yy geeaaamrrsse..
 CCin oownnhssiiicsshttee pnnrttellcyyi seeiovvoonll ivvsii nnmgge ttt hhweeit RRh uurellweessa riidss . aaTh cceeenn Rttrruaalell stt eeonnf eeGtt ooolfff
@@ -61,6 +64,7 @@ lleaavuueddryaa bbglloeel fccehhraa hnnoggleed,, soo tnnheee mtthhsaaettl vaaess
 mmhooonrroeeu iirnn accnlluud ssiiinvvteee,,g aarppitppy,rr toohaaeccyhh aaarbbell eem aaennanddt wwtoee llbcceoo mmeasiinnilygg attcooc eaasllslli..ble
 so each golfer can be their own Rules authority.
 
+[[PAGE 13]]
 Precision
 Golf is a game that requires a certain mindset. A game
 in which precision is met with reward. The Rules of Golf
@@ -69,6 +73,7 @@ every golfer holds themselves accountable. A code of
 honour and integrity, they are meant to be easily accessible
 so each golfer can be their own Rules authority.
 
+[[PAGE 14]]
 Connection
 The evolving modernization of the Rules of Golf is the
 byproduct of listening to the voices of those who play
@@ -76,6 +81,7 @@ the game. As a singular set of Rules, they embody and
 reinforce the special connections that exist among the golf
 community as a whole.
 
+[[PAGE 16]]
 forever golf
 A game universally beloved for its elegance and splendour,
 golf will always be a game of honour. Alongside The R&A
@@ -83,6 +89,7 @@ and USGA, Rolex is proud to be a part of, and stand
 behind, golf’s rules and all that they represent for the
 future of the game, and those who love and play it.
 
+[[PAGE 17]]
 Principal Changes
 Principal Changes Introduced in the
 2023 Rules of Golf
@@ -117,6 +124,7 @@ and the player cannot avoid penalty by having the object removed before the stro
 is made.
 15
 
+[[PAGE 18]]
 Principal Changes
 Rule 11.1b Ball in Motion Accidentally Hits Person or Outside
 Influence: Place from Where Ball Must Be Played
@@ -145,6 +153,7 @@ so, while still a breach of the relevant Rule, no longer carries the potential f
 disqualification.
 16
 
+[[PAGE 19]]
 How to Use the Rule Book
 How to Use the Rule Book
 The Rules of Golf are intended to be comprehensive and provide answers to the
@@ -182,6 +191,7 @@ bunker, in a penalty area, on the putting green, etc.).
 • What actually happened.
 17
 
+[[PAGE 20]]
 How to Use the Rule Book
 • What were the player’s intentions (what was the player doing and what did they
 want to do).
@@ -195,6 +205,7 @@ which contains Clarifications on the Rules of Golf and Committee Procedures with
 recommendations on how to organize general play and competitions.
 18
 
+[[PAGE 22]]
 Rule 1
 RULE
 The Game, Player Conduct
@@ -230,6 +241,7 @@ someone, they should immediately shout a warning, such as the traditional
 warning of “fore”.
 20
 
+[[PAGE 23]]
 Rule 1
 • Taking good care of the course – for example, by replacing divots,
 smoothing bunkers, repairing ball-marks, and not causing unnecessary
@@ -263,6 +275,7 @@ See Committee Procedures, Section 5C (Local Rules) and Section 8 (Full set of
 authorized Model Local Rules); Section 5A (Terms of the Competition).
 21
 
+[[PAGE 24]]
 Rule 1
 1.3b Applying the Rules
 (1) Player Responsibility for Applying the Rules. Players are responsible for applying
@@ -303,6 +316,7 @@ is shown to be wrong by video evidence or other information.
 it must be corrected (see Rule 14.5).
 22
 
+[[PAGE 25]]
 Rule 1
 1.3c Penalties
 (1) Actions Giving Rise to Penalties. A penalty applies when a breach of a Rule
@@ -339,6 +353,7 @@ long as they do not agree to ignore any Rule or penalty they know applies (see
 Rule 20.1b(1)).
 23
 
+[[PAGE 26]]
 Rule 1
 (4) Applying Penalties to Multiple Breaches of the Rules. Whether a player gets
 multiple penalties for breaching multiple Rules or the same Rule multiple times
@@ -366,6 +381,7 @@ penalty stroke under Rules 17.1, 18.1 and 19.2) are always applied in addition t
 any other penalties.
 24
 
+[[PAGE 27]]
 Rule 2
 RULE
 2
@@ -393,6 +409,7 @@ until the ball reaches the putting green.
 area, such as fairway, rough and trees.
 25
 
+[[PAGE 28]]
 Rule 2
 DIAGRAM 2.2: DEFINED AREAS OF THE COURSE
 2
@@ -414,6 +431,7 @@ playing (Rule 6.2),
 • The putting green of the hole the player is playing (Rule 13).
 26
 
+[[PAGE 29]]
 Rule 2
 2.2c Determining Area of Course Where Ball Lies
 The area of the course where a player’s ball lies affects the Rules that apply in
@@ -443,6 +461,7 @@ See Committee Procedures, Section 5I(2) (a Code of Conduct may tell players to s
 out of a no play zone entirely).
 27
 
+[[PAGE 30]]
 Rule 3
 RULE
 3
@@ -478,6 +497,7 @@ Rules 22 and 23, and
 • In team competitions, as modified by Rule 24.
 28
 
+[[PAGE 31]]
 Rule 3
 3.1c How Players Score: Gross Scores or Net Scores
 (1) Scratch Competitions. In a scratch competition:
@@ -513,6 +533,7 @@ player wins the hole (see Rule 11.2a, Exception).
 only after at least one of the players has made a stroke to begin the hole).
 29
 
+[[PAGE 32]]
 Rule 3
 (3) Winning a Match. A player wins a match when:
 • The player leads the opponent by more holes than remain to be played,
@@ -550,6 +571,7 @@ ball can be holed.
 (see Rule 6.5), including before the players start the hole.
 30
 
+[[PAGE 33]]
 Rule 3
 But a player and opponent are not allowed to agree to concede holes to each
 other for the purpose of shortening the match. If they do so knowing this is not
@@ -589,6 +611,7 @@ agreed result of the hole stands, unless the players correct that mistake in tim
 (see Rule 3.2d(3)).
 31
 
+[[PAGE 34]]
 Rule 3
 3.2d Responsibilities of Player and Opponent
 (1) Telling Opponent About Number of Strokes Taken. At any time during play of
@@ -626,6 +649,7 @@ penalty before the opponent makes their next stroke.
 (because players are expected to recognize when they have breached a Rule).
 32
 
+[[PAGE 35]]
 Rule 3
 If the player fails to do so and does not correct that mistake before the opponent
 makes another stroke or takes a similar action (such as conceding the player’s
@@ -662,6 +686,7 @@ responsible for acting on any breach of the Rules that they see or are told abou
 (see Rule 20.1b(1)).
 33
 
+[[PAGE 36]]
 Rule 3
 3.3 Stroke Play
 Purpose of Rule:
@@ -700,6 +725,7 @@ If a marker, who is a player, knowingly certifies a wrong score for a hole, the
 marker should be disqualified under Rule 1.2a.
 34
 
+[[PAGE 37]]
 Rule 3
 DIAGRAM 3.3b: SCORECARD RESPONSIBILITIES IN HANDICAP STROKE PLAY
 6
@@ -737,6 +763,7 @@ responsibilities (such as the marker leaving with the player’s scorecard or wi
 certifying the scorecard), so long as this was beyond the player’s control.
 35
 
+[[PAGE 38]]
 Rule 3
 See Committee Procedures, Section 5A(5) (recommendations on how to define
 when a scorecard has been returned).
@@ -776,6 +803,7 @@ See Committee Procedures, Section 8; Model Local Rule L-2 (making player
 responsible for handicap on scorecard).
 36
 
+[[PAGE 39]]
 Rule 3
 3.3c Failure to Hole Out
 A player must hole out at each hole in a round. If the player fails to hole out at
@@ -788,6 +816,7 @@ Maximum Score and Par/Bogey) where scoring is different and a player is not
 disqualified if they do not hole out).
 37
 
+[[PAGE 40]]
 Rule 4
 RULE
 4
@@ -822,6 +851,7 @@ treated as conforming for the rest of the round (but not during a play-off in st
 play, which is a new round).
 38
 
+[[PAGE 41]]
 Rule 4
 For the rest of the round, the player may:
 • Continue to make strokes with the damaged club, or
@@ -861,6 +891,7 @@ deliberately changed during the round.
 • But such a club still counts towards the 14-club limit in Rule 4.1b(1).
 39
 
+[[PAGE 42]]
 Rule 4
 4.1b Limit of 14 Clubs; Sharing, Adding or Replacing Clubs During Round
 (1) Limit of 14 Clubs. A player must not:
@@ -899,6 +930,7 @@ the limit of 14 and then lost a club during the round or while play is stopped
 under Rule 5.7a, the player must not replace it with another club.
 40
 
+[[PAGE 43]]
 Rule 4
 (4) Restrictions When Adding or Replacing Clubs. When adding or replacing a club
 under Rule 4.1a(2) or Rule 4.1b(1), a player must not:
@@ -939,6 +971,7 @@ happened, with a maximum of four penalty strokes in the round (adding two penalt
 strokes at each of the first two holes where a breach happened).
 41
 
+[[PAGE 44]]
 Rule 4
 4.1c Procedure for Taking Clubs Out of Play
 (1) During Round. When a player becomes aware during a round that they are in
@@ -968,6 +1001,7 @@ starts the round without leaving the excess clubs behind, this option is not
 allowed and Rule 4.1b(1) applies.
 42
 
+[[PAGE 45]]
 Rule 4
 4.2 Balls
 4.2a Balls Allowed in Play of Round
@@ -998,6 +1032,7 @@ of the ball before lifting it or cleans it when not allowed, the player gets one
 penalty stroke.
 43
 
+[[PAGE 46]]
 Rule 4
 (2) When Another Ball May Be Substituted. The player may substitute another
 ball only if it can be clearly seen that the original ball is cut or cracked and this
@@ -1032,6 +1067,7 @@ is allowed to take with a club, ball or other equipment (such as setting down a 
 other object to help the player in aiming, see Rule 10.2b(3)).
 44
 
+[[PAGE 47]]
 Rule 4
 Common examples of uses of equipment that are allowed and not allowed during a
 player’s round under this Rule are:
@@ -1064,6 +1100,7 @@ information from previous rounds, swing tips or club recommendations), or
 from the round (such as club distance, playing statistics or heart rate).
 45
 
+[[PAGE 48]]
 Rule 4
 • Not Allowed.
 » Processing or interpreting playing information from the round (such as club
@@ -1096,6 +1133,7 @@ or
 grip pressure.
 46
 
+[[PAGE 49]]
 Rule 4
 (6) Stretching Devices and Training or Swing Aids.
 • Allowed.
@@ -1125,6 +1163,7 @@ See Rule 25.3a (status of prosthetic devices); Rule 25.4f (application of Rule 4
 for assistive mobility devices).
 47
 
+[[PAGE 50]]
 Rule 4
 (2) Tape or Similar Coverings. A player may use adhesive tape or a similar covering
 for any medical reason (such as to prevent an injury or help with an existing
@@ -1143,6 +1182,7 @@ penalty. This penalty only applies if there has been an intervening event after 
 first breach (see Rule 1.3c(4)).
 48
 
+[[PAGE 52]]
 Rule 5
 RULE
 5
@@ -1174,6 +1214,7 @@ putting green of any hole by rolling a ball or rubbing the surface, and
 the player, not to the player’s caddie.
 50
 
+[[PAGE 53]]
 Rule 5
 5.2a Match Play
 A player may practise on the course before a round or between rounds of a
@@ -1208,6 +1249,7 @@ player is present and ready to play when the player’s group is able to start.
 Penalty for Breach of Rule 5.3a: Disqualification, except in these three cases:
 51
 
+[[PAGE 54]]
 Rule 5
 • Exception 1 – Player Arrives at Starting Point, Ready to Play, No More Than Five
 Minutes Late: The player gets the general penalty applied to their first hole.
@@ -1231,6 +1273,7 @@ Committee approves a change either before or after it happens.
 Penalty for Breach of Rule 5.4: Disqualification.
 52
 
+[[PAGE 55]]
 Rule 5
 5.5 Practising During Round or While Play Is Stopped
 5.5a No Practice Strokes While Playing Hole
@@ -1267,6 +1310,7 @@ Penalty for Breach of Rule 5.5: General Penalty.
 If the breach happens between two holes, the penalty applies to the next hole.
 53
 
+[[PAGE 56]]
 Rule 5
 5.6 Unreasonable Delay; Prompt Pace of Play
 5.6a Unreasonable Delay of Play
@@ -1298,6 +1342,7 @@ A player should prepare in advance for the next stroke and be ready to play when
 it is their turn.
 54
 
+[[PAGE 57]]
 Rule 5
 When it is the player’s turn to play:
 • It is recommended that the player make the stroke in no more than 40 seconds
@@ -1334,6 +1379,7 @@ If a player stops play for any reason not allowed under this Rule or fails to re
 the Committee when required to do so, the player is disqualified.
 55
 
+[[PAGE 58]]
 Rule 5
 5.7b What Players Must Do When Committee Suspends Play
 There are two types of Committee suspensions of play, each with different
@@ -1370,6 +1416,7 @@ to keep the player’s score.
 Penalty for Breach of Rule 5.7b: Disqualification.
 56
 
+[[PAGE 59]]
 Rule 5
 Exception – No Penalty If Committee Decides That Failure to Stop Was Justified:
 There is no breach of this Rule and no penalty if the Committee decides that
@@ -1407,6 +1454,7 @@ ball as it lies, or may mark the spot of the ball, lift the ball (see Rule 14.1)
 replace that ball or another ball on the original spot (see Rule 14.2).
 57
 
+[[PAGE 60]]
 Rule 5
 In either case:
 • If the lie of the ball is altered as a result of lifting the ball, the player must
@@ -1430,6 +1478,7 @@ Penalty for Playing Ball from a Wrong Place in Breach of Rule 5.7d: General Pena
 Under Rule 14.7a.
 58
 
+[[PAGE 61]]
 Rule 6
 RULE
 6
@@ -1459,6 +1508,7 @@ teeing area and it is still their turn to play.
 play and must be played as it lies.
 59
 
+[[PAGE 62]]
 Rule 6
 (2) Stroke Play. The player gets the general penalty (two penalty strokes) and must
 correct the mistake by playing a ball from inside the teeing area:
@@ -1488,6 +1538,7 @@ part of the teeing area.
 the teeing area.
 60
 
+[[PAGE 63]]
 Rule 6
 DIAGRAM 6.2b: WHEN BALL IS IN TEEING AREA
 Inside
@@ -1515,6 +1566,7 @@ affecting the stroke (see Rule 8.1b(8)):
 indentation with a club or foot),
 61
 
+[[PAGE 64]]
 Rule 6
 • Move, bend or break grass, weeds and other natural objects that are attached
 or growing in the ground in the teeing area,
@@ -1555,6 +1607,7 @@ Penalty for Playing Ball from a Wrong Place in Breach of Rule 6.2b(6): General
 Penalty Under Rule 14.7a.
 62
 
+[[PAGE 65]]
 Rule 6
 6.3 Ball Used in Play of Hole
 Purpose of Rule:
@@ -1592,6 +1645,7 @@ Rules (whether or not the player realized that they were substituting another
 ball), or
 63
 
+[[PAGE 66]]
 Rule 6
 » Replaced, dropped or placed the substituted ball (1) in a wrong way, (2) in a
 wrong place or (3) by using a procedure that does not apply.
@@ -1630,6 +1684,7 @@ another hole or, for the final hole of the round, before returning their
 scorecard, the player is disqualified.
 64
 
+[[PAGE 67]]
 Rule 6
 (2) What to Do When Player’s Ball Was Played by Another Player as Wrong Ball. If it
 is known or virtually certain that the player’s ball was played by another player
@@ -1664,6 +1719,7 @@ random method (such as tossing a coin).
 keeps it.
 65
 
+[[PAGE 68]]
 Rule 6
 » If a player makes a timely ruling request (see Rule 20.1b) that has not yet
 been decided by the Committee and could affect who has the honour on
@@ -1700,6 +1756,7 @@ at the next teeing area; the player with the second lowest gross score
 should play next; and so on.
 66
 
+[[PAGE 69]]
 Rule 6
 » If two or more players have the same score at a hole, they should play in the
 same order as at the previous teeing area.
@@ -1736,6 +1793,7 @@ area, the order of play is the same order as before.
 For a provisional ball or another ball played out of turn, see Rules 6.4a(2) and 6.4b.
 67
 
+[[PAGE 70]]
 Rule 6
 6.4d When Player Takes Relief or Will Play Provisional Ball from
 Anywhere Except Teeing Area
@@ -1773,6 +1831,7 @@ See Rules 21.1b(1), 21.2b(1), 21.3b(1) and 23.3c (when a player has completed a
 hole in other forms of stroke play or in Four-Ball).
 68
 
+[[PAGE 72]]
 Rule 7
 RULE
 Ball Search: Finding and
@@ -1804,6 +1863,7 @@ In trying to find and identify the ball, the player may remove loose impediments
 allowed in Rule 15.1 and may remove movable obstructions as allowed in Rule 15.2.
 70
 
+[[PAGE 73]]
 Rule 7
 7.1b What to Do If Sand Affecting Lie of Player’s Ball Is Moved While
 Trying to Find or Identify It
@@ -1839,6 +1899,7 @@ Penalty for Playing Ball from a Wrong Place in Breach of Rule 7.3: General Penal
 Under Rule 14.7a.
 71
 
+[[PAGE 74]]
 Rule 7
 7.4 Ball Accidentally Moved in Trying to Find or Identify It
 There is no penalty if the player’s ball is accidentally moved by the player, opponent
@@ -1861,6 +1922,7 @@ before replacing ball).
 Penalty for Breach of Rule 7.4: General Penalty.
 72
 
+[[PAGE 75]]
 Rule 8
 RULE
 8
@@ -1895,6 +1957,7 @@ of these actions if they improve the conditions affecting the stroke:
 • Immovable obstruction, integral object or boundary object, or
 73
 
+[[PAGE 76]]
 Rule 8
 • Tee-marker for the teeing area when playing a ball from that teeing area.
 (2) Move a loose impediment or movable obstruction into position (such as to build a
@@ -1931,6 +1994,7 @@ But when doing so the player:
 • Must use the least intrusive course of action to deal with the particular situation.
 74
 
+[[PAGE 77]]
 Rule 8
 (7) Make a stroke or the backswing for a stroke that is then made.
 But when the ball is in a bunker, touching the sand in the bunker in taking the
@@ -1970,6 +2034,7 @@ removed or moving the boundary object back into its original position after it
 had been pushed to a different angle, or
 75
 
+[[PAGE 78]]
 Rule 8
 • Returning a tree branch or grass, or an immovable obstruction to its original
 position after it had been moved.
@@ -2006,6 +2071,7 @@ Before It Is Replaced: This is covered by Rule 14.2d, unless the lie was worsene
 when play was stopped and the ball was lifted in which case this Rule applies.
 76
 
+[[PAGE 79]]
 Rule 8
 (2) When Restoration of Worsened Conditions Is Not Allowed. A player must not
 improve the conditions affecting the stroke (except as allowed in Rule 8.1c(1),
@@ -2043,6 +2109,7 @@ concerned that it might roll into a bush).
 Exception – Actions to Care for the Course: There is no penalty under this Rule if
 77
 
+[[PAGE 80]]
 Rule 8
 the player alters any such other physical conditions to care for the course (such as
 smoothing footprints in a bunker or replacing a divot in a divot hole).
@@ -2078,6 +2145,7 @@ for the side and action by the partner concerning the player’s ball or equipme
 treated as action of the player).
 78
 
+[[PAGE 81]]
 Rule 9
 RULE
 Ball Played as It Lies; Ball
@@ -2110,6 +2178,7 @@ Penalty for Playing Ball from a Wrong Place in Breach of Rule 9.1: General Penal
 Under Rule 14.7a.
 79
 
+[[PAGE 82]]
 Rule 9
 9.2 Deciding Whether Ball Moved and What Caused It to Move
 9.2a Deciding Whether Ball Moved
@@ -2145,6 +2214,7 @@ reasonable effort and without unreasonably delaying play.
 If natural forces (such as wind or water) cause a player’s ball at rest to move:
 80
 
+[[PAGE 83]]
 Rule 9
 • There is no penalty, and
 • The ball must be played from its new spot.
@@ -2183,6 +2253,7 @@ Exception 1 – Player Allowed to Lift or Move Ball: There is no penalty when th
 player lifts the ball or causes it to move under a Rule that:
 81
 
+[[PAGE 84]]
 Rule 9
 • Allows the ball to be lifted and then replaced on its original spot,
 • Requires a moved ball to be replaced on its original spot, or
@@ -2222,6 +2293,7 @@ If the opponent plays the player’s ball as a wrong ball, that is covered by Ru
 not by this Rule.
 82
 
+[[PAGE 85]]
 Rule 9
 9.5a When Lifted or Moved Ball Must Be Replaced
 If the opponent lifts or moves the player’s ball at rest, the ball must be replaced on
@@ -2258,6 +2330,7 @@ outside influence and the ball is lost, the player must take stroke-and-distance
 under Rule 18.2.
 83
 
+[[PAGE 86]]
 Rule 9
 If the player’s ball is played as a wrong ball by another player, that is covered by
 Rule 6.3c(2), not by this Rule.
@@ -2284,6 +2357,7 @@ Penalty for Playing Ball from a Wrong Place in Breach of Rule 9.7: General Penal
 Under Rule 14.7a.
 84
 
+[[PAGE 87]]
 Rule 10
 RULE
 Preparing for and Making a
@@ -2319,6 +2393,7 @@ For the purposes of this Rule, “forearm” means the part of the arm below the
 joint and includes the wrist.
 85
 
+[[PAGE 88]]
 Rule 10
 DIAGRAM 10.1b: ANCHORING THE CLUB
 Allowed Not Allowed
@@ -2349,6 +2424,7 @@ but stays on or returns to its original spot, it is treated as being at rest and
 moving ball.
 86
 
+[[PAGE 89]]
 Rule 10
 But there are three exceptions where there is no penalty:
 Exception 1 – Ball Begins to Move Only after Player Begins Backswing for Stroke:
@@ -2385,6 +2461,7 @@ In both match play and stroke play, the penalty is applied in this way:
 the general penalty on the hole being played or just completed.
 87
 
+[[PAGE 90]]
 Rule 10
 • Player Asks for or Gives Advice When Both Players Are Between Play of Two Holes.
 The player gets the general penalty on the next hole.
@@ -2419,6 +2496,7 @@ But this Rule does not prohibit any person from standing close to the hole to
 attend the flagstick.
 88
 
+[[PAGE 91]]
 Rule 10
 (3) No Setting Down Object to Help With Aiming, Taking Stance or Swinging. A
 player must not set an object down to help with aiming or to help in taking a
@@ -2459,6 +2537,7 @@ same ways).
 See Rule 25.2d (modification of Rule 10.2b(4) for players who are blind).
 89
 
+[[PAGE 92]]
 Rule 10
 (5) Physical Help, Eliminating Distractions, and Protection from Elements. A player
 must not make a stroke:
@@ -2489,6 +2568,7 @@ allowed during a round, but with these limitations:
 for the sole purpose of getting advice from the new caddie.
 90
 
+[[PAGE 93]]
 Rule 10
 Whether or not the player has a caddie, any other person who walks or rides
 along with the player or who carries other things for the player (such as a
@@ -2517,6 +2597,7 @@ more than one caddie at any one time.
 general penalty for the next hole.
 91
 
+[[PAGE 94]]
 Rule 10
 10.3b What a Caddie May Do
 These are examples of what a caddie is allowed and not allowed to do:
@@ -2553,6 +2634,7 @@ opponent on the match score (Rule 3.2).
 • Drop or place a ball in taking relief (Rule 14.3).
 92
 
+[[PAGE 95]]
 Rule 10
 • Decide to take relief under a Rule (such as treating a ball as unplayable under
 Rule 19 or taking relief from an abnormal course condition or penalty area
@@ -2567,6 +2649,7 @@ When application of a Rule depends on whether the player is aware of certain fac
 player’s knowledge is treated as including whatever is known by their caddie.
 93
 
+[[PAGE 96]]
 Rule 11
 RULE Ball in Motion Accidentally Hits Person,
 11 Animal or Object; Deliberate Actions to
@@ -2603,6 +2686,7 @@ Located Anywhere Except on Putting Green. The player must drop the original
 ball or another ball in this relief area (see Rule 14.3):
 94
 
+[[PAGE 97]]
 Rule 11
 » Reference Point: The estimated point right under where the ball first came
 to rest on the person, animal or moving outside influence.
@@ -2642,6 +2726,7 @@ See Rule 25.4k (for players who use an assistive mobility device, Rule 11.1b(2) 
 modified so that a ball hitting the device is played as it lies).
 95
 
+[[PAGE 98]]
 Rule 11
 11.2 Ball in Motion Deliberately Deflected or Stopped by Person
 11.2a When Rule 11.2 Applies
@@ -2680,6 +2765,7 @@ deflected or stopped by a person (whether or not the ball has been found), it mu
 not be played as it lies. Instead, the player must take relief:
 96
 
+[[PAGE 99]]
 Rule 11
 (1) Stroke Made from Anywhere Except Putting Green. The player must take relief
 based on the estimated spot where the ball would have come to rest if not
@@ -2716,6 +2802,7 @@ If the player does not replay the stroke, they get the general penalty and the
 stroke counts, but the player has not played from a wrong place.
 97
 
+[[PAGE 100]]
 Rule 11
 11.3 Deliberately Removing Objects or Altering Conditions
 to Affect Ball in Motion
@@ -2746,6 +2833,7 @@ for the side and action by the partner concerning the player’s ball or equipme
 treated as action of the player).
 98
 
+[[PAGE 102]]
 Rule 12
 RULE
 12
@@ -2763,6 +2851,7 @@ In line with the definition of bunker and Rule 12.1, the diagram provides exampl
 is in and not in a bunker.
 100
 
+[[PAGE 103]]
 Rule 12
 12.1 When Ball Is in Bunker
 A ball is in a bunker when any part of the ball:
@@ -2798,6 +2887,7 @@ See Rule 25.2f (modification of Rule 12.2b(1) for players who are blind); Rules 
 (application of Rule 12.2b(1) for players who use an assistive mobility device).
 101
 
+[[PAGE 104]]
 Rule 12
 (2) When Touching Sand Does Not Result in Penalty. Except as covered by (1), this
 Rule does not prohibit the player from touching sand in the bunker in any other
@@ -2835,6 +2925,7 @@ When a ball is in a bunker, specific relief Rules may apply in these situations:
 • Unplayable ball (Rule 19.3).
 102
 
+[[PAGE 105]]
 Rule 13
 RULE
 13
@@ -2867,6 +2958,7 @@ these two actions on the putting green, no matter whether the ball is on or off
 the putting green:
 103
 
+[[PAGE 106]]
 Rule 13
 (1) Removal of Sand and Loose Soil. Sand and loose soil on the putting green may
 be removed without penalty.
@@ -2899,6 +2991,7 @@ uneven growth), or
 • Natural wear of the hole.
 104
 
+[[PAGE 107]]
 Rule 13
 13.1d When Ball or Ball-Marker Moves on Putting Green
 There are two specific Rules for a ball or ball-marker that moves on the putting green.
@@ -2937,6 +3030,7 @@ Penalty for Testing the Putting Green or a Wrong Green in Breach of Rule 13.1e:
 General Penalty.
 105
 
+[[PAGE 108]]
 Rule 13
 See Committee Procedures, Section 8; Model Local Rule I-2 (the Committee may
 adopt a Local Rule prohibiting a player from rolling a ball on the putting green of the
@@ -2971,6 +3065,7 @@ adopt a Local Rule denying relief from a wrong green that only interferes with t
 area of intended stance).
 106
 
+[[PAGE 109]]
 Rule 13
 DIAGRAM 13.1f: FREE RELIEF FROM WRONG GREEN
 A
@@ -2986,6 +3081,7 @@ case, the general area).
 reference point and must be in the same area of the course as the reference point, P1.
 107
 
+[[PAGE 110]]
 Rule 13
 13.2 The Flagstick
 Purpose of Rule:
@@ -3014,6 +3110,7 @@ flagstick left in the hole and the ball in motion then hits the flagstick:
 • The ball must be played as it lies.
 108
 
+[[PAGE 111]]
 Rule 13
 (3) Limitation on Player Moving or Removing Flagstick in Hole While Ball Is in
 Motion. After making a stroke with the flagstick left in the hole:
@@ -3045,6 +3142,7 @@ for the side and action by the partner concerning the player’s ball or equipme
 treated as action of the player).
 109
 
+[[PAGE 112]]
 Rule 13
 13.2b Removing Flagstick from Hole
 (1) Player May Have Flagstick Removed from Hole. The player may make a stroke
@@ -3083,6 +3181,7 @@ the ball was a player or their caddie, that player gets the general penalty for
 a breach of Rule 11.2.
 110
 
+[[PAGE 113]]
 Rule 13
 For purposes of this Rule, “deliberately deflected or stopped” means the same
 thing as in Rule 11.2a, and includes when the player’s ball in motion hits:
@@ -3113,6 +3212,7 @@ In stroke play, the player is disqualified if they fail to hole out as required 
 Rule 3.3c.
 111
 
+[[PAGE 114]]
 Rule 13
 13.3 Ball Overhanging Hole
 13.3a Waiting Time to See If Ball Overhanging Hole Will Fall into Hole
@@ -3143,6 +3243,7 @@ there is no penalty to the opponent under Rule 11.2b.
 14.2).
 112
 
+[[PAGE 116]]
 Rule 14
 RULE Procedures for Ball: Marking, Lifting and
 14 Cleaning; Replacing on Spot; Dropping in
@@ -3177,6 +3278,7 @@ spot before lifting the ball.
 The player’s ball may be lifted under the Rules only by:
 114
 
+[[PAGE 117]]
 Rule 14
 • The player, or
 • Anyone the player authorizes, but such authorization must be given each time
@@ -3213,6 +3315,7 @@ The original ball must be used when replacing a ball.
 Exception – Another Ball May Be Used When:
 115
 
+[[PAGE 118]]
 Rule 14
 • The original ball cannot be recovered with reasonable effort and in a few seconds,
 so long as the player did not deliberately cause the ball to become unrecoverable,
@@ -3248,6 +3351,7 @@ For restrictions on removing loose impediments before replacing a lifted or move
 ball see Rule 15.1a, Exception 1.
 116
 
+[[PAGE 119]]
 Rule 14
 14.2d Where to Replace Ball When Original Lie Altered
 If the lie of a lifted or moved ball that must be replaced is altered, the player must
@@ -3287,6 +3391,7 @@ Penalty for Playing Ball from a Wrong Place in Breach of Rule 14.2: General Pena
 Under Rule 14.7a.
 117
 
+[[PAGE 120]]
 Rule 14
 See Rule 22.2 (in Foursomes, either partner may act for the side and action by the
 partner is treated as action of the player); 23.5 (in Four-Ball, either partner may act
@@ -3321,6 +3426,7 @@ See Rule 25.6b (for guidance on applying Rule 14.3b(2) to players with certain
 disabilities).
 118
 
+[[PAGE 121]]
 Rule 14
 DIAGRAM 14.3b: DROPPING FROM KNEE HEIGHT
 Allowed Not Allowed
@@ -3332,6 +3438,7 @@ a player’s knee when in a standing position. But the player does not have to b
 position when the ball is dropped.
 119
 
+[[PAGE 122]]
 Rule 14
 (3) Ball Must Be Dropped in Relief Area (or on Line). The ball must be dropped in
 the relief area. The player may stand either inside or outside the relief area when
@@ -3370,6 +3477,7 @@ Stopped by Any Person: For what to do when the dropped ball is deliberately
 deflected or stopped by any person before it comes to rest, see Rule 14.3d.
 120
 
+[[PAGE 123]]
 Rule 14
 (2) What to Do if Ball Dropped in Right Way Comes to Rest Outside Relief Area. If the
 ball comes to rest outside the relief area, the player must drop a ball in the right
@@ -3395,6 +3503,7 @@ procedure is complete. must be dropped the right again in the right way.
 way a second time.
 121
 
+[[PAGE 124]]
 Rule 14
 DIAGRAM #2 14.3c: DROPPING WHEN TAKING BACK-ON-THE-LINE RELIEF
 The spot on the line where The ball is dropped in the The ball is dropped in a
@@ -3417,6 +3526,7 @@ location so that the equipment, object or person might deflect or stop the ball 
 motion.
 122
 
+[[PAGE 125]]
 Rule 14
 When a ball dropped in the right way is deliberately deflected or stopped
 by any person (whether in the relief area or outside the relief area) before it
@@ -3456,6 +3566,7 @@ A replaced ball is in play even if the ball-marker marking its spot has not been
 removed.
 123
 
+[[PAGE 126]]
 Rule 14
 14.5 Correcting Mistake Made in Substituting, Replacing,
 Dropping or Placing Ball
@@ -3494,6 +3605,7 @@ under Rule 19.2 and may use any of the relief options under that Rule.
 situation.
 124
 
+[[PAGE 127]]
 Rule 14
 • For example, if the player mistakenly took unplayable ball relief for their ball
 in a penalty area (which Rule 19.1 does not allow), the player must correct the
@@ -3531,6 +3643,7 @@ The original ball or another ball must be dropped in this relief area (see Rule 
 known must be estimated).
 125
 
+[[PAGE 128]]
 Rule 14
 • Size of Relief Area Measured from Reference Point: One club-length, but with
 these limits:
@@ -3554,6 +3667,7 @@ the course as the reference point and not made.
 nearer the hole than the reference point.
 126
 
+[[PAGE 129]]
 Rule 14
 14.6c Previous Stroke Made from Putting Green
 The original ball or another ball must be placed on the spot where the previous
@@ -3589,6 +3703,7 @@ out the hole with both the ball played from a wrong place and a second ball
 played from a right place under the Rules.
 127
 
+[[PAGE 130]]
 Rule 14
 (2) Player Who Plays Two Balls Must Report to Committee. If the player is uncertain
 whether playing from the wrong place was a serious breach and decides to play a
@@ -3627,6 +3742,7 @@ playing the other ball from a wrong place).
 is disqualified.
 128
 
+[[PAGE 132]]
 Rule 15
 Relief from Loose Impediments and Movable
 RULE
@@ -3663,6 +3779,7 @@ Exception 2 – Restrictions on Deliberately Removing Loose Impediments to Affec
 Ball in Motion (see Rule 11.3).
 130
 
+[[PAGE 133]]
 Rule 15
 15.1b Ball Moved When Removing Loose Impediment
 If a player’s removal of a loose impediment causes their ball to move:
@@ -3694,6 +3811,7 @@ If a player’s ball moves while they are removing a movable obstruction:
 estimated) (see Rule 14.2).
 131
 
+[[PAGE 134]]
 Rule 15
 (2) Relief When Ball Is in or on Movable Obstruction Anywhere on Course Except
 on Putting Green. The player may take free relief by lifting the ball, removing the
@@ -3713,6 +3831,7 @@ Ball must be replaced
 on its original spot
 132
 
+[[PAGE 135]]
 Rule 15
 DIAGRAM #2 15.2a: BALL IN OR ON MOVABLE OBSTRUCTION
 Relief area
@@ -3735,6 +3854,7 @@ to rest in or on a movable obstruction on the course, the player may use this re
 option instead of taking stroke-and-distance relief:
 133
 
+[[PAGE 136]]
 Rule 15
 • The player may take free relief under Rule 15.2a(2) or 15.2a(3), using the
 estimated point right under where the ball last crossed the edge of the movable
@@ -3767,6 +3887,7 @@ See Committee Procedures, Section 5I (guidance on best practice to help prevent
 “backstopping”).
 134
 
+[[PAGE 137]]
 Rule 15
 15.3b Ball Anywhere on Course Interfering with Play
 (1) Meaning of Interference by Another Player’s Ball. Interference under this Rule
@@ -3800,6 +3921,7 @@ marker out of the way, for the same reasons as they may require a ball to be lif
 under Rules 15.3a and 15.3b.
 135
 
+[[PAGE 138]]
 Rule 15
 The ball-marker must be moved out of the way to a new spot measured from its
 original spot, such as by using one or more clubhead-lengths.
@@ -3819,6 +3941,7 @@ Penalty for Playing Ball from a Wrong Place in Breach of Rule 15.3: General Pena
 Under Rule 14.7a.
 136
 
+[[PAGE 139]]
 Rule 16
 RULE Relief from Abnormal Course Conditions
 16 (Including Immovable Obstructions),
@@ -3854,6 +3977,7 @@ If the abnormal course condition is close enough to distract the player but does
 not meet any of these requirements, there is no interference under this Rule.
 137
 
+[[PAGE 140]]
 Rule 16
 See Committee Procedures, Section 8; Model Local Rule F-6 (the Committee may
 adopt a Local Rule denying relief from an abnormal course condition that only
@@ -3880,6 +4004,7 @@ condition interferes with the area of intended stance (B2) or swing.
 stance has to be clear of the ACC.
 138
 
+[[PAGE 141]]
 Rule 16
 (2) Relief Allowed Anywhere on Course Except When Ball Is in Penalty Area. Relief
 from interference by an abnormal course condition is allowed under Rule 16.1
@@ -3911,6 +4036,7 @@ with these limits:
 course condition.
 139
 
+[[PAGE 142]]
 Rule 16
 DIAGRAM 16.1b: FREE RELIEF FROM ABNORMAL COURSE CONDITION
 IN GENERAL AREA
@@ -3939,6 +4065,7 @@ still take this relief by using the point of maximum available relief in the bun
 as the reference point.
 140
 
+[[PAGE 143]]
 Rule 16
 DIAGRAM 16.1c: RELIEF FROM ABNORMAL COURSE CONDITION
 IN BUNKER
@@ -3971,6 +4098,7 @@ point, but with these limits:
 » Must be in the same area of the course that the ball first touched when dropped.
 141
 
+[[PAGE 144]]
 Rule 16
 16.1d Relief for Ball on Putting Green
 If a player’s ball is on the putting green and there is interference by an abnormal
@@ -3999,6 +4127,7 @@ an abnormal course condition and the ball is lost, the player must take
 stroke-and-distance relief under Rule 18.2.
 142
 
+[[PAGE 145]]
 Rule 16
 DIAGRAM 16.1d: FREE RELIEF FROM ABNORMAL COURSE CONDITION ON
 PUTTING GREEN
@@ -4025,6 +4154,7 @@ Rule 16.1c(1) or (2).
 Rule 16.1d.
 143
 
+[[PAGE 146]]
 Rule 16
 (2) Relief When No Play Zone Interferes with Stance or Swing for Ball Anywhere on
 Course Except Penalty Area. If a player’s ball is outside a no play zone and is in
@@ -4058,6 +4188,7 @@ under Rule 16.1b, except that the nearest point of complete relief and the relie
 area must be in the penalty area.
 144
 
+[[PAGE 147]]
 Rule 16
 • Penalty Relief: Playing from Outside Penalty Area.
 » The player may take penalty relief under Rule 17.1d.
@@ -4093,6 +4224,7 @@ from which the player is not allowed to take free relief (such as when a player
 is unable to make a stroke because of where the ball lies in a bush).
 145
 
+[[PAGE 148]]
 Rule 16
 (2) Determining Whether Ball Is Embedded. A player’s ball is embedded only if:
 • It is in its own pitch-mark made as a result of the player’s previous
@@ -4126,6 +4258,7 @@ When a player’s ball is embedded in the general area and relief is allowed und
 this relief area (see Rule 14.3):
 146
 
+[[PAGE 149]]
 Rule 16
 • Reference Point: The spot in the general area right behind where the ball is
 embedded.
@@ -4154,6 +4287,7 @@ reference point and must be in the general area.
 • A ball must be dropped in and come to rest in the relief area.
 147
 
+[[PAGE 150]]
 Rule 16
 16.4 Lifting Ball to See If It Lies in Condition Where Relief Allowed
 If a player reasonably believes that their ball lies in a condition where free relief is
@@ -4173,6 +4307,7 @@ Penalty for Playing Ball from a Wrong Place in Breach of Rule 16.4: General Pena
 Under Rule 14.7a.
 148
 
+[[PAGE 152]]
 Rule 17
 RULE
 17
@@ -4205,6 +4340,7 @@ Exception – Relief Must Be Taken from Interference by No Play Zone in Penalty 
 (see Rule 17.1e).
 150
 
+[[PAGE 153]]
 Rule 17
 17.1c Relief for Ball Not Found but in Penalty Area
 If a player’s ball has not been found and it is known or virtually certain that the ball
@@ -4237,6 +4373,7 @@ last crossed the edge of the penalty area, and
 dropped.
 151
 
+[[PAGE 154]]
 Rule 17
 DIAGRAM #1 17.1d: RELIEF FOR BALL IN YELLOW PENALTY AREA
 STROKE
@@ -4257,6 +4394,7 @@ previous stroke was made.
 between the hole and the spot where the ball is dropped.
 152
 
+[[PAGE 155]]
 Rule 17
 DIAGRAM #2 17.1d: RELIEF FOR BALL IN RED PENALTY AREA
 X Point that ball entered the penalty area STROKE
@@ -4286,6 +4424,7 @@ edge of the red penalty area.
 these limits:
 153
 
+[[PAGE 156]]
 Rule 17
 • Limits on Location of Relief Area:
 » Must not be nearer the hole than the reference point, and
@@ -4322,6 +4461,7 @@ with these limits:
 – Must not be nearer the hole than the reference point.
 154
 
+[[PAGE 157]]
 Rule 17
 (3) No Relief When Clearly Unreasonable. There is no free relief from interference by
 the no play zone under (2):
@@ -4361,6 +4501,7 @@ choose to play the original ball or another ball from where they made the last
 stroke from outside a penalty area (see Rule 14.6).
 155
 
+[[PAGE 158]]
 Rule 17
 DIAGRAM #1 17.2a: BALL PLAYED FROM PENALTY AREA COMES TO
 REST IN SAME PENALTY AREA
@@ -4392,6 +4533,7 @@ area, adding an additional penalty stroke for a total of two penalty strokes, an
 their 5th shot.
 156
 
+[[PAGE 159]]
 Rule 17
 DIAGRAM #2 17.2a: BALL PLAYED FROM PENALTY AREA COMES TO REST IN
 SAME PENALTY AREA HAVING EXITED AND RE-ENTERED
@@ -4423,6 +4565,7 @@ area, adding an additional penalty stroke for a total of two penalty strokes, an
 their 5th shot.
 157
 
+[[PAGE 160]]
 Rule 17
 17.2b When Ball Played from Penalty Area Is Lost, Out of Bounds or
 Unplayable Outside Penalty Area
@@ -4453,6 +4596,7 @@ area, the player may take either free relief in the penalty area or penalty reli
 the penalty area (see Rule 16.2b(2)).
 158
 
+[[PAGE 161]]
 Rule 18
 RULE
 Stroke-and-Distance Relief; Ball Lost
@@ -4487,6 +4631,7 @@ made when the player:
 • Is playing a second ball in stroke play under Rule 14.7b or 20.1c(3).
 159
 
+[[PAGE 162]]
 Rule 18
 18.2 Ball Lost or Out of Bounds: Stroke-and-Distance Relief
 Must Be Taken
@@ -4509,6 +4654,7 @@ object) inside the boundary edge, or
 A player may stand out of bounds to play a ball on the course.
 160
 
+[[PAGE 163]]
 Rule 18
 DIAGRAM 18.2a: WHEN BALL IS OUT OF BOUNDS
 A ball is out of bounds only when all of it is outside the boundary edge of the course.
@@ -4534,6 +4680,7 @@ or played as a wrong ball by another player (see Rule 6.3c(2)),
 abnormal course condition (see Rule 16.1e),
 161
 
+[[PAGE 164]]
 Rule 18
 • Is in a penalty area (see Rule 17.1c), or
 • Was deliberately deflected or stopped by any person (see Rule 11.2c).
@@ -4569,6 +4716,7 @@ But if there is no one nearby to hear the player’s announcement, the player ma
 the provisional ball and then inform someone of their actions when possible to do so.
 162
 
+[[PAGE 165]]
 Rule 18
 18.3c Playing Provisional Ball Until It Becomes the Ball in Play or Is
 Abandoned
@@ -4600,6 +4748,7 @@ to be treated as the provisional ball, which is now in play, and the other ball 
 treated as the original ball, which is no longer in play, and must not be played.
 163
 
+[[PAGE 166]]
 Rule 18
 DIAGRAM 18.3c: PROVISIONAL BALL PLAYED FROM SPOT NEARER HOLE
 THAN WHERE ORIGINAL BALL IS ESTIMATED TO BE
@@ -4628,6 +4777,7 @@ an abnormal course condition (see Rule 16.1e), or
 • Was deliberately deflected or stopped by any person (see Rule 11.2c).
 164
 
+[[PAGE 167]]
 Rule 18
 When one of those Rules applies, the player may either:
 • Substitute another ball as allowed under that Rule, or
@@ -4656,6 +4806,7 @@ under Rule 1.2a if it decides that this was serious misconduct contrary to the
 spirit of the game.
 165
 
+[[PAGE 168]]
 Rule 19
 RULE
 19
@@ -4685,6 +4836,7 @@ The player may play the original ball or another ball from where the previous st
 was made (see Rule 14.6).
 166
 
+[[PAGE 169]]
 Rule 19
 19.2b Back-on-the-Line Relief
 The player may drop the original ball or another ball (see Rule 14.3) behind the
@@ -4717,6 +4869,7 @@ Penalty for Playing Ball from a Wrong Place in Breach of Rule 19.2: General Pena
 Under Rule 14.7a.
 167
 
+[[PAGE 170]]
 Rule 19
 DIAGRAM 19.2: RELIEF OPTIONS FOR UNPLAYABLE BALL IN GENERAL AREA
 Spot dropped ball first touches line
@@ -4737,6 +4890,7 @@ must be dropped in and played from the two club-length relief area, which is no 
 hole than the reference point.
 168
 
+[[PAGE 171]]
 Rule 19
 19.3 Relief Options for Unplayable Ball in Bunker
 19.3a Normal Relief Options (One Penalty Stroke)
@@ -4765,6 +4919,7 @@ A player decides that their ball in a bunker is unplayable. The player has four 
 (4) For a total of two penalty strokes, the player may take back-on-the-line relief outside the bunker.
 169
 
+[[PAGE 172]]
 Rule 19
 19.3b Extra Relief Option (Two Penalty Strokes)
 As an extra relief option when a player’s ball is in a bunker, for a total of two
@@ -4776,6 +4931,7 @@ Penalty for Playing Ball from a Wrong Place in Breach of Rule 19.3: General Pena
 Under Rule 14.7a.
 170
 
+[[PAGE 174]]
 Rule 20
 RULE
 Resolving Rules Issues During Round;
@@ -4809,6 +4965,7 @@ In the absence of a referee, if the players do not agree or have doubt about how
 the Rules apply, either player may request a ruling under Rule 20.1b(2).
 172
 
+[[PAGE 175]]
 Rule 20
 (2) Ruling Request Made Before Result of Match Is Final. When a player wants a
 referee or the Committee to decide how to apply the Rules to their own play or the
@@ -4840,6 +4997,7 @@ just completed, and
 time (as set out above).
 173
 
+[[PAGE 176]]
 Rule 20
 (3) Ruling Request Made After Result of Match Is Final. When a player makes a
 request for a ruling after the result of the match is final:
@@ -4878,6 +5036,7 @@ the right procedure while playing a hole may complete the hole with two balls
 without penalty:
 174
 
+[[PAGE 177]]
 Rule 20
 • The player must decide to play two balls after the uncertain situation arises
 and before making a stroke.
@@ -4917,6 +5076,7 @@ was put in play under the right procedure, in the right way and in the right pla
 under the Rules.
 175
 
+[[PAGE 178]]
 Rule 20
 20.2 Rulings on Issues Under the Rules
 20.2a Rulings by Referee
@@ -4950,6 +5110,7 @@ establishing a breach (such as where the player felt the club touch sand in a
 bunker even though that could not be seen by the naked eye).
 176
 
+[[PAGE 179]]
 Rule 20
 20.2d Wrong Rulings and Administrative Mistakes
 (1) Wrong Rulings. A wrong ruling has occurred when a referee or the Committee has
@@ -4988,6 +5149,7 @@ For when the Committee will give a ruling when a request is made after the resul
 of the match is final, see Rule 20.1b(3).
 177
 
+[[PAGE 180]]
 Rule 20
 (2) Stroke Play. Normally, a penalty must not be added or corrected after a
 stroke-play competition has closed, which is:
@@ -5020,6 +5182,7 @@ Any situation not covered by the Rules should be decided by the Committee:
 similar situations are treated under the Rules.
 178
 
+[[PAGE 182]]
 Rule 21
 RULE
 Other Forms of Individual Stroke Play
@@ -5050,6 +5213,7 @@ comparing the player’s score to the fixed target score for the hole, which is 
 unless the Committee sets a different fixed target score:
 180
 
+[[PAGE 183]]
 Rule 21
 Hole Played In Points
 More than one over fixed target score or no score returned 0
@@ -5083,6 +5247,7 @@ encourage but not require players to enter the points awarded for each hole on
 the scorecard).
 181
 
+[[PAGE 184]]
 Rule 21
 DIAGRAM 21.1b: SCORING IN SCRATCH STABLEFORD
 Name: John Smith Date: 01/03/23
@@ -5118,6 +5283,7 @@ After applying any penalty strokes, the player’s Stableford score for a hole c
 lower than zero points.
 182
 
+[[PAGE 185]]
 Rule 21
 21.1d Exception to Rule 11.2 in Stableford
 Rule 11.2 does not apply in this situation:
@@ -5155,6 +5321,7 @@ The hole is completed when the player holes out, chooses not to do so or when
 their score has reached the maximum.
 183
 
+[[PAGE 186]]
 Rule 21
 (2) Score Entered for Each Hole. To meet the requirements in Rule 3.3b for entering
 hole scores on the scorecard:
@@ -5192,6 +5359,7 @@ when there is no reasonable chance it can be holed, there is no penalty to that
 person and the player gets the maximum score on the hole.
 184
 
+[[PAGE 187]]
 Rule 21
 21.2e When Round Ends in Maximum Score
 A player’s round ends when the player:
@@ -5229,6 +5397,7 @@ The hole is completed when the player holes out, chooses not to do so or when
 their score exceeds the fixed score.
 185
 
+[[PAGE 188]]
 Rule 21
 (2) Score Entered for Each Hole. To meet the requirements in Rule 3.3b for entering
 hole scores on the scorecard:
@@ -5265,6 +5434,7 @@ disqualified.
 After applying any penalty stroke, the player can do no worse than lose the hole.
 186
 
+[[PAGE 189]]
 Rule 21
 21.3d Exception to Rule 11.2 in Par/Bogey
 Rule 11.2 does not apply in this situation:
@@ -5296,6 +5466,7 @@ If a player’s stroke is cancelled only in one match:
 each match.
 187
 
+[[PAGE 190]]
 Rule 21
 21.4c Ball or Ball-Marker Lifted or Moved by One Opponent
 If an opponent gets one penalty stroke for lifting a player’s ball or ball-marker or
@@ -5310,6 +5481,7 @@ See Committee Procedures, Section 9 (recommended ways to adapt the Rules for
 other common forms of play).
 188
 
+[[PAGE 191]]
 Rule 22
 RULE
 Foursomes (Also Known
@@ -5346,6 +5518,7 @@ In stroke play, only one of the partners needs to certify the side’s hole scor
 scorecard (see Rule 3.3b).
 189
 
+[[PAGE 192]]
 Rule 22
 22.3 Side Must Alternate in Making Strokes
 On each hole, the partners must make each stroke for the side in alternating order:
@@ -5377,6 +5550,7 @@ round, unless the Terms of the Competition say which partner must play first.
 The side’s round starts when that partner makes a stroke to start the side’s first hole.
 190
 
+[[PAGE 193]]
 Rule 22
 22.4b Starting Time and Starting Point
 Rule 5.3a applies differently to each partner based on who will play first for the side:
@@ -5397,6 +5571,7 @@ to gain information for the side’s next stroke.
 Penalty for Breach of Rule 22.6: General Penalty.
 191
 
+[[PAGE 194]]
 Rule 23
 RULE
 23
@@ -5431,6 +5606,7 @@ conceded or otherwise lost the hole.
 under Rule 3.3c.
 192
 
+[[PAGE 195]]
 Rule 23
 23.2b Side’s Scorecard in Stroke Play
 (1) Side’s Responsibility. The side’s gross scores for each hole must be entered on a
@@ -5466,6 +5642,7 @@ chance it can be holed, there is no penalty to that person and the player’s ba
 not count for the side.
 193
 
+[[PAGE 196]]
 Rule 23
 DIAGRAM 23.2b: SCORING IN SCRATCH FOUR-BALL STROKE PLAY
 Names: John Smith and Kate Smith Date: 10/05/23
@@ -5499,6 +5676,7 @@ partner holing out on the final hole and the other partner choosing not to do so
 » Both partners have holed out or had their next strokes conceded,
 194
 
+[[PAGE 197]]
 Rule 23
 » One partner has holed out or had their next stroke conceded and the other partner
 either chooses not to hole out or has a score that cannot count for the side, or
@@ -5538,6 +5716,7 @@ In stroke play, partners must not agree with each other to leave a ball in place
 putting green to help either of them or any other player (see Rule 15.3a).
 195
 
+[[PAGE 198]]
 Rule 23
 23.5b Partner Is Responsible for Player’s Actions
 Any action taken by the player concerning the partner’s ball or equipment is treated
@@ -5573,6 +5752,7 @@ to gain information for their (the player’s) next stroke.
 Penalty for Breach of Rule 23.8: General Penalty.
 196
 
+[[PAGE 199]]
 Rule 23
 23.9 When Penalty Applies to One Partner Only or Applies to
 Both Partners
@@ -5610,6 +5790,7 @@ either partner gets a penalty of disqualification under any of these Rules:
 • Rule 4.1c Procedure for Taking Clubs Out of Play
 197
 
+[[PAGE 200]]
 Rule 23
 • Rule 4.2a Balls Allowed In Play of Round
 • Rule 4.3 Use of Equipment
@@ -5645,6 +5826,7 @@ In match play, if both partners breach such a Rule on the same hole, the
 side loses the hole.
 198
 
+[[PAGE 201]]
 Rule 24
 RULE
 24
@@ -5678,6 +5860,7 @@ players on the team during a round and who may be asked for advice by players on
 the team:
 199
 
+[[PAGE 202]]
 Rule 24
 • The advice giver may be the team captain, a team coach or other person (including
 a team member playing in the competition).
@@ -5704,6 +5887,7 @@ same group to give each other advice even if they are not partners).
 Penalty for Breach of Rule 24.4: General Penalty Under Rule 10.2a.
 200
 
+[[PAGE 204]]
 Rule 25
 RULE
 Modifications for Players
@@ -5735,6 +5919,7 @@ See Committee Procedures, Section 5D (for guidance on player eligibility, and fo
 additional guidance on Rule 25 and competitions involving players with disabilities).
 202
 
+[[PAGE 205]]
 Rule 25
 25.2 Modifications for Players Who Are Blind
 Purpose of Rule:
@@ -5766,6 +5951,7 @@ or position their feet). But the object must be removed before the stroke is mad
 is not, the player gets the general penalty for a breach of Rule 10.2b(3).
 203
 
+[[PAGE 206]]
 Rule 25
 25.2d Modification of Rule 10.2b(4) (Restricted Area for Caddie Before
 Player Makes Stroke)
@@ -5800,6 +5986,7 @@ player’s aide, in addition to their caddie, may lift the ball without the play
 authorization.
 204
 
+[[PAGE 207]]
 Rule 25
 25.2h Help with Dropping, Placing and Replacing Ball
 For a player who is blind, all Rules that require the player to drop, place or replace a
@@ -5833,6 +6020,7 @@ modified to allow the player to replace the ball either by hand or by using anot
 piece of equipment (such as rolling the ball with a club).
 205
 
+[[PAGE 208]]
 Rule 25
 25.4 Modifications for Players Who Use Assistive Mobility Devices
 Purpose of Rule:
@@ -5868,6 +6056,7 @@ For purposes of Rule 10.2a, a player may ask for and get advice from both an aid
 and a caddie at the same time.
 206
 
+[[PAGE 209]]
 Rule 25
 25.4c Player Allowed Only One Aide
 A player who uses an assistive mobility device may have only one aide at a time.
@@ -5903,6 +6092,7 @@ For a player who uses an assistive mobility device, Rule 8.1b(5) is modified so 
 stance and to try to avoid slipping.
 207
 
+[[PAGE 210]]
 Rule 25
 But this modification does not allow the player to go beyond that by building a
 stance so that the assistive mobility device will not slip during the swing, such as by
@@ -5937,6 +6127,7 @@ a player’s ball in motion played from a putting green accidentally hits the as
 mobility device, the ball must be played as it lies.
 208
 
+[[PAGE 211]]
 Rule 25
 25.4l Application of Rule 12.2b(1) in Using Assistive Mobility Device to
 Test Conditions of Sand in Bunker
@@ -5960,6 +6151,7 @@ a bunker, Rule 19.3b is modified so that the player may take back-on-the-line re
 outside that bunker for one penalty stroke.
 209
 
+[[PAGE 212]]
 Rule 25
 25.5 Modifications for Players with Intellectual Disabilities
 Purpose of Rule:
@@ -5989,6 +6181,7 @@ each hole where that breach happened, in the same way as provided in Rule 10.3a(
 (Player Allowed Only One Caddie at a Time).
 210
 
+[[PAGE 213]]
 Rule 25
 25.5c Modification of Rule 10.3 (Caddies)
 The aide for a player with an intellectual disability may also serve as the player’s
@@ -6021,6 +6214,7 @@ the competition and the extent of the disabilities of the players competing.
 more relaxed interpretation of what constitutes unreasonable delay.
 211
 
+[[PAGE 214]]
 Rule 25
 25.6b Dropping
 In applying Rule 14.3b (Ball Must Be Dropped in Right Way), because physical
@@ -6033,6 +6227,7 @@ See Committee Procedures, Section 5D (providing additional guidance on Rule 25
 and competitions involving players with disabilities).
 212
 
+[[PAGE 216]]
 RDuelfien 1i2tions
 Abnormal Course Condition
 Any of these four defined conditions:
@@ -6068,6 +6263,7 @@ An animal hole does not include animal footprints that are not part of a worn do
 track or trail leading into an animal hole.
 214
 
+[[PAGE 217]]
 DefinRituiolen xs
 Areas of the Course
 The five defined areas that make up the course:
@@ -6101,6 +6297,7 @@ stacked turf or artificial materials,
 area (such as grass, bushes or trees),
 215
 
+[[PAGE 218]]
 RDuelfien 1i2tions
 • Sand that has spilled over or is outside the edge of a prepared area, and
 • All other areas of sand on the course that are not inside the edge of a prepared
@@ -6139,6 +6336,7 @@ Committee
 The person or group in charge of the competition or the course.
 216
 
+[[PAGE 219]]
 DefinRituiolen xs
 Conditions Affecting the Stroke
 The lie of the player’s ball at rest, the area of intended stance, the area of intended
@@ -6176,6 +6374,7 @@ A ball does not necessarily have to touch soil to be embedded (for example, gras
 and loose impediments may be between the ball and the soil).
 217
 
+[[PAGE 220]]
 RDuelfien 1i2tions
 Equipment
 Anything used, worn, held or carried by the player or the player’s caddie.
@@ -6209,6 +6408,7 @@ partners and another side of two partners or a stroke-play competition among
 multiple sides of two partners.
 218
 
+[[PAGE 221]]
 DefinRituiolen xs
 General Area
 The area of the course that covers all of the course except for the other four defined
@@ -6245,6 +6445,7 @@ player’s stroke or stance might damage it, except when the habitat has been ma
 by animals that are defined as loose impediments (such as worms or insects).
 219
 
+[[PAGE 222]]
 RDuelfien 1i2tions
 The edge of ground under repair should be defined by stakes, lines or
 physical features:
@@ -6282,6 +6483,7 @@ For the special case of a ball resting against the flagstick in the hole, see Ru
 green).
 220
 
+[[PAGE 223]]
 DefinRituiolen xs
 Honour
 The right of a player to play first from the teeing area (see Rule 6.4).
@@ -6317,6 +6519,7 @@ When a ball-marker is in place to mark the spot of a ball in play:
 been removed.
 221
 
+[[PAGE 224]]
 RDuelfien 1i2tions
 Integral Object
 An artificial object defined by the Committee as part of the challenge of playing the
@@ -6354,6 +6557,7 @@ The line of play is not necessarily a straight line between two points (for exam
 may be a curved line based on where the player intends the ball to go).
 222
 
+[[PAGE 225]]
 DefinRituiolen xs
 Loose Impediment
 Any unattached natural object such as:
@@ -6391,6 +6595,7 @@ count, and
 both before the interruption and after the search resumes.
 223
 
+[[PAGE 226]]
 RDuelfien 1i2tions
 Mark
 To show the spot where a ball is at rest by either:
@@ -6425,6 +6630,7 @@ of an attached cable) meets these two standards, that part is treated as a movab
 obstruction.
 224
 
+[[PAGE 227]]
 DefinRituiolen xs
 But this does not apply if the movable part of an immovable obstruction or integral
 object is not meant to be moved (such as a loose stone that is part of a stone wall).
@@ -6463,6 +6669,7 @@ which relief is allowed, the player may take relief again by determining a new
 nearest point of complete relief from the new condition.
 225
 
+[[PAGE 228]]
 RDuelfien 1i2tions
 • Relief must be taken separately for each condition, except that the player
 may take relief from both conditions at the same time (based on determining
@@ -6500,6 +6707,7 @@ Paint dots and lines, such as those used to define boundaries and penalty areas,
 not obstructions.
 226
 
+[[PAGE 229]]
 DefinRituiolen xs
 See Committee Procedures, Section 8; Model Local Rule F-23 (Committee may adopt
 a Local Rule defining certain obstructions as temporary immovable obstructions for
@@ -6538,6 +6746,7 @@ to treat a boundary fence in a different way, the Committee should define the
 boundary edge.
 227
 
+[[PAGE 230]]
 RDuelfien 1i2tions
 • Lines: When defined by a painted line on the ground, the boundary edge is the
 course-side edge of the line, and the line itself is out of bounds.
@@ -6574,6 +6783,7 @@ lateral relief option (Rule 17.1d(3)), in addition to the two relief options ava
 for yellow penalty areas.
 228
 
+[[PAGE 231]]
 DefinRituiolen xs
 If the colour of a penalty area has not been marked or indicated by the Committee, it
 is treated as a red penalty area.
@@ -6615,6 +6825,7 @@ bunker (Rule 16.1c) or on the putting green (Rule 16.1d) when there is no neares
 point of complete relief.
 229
 
+[[PAGE 232]]
 RDuelfien 1i2tions
 It is the estimated point where the ball would lie that is:
 • Nearest to the ball’s original spot, but not nearer the hole than that spot,
@@ -6651,6 +6862,7 @@ is used).
 The putting green for a hole contains the hole into which the player tries to play a ball.
 230
 
+[[PAGE 233]]
 DefinRituiolen xs
 The putting green is one of the five defined areas of the course. The putting greens
 for all other holes (which the player is not playing at the time) are wrong greens and
@@ -6689,6 +6901,7 @@ entire round or to monitor multiple groups, certain holes or parts of the course
 A referee’s duties may be limited by the Committee in match play and stroke play.
 231
 
+[[PAGE 234]]
 RDuelfien 1i2tions
 Relief Area
 The area where a player must drop a ball when taking relief under a Rule. With the
@@ -6723,6 +6936,7 @@ See Committee Procedures, Section 2I (Committee may choose to allow or require
 the player to use a dropping zone as a relief area when taking certain relief).
 232
 
+[[PAGE 235]]
 DefinRituiolen xs
 Replace
 To place a ball by setting it down by hand and letting it go, with the intent for it to
@@ -6757,6 +6971,7 @@ The concept of a serious breach does not apply in match play, because a player l
 the hole if they play from a wrong place.
 233
 
+[[PAGE 236]]
 RDuelfien 1i2tions
 Side
 Two or more partners competing as a single unit in a round in match play or stroke
@@ -6791,6 +7006,7 @@ The player’s score for a hole or a round is described as a number of “stroke
 Rule 3.1c).
 234
 
+[[PAGE 237]]
 DefinRituiolen xs
 Stroke and Distance
 The procedure and penalty when a player takes relief under Rule 17, 18 or 19 by
@@ -6826,6 +7042,7 @@ A substituted ball is the player’s ball in play even if:
 than to substitute another ball.
 235
 
+[[PAGE 238]]
 RDuelfien 1i2tions
 Tee
 An object used to raise a ball above the ground to play it from the teeing area. It
@@ -6856,6 +7073,7 @@ the ground, temporary water, at the player’s option.
 • Manufactured Ice is an obstruction.
 236
 
+[[PAGE 239]]
 DefinRituiolen xs
 Three-Ball
 A form of match play where:
@@ -6884,6 +7102,7 @@ excludes them by Local Rule.
 Wrong greens are part of the general area.
 237
 
+[[PAGE 240]]
 RDuelfien 1i2tions
 Wrong Place
 Any place on the course other than where the player is required or allowed to play
@@ -6903,6 +7122,7 @@ hole or in trying to correct that mistake (see Rule 6.1b), or
 failed to replay a stroke when required to do so.
 238
 
+[[PAGE 258]]
 Other Publications
 Rules of Amateur Status
 Amateur golf has a well-established tradition in the game, including a history of

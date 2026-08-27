@@ -1,3 +1,4 @@
+[[PAGE 2]]
 The plan below has been put separated into experimental, calibration, performance and transference
 training types.
 For all measurements, get a piece of string tied around a tent peg. Make coloured markings on the string
@@ -18,6 +19,7 @@ Short putt face control (differential)
 clubface start line.
 • See how extreme you can have the face offline and still hole the putt
 
+[[PAGE 3]]
 Short putt face control (variability drill)
 • Set up 3 shots on a 6 ft putt – one straight, one right to left and one left to right
 • Alternate each time – always keeping your clubface aligned to your intended start line
@@ -45,6 +47,7 @@ o Repeat for a total of 10 balls
 • If your weekly average is more than 70%, repeat the drill but vary between a 30 foot and a 40
 foot putt
 
+[[PAGE 4]]
 Lag putt tempo
 • Set up a 30 foot, 40 foot and 50 foot putt
 • Set a metronome to 40 bmp and hit a putt from each area
@@ -69,6 +72,7 @@ o It doesn’t matter if you get it exact, as long as this is your attempt
 • This will equal 9 shots – hit the with a normal ground strike from 20 yards
 • Score 1pt for within 8ft, and 2 pts for within 4 ft of the hole
 
+[[PAGE 5]]
 Chipping Technique change
 • Hit 10 chips from either 20 yards or 30 yards
 o Chip 1 = normal
@@ -97,6 +101,7 @@ Face Strike (differential)
 • This will equal 9 shots – hit the tenth from the middle of the club from 60 yards
 • Score 1pt for within 12ft, and 2 pts for within 6 ft of the hole
 
+[[PAGE 6]]
 Pitching trajectory (Variability)
 • Set up a Pitch from 40, 60, 80, 100 and 120 yards
 • Vary between a higher, lower and mid trajectory
@@ -124,6 +129,7 @@ or starting 6 inches behind the ball on the ground (like Moe norman)
 • Make sure to do each start position twice from each distance, totaling 30 balls
 • Score 1pt for inside 12 ft, 2 pts for inside 6ft
 
+[[PAGE 7]]
 Bunker Drills
 Ground Strike (differential)
 • Choose a standard bunker shot
@@ -150,6 +156,7 @@ o Ball middle of stance (deep, middle and shallow divot)
 o Ball forward in stance (deep, middle and shallow divot)
 o Ball back in stance (deep, middle and shallow)
 
+[[PAGE 8]]
 This type of training is designed to get back to equilibrium and start honing in on a desired technique.
 Pitching
 • Play two pitch shots from 40, 60, 80, 100 and 120
@@ -167,6 +174,7 @@ speed or face direction) using the chipping calibration sheet in the worksheets 
 isolate that component. Hit 10-20 shots increasing your focus on face strike mainly, until you get
 it where you deem fit. Repeat the process
 
+[[PAGE 9]]
 Lag Putting
 Attempt a neutral (standard) technique. Hit longer lag putts – note down if the predominant fault was
 speed, start direction or read. Based on the predominant fault, isolate that area and do the following
@@ -190,11 +198,13 @@ Read issues - note down if the miss is predominantly low or high. Find a 6ft bre
 on the low side (for low side faults) and play a game where you get 1 point for holing, minus a point for
 hitting the stick and nothing for missing high. Reverse this if your predominant miss is high side
 
+[[PAGE 10]]
 With all of these tests, you will quickly figure out what does and what doesn’t work. Try to stick with
 something and continue to test it, even if it doesn’t work initially. However, feel free to discard some of
 the foci from your testing should you deem it impossible. E.g. in chipping, I absolutely hate focusing on
 the landing area, so I don’t bother testing it anymore personally.
 
+[[PAGE 11]]
 Lag Putting
 The ladder drill
 • Start 3 yards from the hole.
@@ -213,6 +223,7 @@ on it and visualize the ball rolling at the right speed into the cup
 Focus 4 = External wide - Imagine a 3ft big hole around the ball
 (dustbin lid) and try to ease the ball into that area
 
+[[PAGE 12]]
 Short Putting
 When inside your scoring range, you may decide that a different focus of attention improves your
 performance. This will test a short putt focus
@@ -231,6 +242,7 @@ Focus 3 = External narrow – focus on a small part of the back of the cup
 Focus 4 = External wide - focus on the whole hole
 Focus 5 = Technical - something you are working on in your technique
 
+[[PAGE 13]]
 Chipping Performance
 Different lies and shots will need different focuses, but you can still test for these if you have enough
 time.
@@ -255,6 +267,7 @@ In the hole 20
 15-25ft 1.5
 See which focus you score the most points with – use this focus for your transference games
 
+[[PAGE 14]]
 Pitching Performance
 Pitching test
 • Play a 2 shot from 40, 60, 80, 100 and 120 yards (10 balls total)
@@ -278,6 +291,7 @@ Distance from pin Score
 Missed green -1.5
 See which focus you score the most points with – use this in the transference stage
 
+[[PAGE 15]]
 The main goal of transference training is to create game based situations where you can test retaining
 your performance focuses.
 These games should also be recorded so you can aim to beat them each week and try to induce self
@@ -293,6 +307,7 @@ http://golfstateofmind.com/seal-deal-better-putting/
 Play 18 holes on the putting green selecting 6 long, 6 short and 6 mid length putts. Keep a scorecard and
 repeat as necessary
 
+[[PAGE 16]]
 Par 36
 Select 6 easy, 6 middle and 6 difficult up and down shots. Play the chip shot and putt out as if a real
 miniature golf hole. Keep score, with par being 2 for each hole.
@@ -309,6 +324,7 @@ Chip from 15 yards. A successful level is complete when you hit one ball long of
 and one in between – AND the distance between front and back ball is 20 feet or less. Move back 5
 yards as you complete the level. Go back a level after 3 failed attempts.
 
+[[PAGE 17]]
 Short game Assault Course
 Start with 10 balls, the aim is to get as many balls through to the next round. You complete the level
 when you have got at least one ball through all 5 rounds.

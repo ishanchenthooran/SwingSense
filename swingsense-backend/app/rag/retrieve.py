@@ -10,7 +10,7 @@ from openai import OpenAI
 
 from app.core.config import settings
 from app.rag.schemas import Chunk, RetrievedChunk
-from app.rag.store import load_index
+from app.rag.store import DEFAULT_TOP_K, load_index
 
 
 EMBED_MODEL = "text-embedding-3-small"
@@ -35,7 +35,7 @@ def embed_query(text: str) -> np.ndarray:
     return vector
 
 
-def retrieve(query: str, k: int = 5) -> List[RetrievedChunk]:
+def retrieve(query: str, k: int = DEFAULT_TOP_K) -> List[RetrievedChunk]:
     if not query.strip():
         return []
 
@@ -66,18 +66,19 @@ def _format_result(result: RetrievedChunk) -> str:
     title = chunk.title or "Untitled"
     preview = chunk.text.replace("\n", " ")[:160]
     source = chunk.source or "unknown"
+    page = chunk.page if chunk.page is not None else "n/a"
     url = chunk.url or "n/a"
     tags = ", ".join(chunk.tags) if chunk.tags else "n/a"
     return (
         f"- score={result.score:.4f} | chunk_id={chunk.id} | title={title} | "
-        f"source={source} | url={url} | tags={tags} | text={preview}"
+        f"source={source} | page={page} | url={url} | tags={tags} | text={preview}"
     )
 
 
 def _parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Retrieve chunks from FAISS index.")
     parser.add_argument("query", type=str, help="Query text to retrieve against.")
-    parser.add_argument("--k", type=int, default=5, help="Number of results to return.")
+    parser.add_argument("--k", type=int, default=DEFAULT_TOP_K, help="Number of results to return.")
     return parser.parse_args()
 
 
