@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import re
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Iterable, List, Sequence, Tuple
@@ -12,11 +13,12 @@ from openai import OpenAI
 from app.core.config import settings
 from app.rag.schemas import Chunk
 from app.rag.store import DEFAULT_INDEX_DIR, load_index_and_metadata, save_index
+from app.rag.toc_filter import is_toc_like
 
 
 EMBED_MODEL = "text-embedding-3-small"
-DEFAULT_CHUNK_SIZE = 800
-DEFAULT_CHUNK_OVERLAP = 150
+DEFAULT_CHUNK_SIZE = 1200
+DEFAULT_CHUNK_OVERLAP = 100  # only used in hard-split fallback for oversized sentences
 DEFAULT_K = 3
 CORPUS_DIR = Path(__file__).parent / "corpus"
 
@@ -70,29 +72,52 @@ def _infer_title(path: Path, text: str) -> str:
     return path.stem
 
 
-def _chunk_text(text: str, chunk_size: int, overlap: int) -> List[str]:
+def _chunk_text(text: str, chunk_size: int = DEFAULT_CHUNK_SIZE, overlap: int = DEFAULT_CHUNK_OVERLAP) -> List[str]:
+    """Split text on page boundaries (\n\n), then fall back to sentence-aware splitting
+    for blocks that exceed chunk_size. overlap is only used when a single sentence itself
+    exceeds chunk_size and must be hard-split."""
     if chunk_size <= 0:
         raise ValueError("chunk_size must be positive")
-    if overlap < 0 or overlap >= chunk_size:
-        raise ValueError("overlap must be >= 0 and < chunk_size")
 
     chunks: List[str] = []
-    start = 0
-    step = chunk_size - overlap
-    while start < len(text):
-        end = min(start + chunk_size, len(text))
-        chunk = text[start:end].strip()
-        if chunk:
-            chunks.append(chunk)
-        start += step
-    return chunks
+    blocks = [b.strip() for b in text.split("\n\n") if b.strip()]
+    blocks = [b for b in blocks if not is_toc_like(b)]
+
+    for block in blocks:
+        if len(block) <= chunk_size:
+            chunks.append(block)
+            continue
+
+        # Sentence-aware split for long blocks
+        sentences = re.split(r"(?<=[.!?])\s+(?=[A-Z])", block)
+        current = ""
+        for sentence in sentences:
+            if not current:
+                current = sentence
+            elif len(current) + 1 + len(sentence) <= chunk_size:
+                current = current + " " + sentence
+            else:
+                chunks.append(current)
+                if len(sentence) > chunk_size:
+                    # Hard-split oversized single sentence with overlap
+                    start = 0
+                    while start < len(sentence):
+                        chunks.append(sentence[start : start + chunk_size])
+                        start += chunk_size - overlap
+                    current = ""
+                else:
+                    current = sentence
+        if current:
+            chunks.append(current)
+
+    return [c for c in chunks if c.strip()]
 
 
 def _build_chunks(documents: Sequence[Document]) -> List[Chunk]:
     chunks: List[Chunk] = []
     chunk_id = 0
     for doc in documents:
-        for segment in _chunk_text(doc.text, DEFAULT_CHUNK_SIZE, DEFAULT_CHUNK_OVERLAP):
+        for segment in _chunk_text(doc.text):
             chunks.append(
                 Chunk(
                     id=str(chunk_id),
