@@ -9,7 +9,8 @@ interface Resource {
   id: number;
   title: string;
   description: string;
-  url: string;
+  url: string | null;
+  citation: string;
 }
 
 export default function Resources() {
@@ -166,15 +167,21 @@ export default function Resources() {
                         <p className="text-gray-600 mb-3">
                           {resource.description}
                         </p>
-                        <a
-                          href={resource.url}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="inline-flex items-center space-x-2 text-golf-600 hover:text-golf-700 font-medium transition-colors duration-200"
-                        >
-                          <span>View Resource</span>
-                          <ExternalLink className="w-4 h-4" />
-                        </a>
+                        {resource.url ? (
+                          <a
+                            href={resource.url}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="inline-flex items-center space-x-2 text-golf-600 hover:text-golf-700 font-medium transition-colors duration-200"
+                          >
+                            <span>View Resource</span>
+                            <ExternalLink className="w-4 h-4" />
+                          </a>
+                        ) : (
+                          <p className="text-sm text-gray-500 italic">
+                            Source: {resource.citation}
+                          </p>
+                        )}
                       </div>
                     </div>
                   </div>
