@@ -9,16 +9,18 @@ from __future__ import annotations
 
 import pytest
 
-from scripts.validate_retrieval import MIN_TOP1_SCORE, QUESTIONS, evaluate_query
+from scripts.validate_retrieval import QUESTIONS, evaluate_query, min_score_for
 
 
 @pytest.mark.parametrize("question", QUESTIONS)
 def test_retrieval_quality(question: str) -> None:
     check = evaluate_query(question)
 
-    assert check.top1_score >= MIN_TOP1_SCORE, (
-        f"Top-1 score {check.top1_score:.4f} below {MIN_TOP1_SCORE} for query: {question!r}"
+    floor = min_score_for(question)
+    assert check.top1_score >= floor, (
+        f"Top-1 score {check.top1_score:.4f} below {floor} for query: {question!r}"
     )
+    assert check.source_ok, f"Unexpected top-1 source {check.top1_source!r} for query: {question!r}"
     assert not check.toc_chunk_ids, (
         f"TOC-like chunk(s) {check.toc_chunk_ids} leaked into top-5 for query: {question!r}"
     )

@@ -62,14 +62,32 @@ def _load_corpus(corpus_dir: Path) -> List[Document]:
 
 
 def _infer_title(path: Path, text: str) -> str:
-    for line in text.splitlines():
-        stripped = line.strip()
-        if not stripped or _PAGE_MARKER_RE.match(stripped):
-            continue
-        if stripped.startswith("#"):
-            return stripped.lstrip("#").strip() or path.stem
-        return stripped[:80]
-    return path.stem
+    """Stable per-document title derived from the filename.
+
+    Corpus files are named "<Title-Words>_<AuthorOrPublisher>" (e.g.
+    "Golf-Drills_GolfAcademy.txt" -> "Golf Drills (Golf Academy)"). Filenames are
+    used instead of in-text headings because the first heading-like line is
+    often a generic section header ("Introduction") or disclaimer text.
+    An explicit markdown "# Heading" on the first non-empty line still wins for
+    .md files, which have no PDF-derived filename.
+    """
+    if path.suffix.lower() == ".md":
+        for line in text.splitlines():
+            stripped = line.strip()
+            if not stripped:
+                continue
+            if stripped.startswith("#"):
+                heading = stripped.lstrip("#").strip()
+                if heading:
+                    return heading
+            break
+
+    name, _, author = path.stem.partition("_")
+    title = re.sub(r"[-_\s]+", " ", name).strip()
+    if not title:
+        return path.stem
+    author = re.sub(r"(?<=[a-z])(?=[A-Z])", " ", author).strip()
+    return f"{title} ({author})" if author else title
 
 
 def _chunk_text(
