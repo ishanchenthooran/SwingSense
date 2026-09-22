@@ -15,13 +15,20 @@ router = APIRouter()
 NUM_RESOURCES = 3
 CANDIDATE_K = 10  # over-fetch so we can keep one chunk per source page
 FALLBACK_CHARS = 240
+# Same floor scripts/validate_retrieval.py's quality gate uses for a "good"
+# top-1 match. Below this, corpus coverage for the issue is too thin to
+# present the match as a confident answer (CLAUDE.md §1/§7: don't present
+# weak matches as if they were solid).
+MIN_CONFIDENCE_SCORE = 0.5
 
 
 def _pick_resources(results: List[RetrievedChunk]) -> List[RetrievedChunk]:
-    """Top-scoring chunks, at most one per (source, page)."""
+    """Top-scoring chunks above the confidence floor, at most one per (source, page)."""
     picked: List[RetrievedChunk] = []
     seen = set()
     for r in results:
+        if r.score < MIN_CONFIDENCE_SCORE:
+            continue
         key = (r.chunk.source, r.chunk.page)
         if key in seen:
             continue
@@ -130,4 +137,12 @@ async def get_resources(
             "score": round(r.score, 4),
         })
 
-    return {"resources": resources, "filter": issue, "user_id": current_user["user_id"]}
+    response: Dict[str, Any] = {"resources": resources, "filter": issue, "user_id": current_user["user_id"]}
+    if len(resources) < NUM_RESOURCES:
+        response["note"] = (
+            "Corpus coverage for this issue is limited, so fewer high-confidence "
+            "resources were found than usual."
+            if resources
+            else "The corpus doesn't have strong coverage for this issue yet."
+        )
+    return response
