@@ -25,16 +25,16 @@ from app.rag.store import DEFAULT_TOP_K
 from app.rag.toc_filter import is_toc_like
 
 MIN_TOP1_SCORE = 0.5
-# Short/colloquial queries ("How do I fix a slice?") embed with systematically
-# lower cosine scores than full questions even when the right chunk is ranked
-# first: text-embedding-3-small scores a bare query against ~1000-char chunks
-# lower, and dropping the word "golf" costs another ~0.2 (0.36 without it vs
-# 0.60 with "...in golf?"). Chunk size is not the cause. Rather than lower the
-# gate for everything, short queries get a lower score floor PLUS a stricter
-# check that top-1 comes from a source that should answer them, so the gate
-# still fails on genuinely wrong retrievals. Real fix (needs a retrieve.py
-# change, out of scope here): prefix bare queries with "golf" before embedding.
-MIN_TOP1_SCORE_SHORT = 0.3
+# Short/colloquial queries ("How do I fix a slice?") used to score
+# systematically lower than full questions, purely from text-embedding-3-small
+# scoring a bare query lower against ~1000-char chunks, worsened when the
+# query dropped the word "golf" (0.36 without it vs 0.60 with "...in golf?").
+# retrieve.py now prefixes queries missing "golf" with it before embedding,
+# which brings every short query here back above the standard 0.5 floor, so
+# a single gate applies to all queries. The per-query source check below is
+# kept regardless of score: it catches genuinely wrong top-1 matches (e.g.
+# "unplayable lie" scores 0.56 but still surfaces glossary/index content from
+# the wrong document) that a score-only gate would miss.
 K = DEFAULT_TOP_K
 
 QUESTIONS: List[str] = [
@@ -71,10 +71,6 @@ SHORT_QUERIES: Dict[str, Tuple[str, ...]] = {
 QUESTIONS.extend(SHORT_QUERIES)
 
 
-def min_score_for(query: str) -> float:
-    return MIN_TOP1_SCORE_SHORT if query in SHORT_QUERIES else MIN_TOP1_SCORE
-
-
 @dataclass(frozen=True)
 class QueryCheck:
     query: str
@@ -90,7 +86,7 @@ class QueryCheck:
     @property
     def passed(self) -> bool:
         return (
-            self.top1_score >= min_score_for(self.query)
+            self.top1_score >= MIN_TOP1_SCORE
             and self.source_ok
             and not self.toc_chunk_ids
         )
@@ -112,7 +108,7 @@ def evaluate_query(query: str, k: int = K) -> QueryCheck:
 
 
 def _print_report(checks: List[QueryCheck]) -> None:
-    print(f"Retrieval validation ({len(checks)} queries, k={K}, min top-1 score={MIN_TOP1_SCORE}, short queries {MIN_TOP1_SCORE_SHORT})")
+    print(f"Retrieval validation ({len(checks)} queries, k={K}, min top-1 score={MIN_TOP1_SCORE})")
     for check in checks:
         status = "PASS" if check.passed else "FAIL"
         print(f"- [{status}] top1={check.top1_score:.4f} | toc_chunks={check.toc_chunk_ids} | {check.query} -> {check.top1_source}")

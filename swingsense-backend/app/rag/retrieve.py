@@ -35,6 +35,30 @@ def embed_query(text: str) -> np.ndarray:
     return vector
 
 
+def _embed_query_for_retrieval(query: str) -> np.ndarray:
+    """Embed a query for retrieval, boosting bare/short queries that lack
+    golf context.
+
+    Short queries like "How do I fix a slice?" score ~0.2 cosine lower than
+    the same question with "golf" in it, purely from embedding-model
+    behavior against paragraph-sized corpus chunks. Simply replacing the
+    query text with "golf " + query fixes that score gap but can overcorrect:
+    for "unplayable lie", it raises the top-1 score from 0.39 to 0.56 but
+    *changes which document wins*, from the correct Golf-Rules chunk to an
+    unrelated glossary chunk in a different book. Averaging the raw query's
+    embedding with the "golf "-prefixed one keeps the correct source in that
+    case (0.49, still Golf-Rules) while still recovering most of the score
+    boost for queries where the raw embedding was already pointing at the
+    right chunk (e.g. "fix my slice" still lands correctly at 0.58, up from
+    ~0.36 with no boost at all).
+    """
+    if "golf" in query.lower():
+        return embed_query(query)
+    raw = embed_query(query)
+    boosted = embed_query(f"golf {query}")
+    return (raw + boosted) / 2.0
+
+
 def retrieve(query: str, k: int = DEFAULT_TOP_K) -> List[RetrievedChunk]:
     if not query.strip():
         return []
@@ -46,7 +70,7 @@ def retrieve(query: str, k: int = DEFAULT_TOP_K) -> List[RetrievedChunk]:
             "Missing index artifacts. Run `python -m app.rag.ingest` first."
         ) from exc
 
-    query_vector = embed_query(query).reshape(1, -1)
+    query_vector = _embed_query_for_retrieval(query).reshape(1, -1)
     faiss.normalize_L2(query_vector)
 
     scores, indices = index.search(query_vector, k)
